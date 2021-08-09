@@ -1,0 +1,2 @@
+British English; en-uk.txt
+American English; en-us.txt

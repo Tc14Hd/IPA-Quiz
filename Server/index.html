@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>IPA Quiz</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/Css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Css/style.css">
+
+</head>
+
+<body>
+
+    <!-- Header -->
+    <div class="row" id="header">
+
+        <!-- Title -->
+        <div class="col d-flex">
+            <h1 id="title">IPA Quiz</h1>
+        </div>
+
+    </div>
+
+    <!-- Menu -->
+    <div class="row align-content-center" id="menu">
+        <div class="col-10 offset-1">
+            <div class="container rounded" id="boxMenu">
+
+                <!-- Questions input -->
+                <div class="row row-fixed gap">
+
+                    <div class="col-6 d-flex">
+                        <label class="text-normal">Questions</label>
+                    </div>
+
+                    <div class="col-6 d-flex">
+                        <input type="text" class="form-control text-normal" value="5" id="inputQuestions">
+                    </div>
+
+                </div>
+
+                <!-- Language input -->
+                <div class="row row-fixed gap">
+
+                    <div class="col-6 d-flex">
+                        <label class="text-normal">Language</label>
+                    </div>
+
+                    <div class="col-6 d-flex">
+                        <select class="form-control text-normal" id="inputLanguage"></select>
+                    </div>
+
+                </div>
+
+                <!-- Start button -->
+                <div class="row">
+                    <div class="col-6 offset-3">
+                        <button type="button" class="btn btn-block" id="buttonStart">Start Quiz</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Quiz -->
+    <div class="row align-content-center" style="display: none;" id="quiz">
+        <div class="col-10 offset-1">
+
+            <!-- Score box -->
+            <div class="container rounded" id="boxScore">
+                <div class="row">
+
+                    <!-- Question number -->
+                    <div class="col-6">
+                        <div class="container rounded bg-text">
+                            <p class="text-normal" id="questionNumber"></p>
+                        </div>
+                    </div>
+
+                    <!-- Correct counter -->
+                    <div class="col-6">
+                        <div class="container rounded bg-text">
+                            <p class="text-normal" id="correctCurrect"></p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- Input box -->
+            <div class="container rounded" id="boxInput">
+
+                <!-- Transcription -->
+                <div class="container rounded bg-text gap">
+                    <p class="text-normal" id="transcription"></p>
+                </div>
+
+                <div class="row">
+
+                    <!-- Input field -->
+                    <div class="col">
+                        <input type="text" class="form-control text-center" autocomplete="off" id="inputWord">
+                    </div>
+
+                    <!-- Next question button -->
+                    <div class="col-2 offset-10" id="colButtonNext">
+                        <button type="button" class="btn" style="display: none;" id="buttonNext">
+                            <img src="/Icons/arrow-right.svg" id="symbolArrow"/>
+                        </button>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Solution box -->
+            <div class="container rounded" id="boxSolution">
+                <div class="container rounded bg-text">
+                    <p class="text-normal" id="solutionText"></p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Results -->
+    <div class="row align-content-center" style="display: none;" id="results">
+        <div class="col-10 offset-1">
+            <div class="container rounded" id="resultsBox">
+
+                <div class="row row-fixed gap">
+                    <div class="col-6 offset-3 d-flex">
+                        <p class="text-normal" id="correctFinal">Test<p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-6 offset-3">
+                        <button type="button" class="btn btn-block" id="buttonNewQuiz">New Quiz</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="/Js/jquery.min.js"></script>
+    <script src="/Js/bootstrap.min.js"></script>
+    <script src="/Js/script.js"></script>
+
+</body>
+
+</html>
