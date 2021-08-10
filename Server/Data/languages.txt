@@ -1,2 +1,2 @@
-British English; en-uk.txt
-American English; en-us.txt
+British English; en-uk-questions.txt; en-uk-help.txt
+American English; en-us-questions.txt; en-us-help.txt

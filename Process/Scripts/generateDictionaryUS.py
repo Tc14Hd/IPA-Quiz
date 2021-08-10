@@ -11,11 +11,11 @@ for line in lines:
 
     CodeToIPA[code] = ipa
 
-cmuDict = open("../Raw/cmudict-dict.txt", "r")
-lines = cmuDict.readlines()
-cmuDict.close()
+cmuDictionary = open("../Raw/cmudict-dictionary.txt", "r")
+lines = cmuDictionary.readlines()
+cmuDictionary.close()
 
-fileDicr = open("../Dict/en-us-dict.txt", "w")
+fileDictionary = open("../Dictionary/en-us-dictionary.txt", "w")
 
 for line in lines:
 
@@ -30,35 +30,35 @@ for line in lines:
     if pos != -1:
         word = word[:pos]
 
-    phonemesList = []
+    phonemes = []
     for code in lineSplit[1:]:
 
         if code[-1] == "0":
             code = code[:-1]
 
             if code == "AH":
-                phonemesList.append("ə")
+                phonemes.append("ə")
                 continue
 
         elif code[-1] == "1":
             code = code[:-1]
-            phonemesList.append("ˈ")
+            phonemes.append("ˈ")
 
         elif code[-1] == "2":
             code = code[:-1]
-            phonemesList.append("ˌ")
+            phonemes.append("ˌ")
 
-        phonemesList.append(CodeToIPA[code])
+        phonemes.append(CodeToIPA[code])
 
-    fileDicr.write(word)
-    fileDicr.write("; ")
+    fileDictionary.write(word)
+    fileDictionary.write("; ")
 
-    for i in range(len(phonemesList)):
+    for i in range(len(phonemes)):
 
         if i != 0:
-            fileDicr.write(" ")
-        fileDicr.write(phonemesList[i])
+            fileDictionary.write(" ")
+        fileDictionary.write(phonemes[i])
 
-    fileDicr.write("\n")
+    fileDictionary.write("\n")
 
-fileDicr.close()
+fileDictionary.close()

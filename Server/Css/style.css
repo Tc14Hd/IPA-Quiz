@@ -99,3 +99,15 @@
 .color-wrong {
     color: rgb(255, 17, 17);
 }
+
+.highlight {
+    color: red;
+}
+
+.tooltip-inner {
+    max-width: 100%; 
+}
+
+.phoneme:hover {
+    color: red;
+}

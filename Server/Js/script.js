@@ -1,5 +1,6 @@
 let Languages = [];
-let QuestionsData = [];
+let Questions = [];
+let Help = [];
 
 let QuestionsAmount;
 let LanguageIndex;
@@ -17,9 +18,37 @@ function getQuestions(file, index) {
             if (line === "") break;
 
             let lineSplit = line.split("; ");
-            let phonList = lineSplit[0].split(" ");
-            let wordList = lineSplit[1].split(" ");
-            QuestionsData[index].push([phonList, wordList]);
+            let phonemes = lineSplit[0].split(" ");
+            let words = lineSplit[1].split(" ");
+            Questions[index].push([phonemes, words]);
+
+        }
+
+    });
+
+}
+
+function getHelp(file, index) {
+    
+    $.get(file, function(data) {
+
+        let lines = data.split("\n");
+
+        for (let line of lines) {
+            if (line === "") break;
+
+            let lineSplit = line.split("; ");
+            let phoneme = lineSplit[0];
+            let helpWord = lineSplit[1];
+
+            helpWord = helpWord.replace("(", "<span class=\"highlight\">");
+            helpWord = helpWord.replace(")", "</span>");
+
+            let element = document.createElement("p");
+            element.setAttribute("class", "text-normal");
+            element.innerHTML = helpWord;
+
+            Help[index][phoneme] = element.outerHTML;
 
         }
 
@@ -37,7 +66,8 @@ function getData() {
 
             let lineSplit = lines[i].split("; ");
             Languages.push(lineSplit[0]);
-            QuestionsData.push([]);
+            Questions.push([]);
+            Help.push([]);
 
             let element = document.createElement("option");
             element.innerHTML = lineSplit[0];
@@ -45,6 +75,10 @@ function getData() {
             $("#inputLanguage").append(element);
 
             getQuestions("/Data/" + lineSplit[1], i);
+
+            if (lineSplit[2] !== undefined) {
+                getHelp("/Data/" + lineSplit[2], i);
+            }
 
         }
 
@@ -59,7 +93,7 @@ function newGame(questions, language) {
     QuestionNumber = 0;
     CorrectAmount = 0;
 
-    let questionsMax = QuestionsData[LanguageIndex].length;
+    let questionsMax = Questions[LanguageIndex].length;
 
     while (QuestionIndices.length < Math.min(questions, questionsMax)) {
         let i = Math.floor(Math.random() * questionsMax);
@@ -77,20 +111,39 @@ function newGame(questions, language) {
 function nextQuestion() {
 
     let questionIndex = QuestionIndices[QuestionNumber];
-    let question = QuestionsData[LanguageIndex][questionIndex];
-
-    let transcr = "/";
-    for (let phon of question[0]) {
-        transcr += phon;
-    }
-    transcr += "/";
+    let question = Questions[LanguageIndex][questionIndex];
 
     let questionText = "Question: " + (QuestionNumber + 1) + "/" + QuestionsAmount;
-    let correctText = "Correct: " + CorrectAmount;
-
     $("#questionNumber").html(questionText);
+
+    let correctText = "Correct: " + CorrectAmount;
     $("#correctCurrect").html(correctText);
-    $("#transcription").html(transcr);
+
+    $("#transcription").empty();
+    $("#transcription").append("/");
+
+    for (let phoneme of question[0]) {
+
+        let element = document.createElement("span");
+        element.innerHTML = phoneme;
+
+        let helpHTML = Help[LanguageIndex][phoneme];
+        if (helpHTML != undefined) {
+
+            element.setAttribute("class", "phoneme");
+
+            $(element).tooltip({
+                html: true,
+                title: helpHTML
+            });
+
+        }
+
+        $("#transcription").append(element);
+
+    }
+
+    $("#transcription").append("/");
 
     $("#inputWord").val("");
     $("#inputWord").removeClass("color-correct");
@@ -112,7 +165,7 @@ function check() {
     if (inputWord == "") return;
 
     let questionIndex = QuestionIndices[QuestionNumber];
-    let question = QuestionsData[LanguageIndex][questionIndex];
+    let question = Questions[LanguageIndex][questionIndex];
 
     let correct = false;
     let solutionText = "";
@@ -139,8 +192,8 @@ function check() {
     }
 
     let correctText = "Correct: " + CorrectAmount;
-
     $("#correctCurrect").html(correctText);
+
     $("#inputWord").prop("disabled", true);
     $("#buttonNext").show();
     $("#buttonNext").focus();

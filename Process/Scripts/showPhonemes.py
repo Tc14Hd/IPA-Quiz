@@ -1,4 +1,4 @@
-file = open("../Dict/en-uk-dict.txt", "r")
+file = open("../Dictionary/en-us-dictionary.txt", "r")
 lines = file.readlines()
 file.close()
 
