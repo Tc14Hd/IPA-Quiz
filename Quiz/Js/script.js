@@ -72,7 +72,8 @@ function getData() {
             let element = document.createElement("option");
             element.innerHTML = lineSplit[0];
             element.setAttribute("value", i)
-            $("#inputLanguage").append(element);
+            element.setAttribute("style", "text-align: right;")
+            $("#selectLanguage").append(element);
 
             getQuestions("/Data/" + lineSplit[1], i);
 
@@ -218,7 +219,7 @@ $(document).ready(function() {
 $("#buttonStartQuiz").click(function() {
 
     let questions = Number($("#inputQuestions").val());
-    let language = Number($("#inputLanguage").val());
+    let language = Number($("#selectLanguage").val());
 
     $("#menu").hide();
     $("#quiz").show();

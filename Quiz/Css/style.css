@@ -43,11 +43,13 @@
 }
 
 #buttonStartQuiz, #buttonNewQuiz {
-    height: 10vh;
-    font-size: min(6vh, 3vw);
     padding: 0vh;
     background-color: rgb(0, 120, 233);
     color: white;
+}
+
+#selectLanguage {
+    text-align-last: center;
 }
 
 .row-fixed {
@@ -74,8 +76,6 @@
 }
 
 #inputWord {
-    height: 10vh;
-    font-size: min(6vh, 3vw);
     background: white;
 }
 
@@ -103,14 +103,10 @@
     color: rgb(255, 17, 17);
 }
 
-.highlight {
+.highlight, .phoneme:hover {
     color: red;
 }
 
 .tooltip-inner {
     max-width: 100%; 
-}
-
-.phoneme:hover {
-    color: red;
 }
