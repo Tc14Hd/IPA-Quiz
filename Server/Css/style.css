@@ -19,6 +19,9 @@
 .text-normal {
     font-size: min(6vh, 3vw);
     margin: auto;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .bg-text {
@@ -39,7 +42,7 @@
     background-color: white;
 }
 
-#buttonStart, #buttonNewQuiz {
+#buttonStartQuiz, #buttonNewQuiz {
     height: 10vh;
     font-size: min(6vh, 3vw);
     padding: 0vh;
@@ -76,14 +79,14 @@
     background: white;
 }
 
-#colButtonNext {
+#columnButtonNext {
     height: 10vh;
     position: relative;
     bottom: 10vh;
     display: flex;
 }
 
-#buttonNext {
+#buttonNextQuestion {
     margin: auto;
     padding: 0vh;
 }

@@ -151,7 +151,7 @@ function nextQuestion() {
     $("#inputWord").prop("disabled", false);
     $("#inputWord").focus();
 
-    $("#buttonNext").hide();
+    $("#buttonNextQuestion").hide();
     $("#solutionText").html("");
 
 }
@@ -195,8 +195,8 @@ function check() {
     $("#correctCurrect").html(correctText);
 
     $("#inputWord").prop("disabled", true);
-    $("#buttonNext").show();
-    $("#buttonNext").focus();
+    $("#buttonNextQuestion").show();
+    $("#buttonNextQuestion").focus();
     $("#solutionText").html(solutionText);
 
 }
@@ -205,6 +205,7 @@ function viewResults() {
 
     let correctText = "Correct: " + CorrectAmount + "/" + QuestionsAmount;
     $("#correctFinal").html(correctText);
+    $("#buttonNewQuiz").focus();
 
 }
 
@@ -214,7 +215,7 @@ $(document).ready(function() {
 
 });
 
-$("#buttonStart").click(function() {
+$("#buttonStartQuiz").click(function() {
 
     let questions = Number($("#inputQuestions").val());
     let language = Number($("#inputLanguage").val());
@@ -234,7 +235,7 @@ $("#inputWord").keyup(function (event) {
 
 });
 
-$("#buttonNext").click(function () {
+$("#buttonNextQuestion").click(function () {
 
     QuestionNumber++;
     if (QuestionNumber < QuestionsAmount) {
@@ -252,5 +253,6 @@ $("#buttonNewQuiz").click(function() {
 
     $("#results").hide();
     $("#menu").show();
+    $("#buttonStartQuiz").focus();
 
 });
