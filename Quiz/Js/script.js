@@ -9,6 +9,7 @@ let LanguageIndex;
 let QuestionIndices;
 let QuestionNumber;
 let CorrectAmount;
+let Answers;
 
 function getQuestions(file, index) {
 
@@ -94,6 +95,7 @@ function newGame(questions, language) {
     QuestionIndices = [];
     QuestionNumber = 0;
     CorrectAmount = 0;
+    Answers = [];
 
     let questionsMax = Questions[LanguageIndex].length;
 
@@ -202,6 +204,8 @@ function check() {
     $("#buttonNextQuestion").focus();
     $("#solutionText").html(solutionText);
 
+    Answers.push([inputWord, correct]);
+
 }
 
 function viewResults() {
@@ -209,6 +213,52 @@ function viewResults() {
     let correctText = "Correct: " + CorrectAmount + "/" + QuestionsAmount;
     $("#correctFinal").html(correctText);
     $("#buttonNewQuiz").focus();
+
+    for (let i = 0; i < QuestionsAmount; i++) {
+
+        let questionIndex = QuestionIndices[i];
+        let question = Questions[LanguageIndex][questionIndex];
+
+        let row = document.createElement("div");
+        row.setAttribute("class", "row");
+
+        let colTranscr = document.createElement("div");
+        colTranscr.setAttribute("class", "col-6");
+
+        let colAnswer = document.createElement("div");
+        colAnswer.setAttribute("class", "col-6");
+
+        let transcr = "/";
+        for (let phoneme of question[0]) {
+            transcr += phoneme;
+        }
+        transcr += "/";
+
+        let pTranscr = document.createElement("p");
+        pTranscr.setAttribute("class", "text-result text-center");
+        pTranscr.innerHTML = transcr;
+
+        let classes = "text-result text-center";
+        if (Answers[i][1]) {
+            classes += " color-correct";
+        }
+        else {
+            classes += " color-wrong";
+        }
+
+        let pAnswer = document.createElement("p");
+        pAnswer.setAttribute("class", classes);
+        pAnswer.innerHTML = Answers[i][0];
+
+        colTranscr.append(pTranscr);
+        colAnswer.append(pAnswer);
+
+        row.append(colTranscr);
+        row.append(colAnswer)
+
+        $("#resultsList").append(row);
+
+    }
 
 }
 

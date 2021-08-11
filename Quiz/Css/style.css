@@ -38,7 +38,7 @@
     max-width: 100%; 
 }
 
-/* Menu, Results */
+/* Menu */
 
 #boxMenu, #resultsBox {
     padding: 2vh 2vh 2vh 2vh;
@@ -67,7 +67,7 @@
 }
 
 .row-fixed {
-    height: 20vh;
+    height: 10vh;
 }
 
 .wrong-input-message {
@@ -88,12 +88,12 @@
 }
 
 #boxSolution {
-    height: 14vh;
     padding: 2vh;
     background-color: rgb(207, 0, 214);
 }
 
 #inputWord {
+    height: 10vh;
     background: white;
 }
 
@@ -123,4 +123,10 @@
 
 .highlight, .phoneme:hover {
     color: red;
+}
+
+/* Results */
+
+.text-result {
+    font-size: 3vh;
 }
