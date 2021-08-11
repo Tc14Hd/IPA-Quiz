@@ -1,6 +1,8 @@
 let Languages = [];
 let Questions = [];
 let Help = [];
+let QuestionsMin = 1;
+let QuestionsMax = 20;
 
 let QuestionsAmount;
 let LanguageIndex;
@@ -71,8 +73,7 @@ function getData() {
 
             let element = document.createElement("option");
             element.innerHTML = lineSplit[0];
-            element.setAttribute("value", i)
-            element.setAttribute("style", "text-align: right;")
+            element.setAttribute("value", i);
             $("#selectLanguage").append(element);
 
             getQuestions("/Data/" + lineSplit[1], i);
@@ -120,6 +121,7 @@ function nextQuestion() {
     let correctText = "Correct: " + CorrectAmount;
     $("#correctCurrect").html(correctText);
 
+    $(".phoneme").tooltip("dispose");
     $("#transcription").empty();
     $("#transcription").append("/");
 
@@ -216,15 +218,59 @@ $(document).ready(function() {
 
 });
 
+$("#buttonDecrease").click(function() {
+
+    let questions = Number($("#inputQuestions").val());
+
+    if (Number.isInteger(questions) && QuestionsMin < questions && questions <= QuestionsMax) {
+        $("#inputQuestions").val(questions - 1);
+    }
+
+});
+
+$("#buttonIncrease").click(function() {
+
+    let questions = Number($("#inputQuestions").val());
+
+    if (Number.isInteger(questions) && QuestionsMin <= questions && questions < QuestionsMax) {
+        $("#inputQuestions").val(questions + 1);
+    }
+
+});
+
 $("#buttonStartQuiz").click(function() {
 
     let questions = Number($("#inputQuestions").val());
     let language = Number($("#selectLanguage").val());
 
-    $("#menu").hide();
-    $("#quiz").show();
+    if (Number.isInteger(questions) && QuestionsMin <= questions && questions <= QuestionsMax) {
 
-    newGame(questions, language);
+        $("#menu").hide();
+        $("#quiz").show();
+        newGame(questions, language);
+
+    }
+    else {
+
+        let text = "Input must be number between " + QuestionsMin + " and " + QuestionsMax;
+
+        let element = document.createElement("p");
+        element.setAttribute("class", "wrong-input-message");
+        element.innerHTML = text;
+
+        $("#inputQuestions").tooltip({
+            trigger: "manual",
+            html: true,
+            title: element.outerHTML
+        }).tooltip("show");
+
+    }
+
+});
+
+$("#inputQuestions").focus(function() {
+
+    $("#inputQuestions").tooltip("hide");
 
 });
 
@@ -243,9 +289,11 @@ $("#buttonNextQuestion").click(function () {
         nextQuestion();
     }
     else {
+
         $("#quiz").hide();
         $("#results").show();
         viewResults();
+
     }
 
 });
