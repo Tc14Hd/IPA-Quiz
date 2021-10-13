@@ -24,20 +24,20 @@ This software includes the following other software:
 
 - Bootstrap
   - Github: https://github.com/twbs/bootstrap
-  - License: /License/LICENSE-bootstrap
+  - License: /Licenses/LICENSE-bootstrap
 
 - jQuery
   - Github: https://github.com/jquery/jquery
-  - License: /License/LICENSE-jquery
+  - License: /Licenses/LICENSE-jquery
 
 - Britfone
   - Github: https://github.com/JoseLlarena/Britfone
-  - License: /License/LICENSE-britfone
+  - License: /Licenses/LICENSE-britfone
 
 - CMUdict
   - Github: https://github.com/cmusphinx/cmudict
-  - License: /License/LICENSE-cmudict
+  - License: /Licenses/LICENSE-cmudict
 
 - Wikipedia word frequency
   - Github: https://github.com/IlyaSemenov/wikipedia-word-frequency
-  - License: /License/LICENSE-wikipedia-word-frequency
+  - License: /Licenses/LICENSE-wikipedia-word-frequency
