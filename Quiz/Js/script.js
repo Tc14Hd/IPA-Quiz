@@ -210,9 +210,7 @@ function check() {
 
 function viewResults() {
 
-    let correctText = "Correct: " + CorrectAmount + "/" + QuestionsAmount;
-    $("#correctFinal").html(correctText);
-    $("#buttonNewQuiz").focus();
+    $("#resultsList").empty();
 
     for (let i = 0; i < QuestionsAmount; i++) {
 
@@ -259,6 +257,10 @@ function viewResults() {
         $("#resultsList").append(row);
 
     }
+
+    let correctText = "Correct: " + CorrectAmount + "/" + QuestionsAmount;
+    $("#correctFinal").html(correctText);
+    $("#buttonNewQuiz").focus();
 
 }
 
