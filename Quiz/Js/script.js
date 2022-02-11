@@ -61,7 +61,7 @@ function getHelp(file, index) {
 
 function getData() {
 
-    $.get("/Data/languages.txt", function(data) {
+    $.get("../Data/languages.txt", function(data) {
 
         let lines = data.split("\n");
         for (let i = 0; i < lines.length; i++) {
@@ -77,10 +77,10 @@ function getData() {
             element.setAttribute("value", i);
             $("#selectLanguage").append(element);
 
-            getQuestions("/Data/" + lineSplit[1], i);
+            getQuestions("../Data/" + lineSplit[1], i);
 
             if (lineSplit[2] !== undefined) {
-                getHelp("/Data/" + lineSplit[2], i);
+                getHelp("../Data/" + lineSplit[2], i);
             }
 
         }
