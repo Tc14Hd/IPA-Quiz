@@ -1,6 +1,7 @@
 let Languages = [];
 let Questions = [];
 let Help = [];
+let Difficulties = [];
 let QuestionsMin = 1;
 let QuestionsMax = 20;
 
@@ -13,7 +14,7 @@ let Answers;
 
 function getQuestions(file, index) {
 
-    $.get(file, function(data) {
+    return $.get(file, function(data) {
 
         let lines = data.split("\n");
 
@@ -32,8 +33,8 @@ function getQuestions(file, index) {
 }
 
 function getHelp(file, index) {
-    
-    $.get(file, function(data) {
+
+    return $.get(file, function(data) {
 
         let lines = data.split("\n");
 
@@ -59,37 +60,46 @@ function getHelp(file, index) {
 
 }
 
-function getData() {
+async function getData() {
 
-    $.get("Data/languages.txt", function(data) {
+    let data = await $.get("Data/languages.txt");
+    let lines = data.split("\n");
 
-        let lines = data.split("\n");
-        for (let i = 0; i < lines.length; i++) {
-            if (lines[i] === "") break;
+    for (let i = 0; i < lines.length; i++) {
+        if (lines[i] === "") break;
 
-            let lineSplit = lines[i].split("; ");
-            Languages.push(lineSplit[0]);
-            Questions.push([]);
-            Help.push([]);
+        let lineSplit = lines[i].split("; ");
+        Languages.push(lineSplit[0]);
+        Questions.push([]);
+        Help.push([]);
+        Difficulties.push([]);
 
-            let element = document.createElement("option");
-            element.innerHTML = lineSplit[0];
-            element.setAttribute("value", i);
-            $("#selectLanguage").append(element);
+        let element = document.createElement("option");
+        element.innerHTML = lineSplit[0];
+        element.setAttribute("value", i);
+        $("#selectLanguage").append(element);
 
-            getQuestions("Data/" + lineSplit[1], i);
+        await getQuestions("Data/" + lineSplit[1], i);
 
-            if (lineSplit[2] !== undefined) {
-                getHelp("Data/" + lineSplit[2], i);
-            }
+        if (lineSplit[2] !== "") {
+            await getHelp("Data/" + lineSplit[2], i);
+        }
+
+        difficultiesSplit = lineSplit[3].split(", ")
+
+        for (let j = 0; j < difficultiesSplit.length; j += 2) {
+
+            difficultyName = difficultiesSplit[j];
+            difficultyValue = Number(difficultiesSplit[j + 1]);
+            Difficulties[i].push([difficultyName, difficultyValue])
 
         }
 
-    })
+    }
 
 }
 
-function newGame(questions, language) {
+function newGame(questions, language, difficulty) {
 
     LanguageIndex = language;
     QuestionIndices = [];
@@ -97,10 +107,10 @@ function newGame(questions, language) {
     CorrectAmount = 0;
     Answers = [];
 
-    let questionsMax = Questions[LanguageIndex].length;
+    let difficultyValue = Difficulties[language][difficulty][1];
 
-    while (QuestionIndices.length < Math.min(questions, questionsMax)) {
-        let i = Math.floor(Math.random() * questionsMax);
+    while (QuestionIndices.length < Math.min(questions, difficultyValue)) {
+        let i = Math.floor(Math.random() * difficultyValue);
         if (QuestionIndices.indexOf(i) == -1) {
             QuestionIndices.push(i);
         }
@@ -252,7 +262,7 @@ function viewResults() {
         colAnswer.append(pAnswer);
 
         row.append(colTranscr);
-        row.append(colAnswer)
+        row.append(colAnswer);
 
         $("#resultsList").append(row);
 
@@ -264,9 +274,29 @@ function viewResults() {
 
 }
 
-$(document).ready(function() {
+function updateDifficultySelect() {
 
-    getData();
+    let language = Number($("#selectLanguage").val());
+    let difficulties = Difficulties[language]
+
+    $("#selectDifficulty").empty();
+
+    for (let i = 0; i < difficulties.length; i++) {
+
+        let element = document.createElement("option");
+        element.innerHTML = difficulties[i][0];
+        element.setAttribute("value", i);
+        $("#selectDifficulty").append(element);
+
+    }
+
+}
+
+$(document).ready(async function() {
+
+    await getData();
+
+    updateDifficultySelect();
 
 });
 
@@ -294,17 +324,18 @@ $("#buttonStartQuiz").click(function() {
 
     let questions = Number($("#inputQuestions").val());
     let language = Number($("#selectLanguage").val());
+    let difficulty = Number($("#selectDifficulty").val());
 
     if (Number.isInteger(questions) && QuestionsMin <= questions && questions <= QuestionsMax) {
 
         $("#menu").hide();
         $("#quiz").show();
-        newGame(questions, language);
+        newGame(questions, language, difficulty);
 
     }
     else {
 
-        let text = "Input must be number between " + QuestionsMin + " and " + QuestionsMax;
+        let text = "Input must be a number between " + QuestionsMin + " and " + QuestionsMax;
 
         let element = document.createElement("p");
         element.setAttribute("class", "wrong-input-message");
@@ -357,3 +388,5 @@ $("#buttonNewQuiz").click(function() {
     $("#buttonStartQuiz").focus();
 
 });
+
+$("#selectLanguage").change(updateDifficultySelect);

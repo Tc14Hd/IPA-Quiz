@@ -62,7 +62,7 @@
     background-color: rgb(0, 120, 233);
 }
 
-#selectLanguage {
+#selectLanguage, #selectDifficulty {
     text-align-last: center;
 }
 

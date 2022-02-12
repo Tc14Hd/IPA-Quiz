@@ -1,5 +1,5 @@
 # read frequency list
-fileFrequency = open("../Frequency/frequencyCut.txt")
+fileFrequency = open("../Raw/word-frequency.txt")
 frequencyList = fileFrequency.readlines()
 fileFrequency.close()
 
@@ -14,7 +14,7 @@ def generateQuestions(name, n):
     lines = fileDictionary.readlines()
     fileDictionary.close()
 
-    PhonemesDict = dict()
+    pronunciationDict = dict()
     for line in lines:
 
         lineSplit = line.rstrip().split("; ")
@@ -22,33 +22,25 @@ def generateQuestions(name, n):
         phonemes = lineSplit[1].split(", ")
         phonemes = tuple(phonemes)
 
-        if word not in PhonemesDict:
-            PhonemesDict[word] = phonemes
+        if word not in pronunciationDict:
+            pronunciationDict[word] = phonemes
 
     # select words for questions
     Questions = dict()
-    fails = []
-
     for word in frequencyList:
+        if word in pronunciationDict:
 
-        if word in PhonemesDict:
-
-            phonemes = PhonemesDict[word]
+            phonemes = pronunciationDict[word]
             if phonemes in Questions:
                 Questions[phonemes].append(word)
             else:
                 Questions[phonemes] = [word]
 
-        else:            
-            fails.append(word)
-
         if len(Questions) >= n:
             break
 
-    print("Fails", name, ":", len(fails))
-
     # add missing homophones
-    for word, phonemes in PhonemesDict.items():
+    for word, phonemes in pronunciationDict.items():
         if phonemes in Questions:
             if word not in Questions[phonemes]:
                 Questions[phonemes].append(word)
@@ -77,5 +69,5 @@ def generateQuestions(name, n):
     fileQuestions.close()
 
 # generate questions
-generateQuestions("en-uk", 5000)
-generateQuestions("en-us", 5000)
+generateQuestions("en-uk", 14000)
+generateQuestions("en-us", 50000)
