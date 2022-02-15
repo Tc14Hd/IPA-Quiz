@@ -38,6 +38,10 @@
     max-width: 100%; 
 }
 
+* {
+    font-variant-ligatures: none;
+}
+
 /* Menu */
 
 #boxMenu, #resultsBox {
@@ -92,7 +96,7 @@
     background-color: rgb(207, 0, 214);
 }
 
-#inputWord {
+#inputAnswer {
     height: 10vh;
     background: white;
 }
