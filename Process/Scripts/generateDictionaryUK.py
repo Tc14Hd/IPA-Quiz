@@ -24,6 +24,12 @@ for line in lines:
         if phoneme == "ɐ":
             phoneme = "ʌ"
 
+        if phoneme == "tʃ":
+            phoneme = "t͡ʃ"
+
+        if phoneme == "dʒ":
+            phoneme = "d͡ʒ"
+
         phonemes.append(phoneme)
 
     fileDictionary.write(word)
@@ -38,4 +44,3 @@ for line in lines:
     fileDictionary.write("\n")
 
 fileDictionary.close()
-

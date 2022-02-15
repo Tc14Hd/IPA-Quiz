@@ -38,7 +38,7 @@ aboard; ə b ˈ ɔː d
 abode; ə b ˈ əʊ d
 abolish; ə b ˈ ɒ l ɪ ʃ
 abolition; ˌ æ b ə l ˈ ɪ ʃ ə n
-aboriginal; ˌ æ b ə ɹ ˈ ɪ dʒ ɪ n ə l
+aboriginal; ˌ æ b ə ɹ ˈ ɪ d͡ʒ ɪ n ə l
 abort; ə b ˈ ɔː t
 abortion; ə b ˈ ɔː ʃ ə n
 about; ə b ˈ aʊ t
@@ -129,18 +129,18 @@ accused; ə k j ˈ uː z d
 ace; ˈ eɪ s
 acer; ˈ eɪ s ə
 ache; ˈ eɪ k
-achieve; ə tʃ ˈ iː v
-achieved; ə tʃ ˈ iː v d
-achievement; ə tʃ ˈ iː v m ə n t
-achievements; ə tʃ ˈ iː v m ə n t s
-achieving; ə tʃ ˈ iː v ɪ ŋ
+achieve; ə t͡ʃ ˈ iː v
+achieved; ə t͡ʃ ˈ iː v d
+achievement; ə t͡ʃ ˈ iː v m ə n t
+achievements; ə t͡ʃ ˈ iː v m ə n t s
+achieving; ə t͡ʃ ˈ iː v ɪ ŋ
 acid; ˈ æ s ɪ d
 acidic; ə s ˈ ɪ d ɪ k
 acids; ˈ æ s ɪ d z
-acknowledge; ə k n ˈ ɒ l ɪ dʒ
-acknowledged; ə k n ˈ ɒ l ɪ dʒ d
-acknowledgement; ə k n ˈ ɒ l ɪ dʒ m ə n t
-acknowledgment; ə k n ˈ ɒ l ɪ dʒ m ə n t
+acknowledge; ə k n ˈ ɒ l ɪ d͡ʒ
+acknowledged; ə k n ˈ ɒ l ɪ d͡ʒ d
+acknowledgement; ə k n ˈ ɒ l ɪ d͡ʒ m ə n t
+acknowledgment; ə k n ˈ ɒ l ɪ d͡ʒ m ə n t
 acne; ˈ æ k n i
 acorn; ˈ eɪ k ɔː n
 acoustic; ə k ˈ uː s t ɪ k
@@ -175,12 +175,12 @@ actor; ˈ æ k t ə
 actors; ˈ æ k t ə z
 actress; ˈ æ k t ɹ ɪ s
 acts; ˈ æ k t s
-actual; ˈ æ k tʃ ʊə l
-actually; ˈ æ k tʃ ʊə l i
+actual; ˈ æ k t͡ʃ ʊə l
+actually; ˈ æ k t͡ʃ ʊə l i
 acute; ə k j ˈ uː t
 ad; ˈ æ d
 ada; ˈ eɪ d ə
-adage; ˈ æ d ɪ dʒ
+adage; ˈ æ d ɪ d͡ʒ
 adam; ˈ æ d ə m
 adamant; ˈ æ d ə m ə n t
 adams; ˈ æ d ə m z
@@ -217,16 +217,16 @@ adhere; ə d h ˈ ɪə
 adhesive; ə d h ˈ iː s ɪ v
 adidas; ˈ æ d ɪ d ə s
 adirondack; ˌ æ d ɪ ɹ ˈ ɒ n d æ k
-adjacency; ə dʒ ˈ eɪ s ə n s i
-adjacent; ə dʒ ˈ eɪ s ə n t
-adjective; ˈ æ dʒ ɪ k t ɪ v
-adjectives; ˈ æ dʒ ɪ k t ɪ v z
-adjourn; ə dʒ ˈ ɜː n
-adjust; ə dʒ ˈ ʌ s t
-adjustable; ə dʒ ˈ ʌ s t ə b ə l
-adjusted; ə dʒ ˈ ʌ s t ɪ d
-adjustment; ə dʒ ˈ ʌ s t m ə n t
-adjustments; ə dʒ ˈ ʌ s t m ə n t s
+adjacency; ə d͡ʒ ˈ eɪ s ə n s i
+adjacent; ə d͡ʒ ˈ eɪ s ə n t
+adjective; ˈ æ d͡ʒ ɪ k t ɪ v
+adjectives; ˈ æ d͡ʒ ɪ k t ɪ v z
+adjourn; ə d͡ʒ ˈ ɜː n
+adjust; ə d͡ʒ ˈ ʌ s t
+adjustable; ə d͡ʒ ˈ ʌ s t ə b ə l
+adjusted; ə d͡ʒ ˈ ʌ s t ɪ d
+adjustment; ə d͡ʒ ˈ ʌ s t m ə n t
+adjustments; ə d͡ʒ ˈ ʌ s t m ə n t s
 admin; ˈ æ d m ɪ n
 administer; ə d m ˈ ɪ n ɪ s t ə
 administered; ə d m ˈ ɪ n ɪ s t ə d
@@ -260,14 +260,14 @@ advance; ə d v ˈ ɑː n s
 advanced; ə d v ˈ ɑː n s t
 advancement; ə d v ˈ ɑː n s m ə n t
 advances; ə d v ˈ ɑː n s ɪ z
-advantage; ə d v ˈ ɑː n t ɪ dʒ
-advantageous; ˌ æ d v ə n t ˈ eɪ dʒ ə s
-advantages; ə d v ˈ ɑː n t ɪ dʒ ɪ z
+advantage; ə d v ˈ ɑː n t ɪ d͡ʒ
+advantageous; ˌ æ d v ə n t ˈ eɪ d͡ʒ ə s
+advantages; ə d v ˈ ɑː n t ɪ d͡ʒ ɪ z
 advent; ˈ æ d v ɛ n t
 advent; ˈ æ d v ə n t
-adventure; ə d v ˈ ɛ n tʃ ə
-adventures; ə d v ˈ ɛ n tʃ ə z
-adventurous; ə d v ˈ ɛ n tʃ ə ɹ ə z
+adventure; ə d v ˈ ɛ n t͡ʃ ə
+adventures; ə d v ˈ ɛ n t͡ʃ ə z
+adventurous; ə d v ˈ ɛ n t͡ʃ ə ɹ ə z
 adversary; ˈ æ d v ə s ə ɹ i
 adverse; ˈ æ d v ɜː s
 adverse; æ d v ˈ ɜː s
@@ -333,25 +333,25 @@ again; ə g ˈ ɛ n
 again; ə g ˈ eɪ n
 against; ə g ˈ ɛ n s t
 against; ə g ˈ eɪ n s t
-age; ˈ eɪ dʒ
-aged; ˈ eɪ dʒ d
-aged; ˈ eɪ dʒ ɪ d
-ageing; ˈ eɪ dʒ ɪ ŋ
-agencies; ˈ eɪ dʒ ə n s i z
-agency; ˈ eɪ dʒ ə n s i
-agenda; ə dʒ ˈ ɛ n d ə
-agent; ˈ eɪ dʒ ə n t
-agents; ˈ eɪ dʒ ə n t s
-ages; ˈ eɪ dʒ ɪ z
+age; ˈ eɪ d͡ʒ
+aged; ˈ eɪ d͡ʒ d
+aged; ˈ eɪ d͡ʒ ɪ d
+ageing; ˈ eɪ d͡ʒ ɪ ŋ
+agencies; ˈ eɪ d͡ʒ ə n s i z
+agency; ˈ eɪ d͡ʒ ə n s i
+agenda; ə d͡ʒ ˈ ɛ n d ə
+agent; ˈ eɪ d͡ʒ ə n t
+agents; ˈ eɪ d͡ʒ ə n t s
+ages; ˈ eɪ d͡ʒ ɪ z
 aggravate; ˈ æ g ɹ ə v ˌ eɪ t
 aggregate; ˈ æ g ɹ ɪ g ˌ eɪ t
 aggregate; ˈ æ g ɹ ɪ g ɪ t
 aggression; ə g ɹ ˈ ɛ ʃ ə n
 aggressive; ə g ɹ ˈ ɛ s ɪ v
 aggro; ˈ æ g ɹ əʊ
-agile; ˈ æ dʒ aɪ l
-aging; ˈ eɪ dʒ ɪ ŋ
-agitate; ˈ æ dʒ ɪ t ˌ eɪ t
+agile; ˈ æ d͡ʒ aɪ l
+aging; ˈ eɪ d͡ʒ ɪ ŋ
+agitate; ˈ æ d͡ʒ ɪ t ˌ eɪ t
 agnes; ˈ æ g n ɪ s
 ago; ə g ˈ əʊ
 agony; ˈ æ g ə n i
@@ -361,8 +361,8 @@ agreeing; ə g ɹ ˈ iː ɪ ŋ
 agreement; ə g ɹ ˈ iː m ə n t
 agreements; ə g ɹ ˈ iː m ə n t s
 agrees; ə g ɹ ˈ iː z
-agricultural; ˌ æ g ɹ ɪ k ˈ ʌ l tʃ ə ɹ ə l
-agriculture; ˈ æ g ɹ ɪ k ˌ ʌ l tʃ ə
+agricultural; ˌ æ g ɹ ɪ k ˈ ʌ l t͡ʃ ə ɹ ə l
+agriculture; ˈ æ g ɹ ɪ k ˌ ʌ l t͡ʃ ə
 ah; ˈ ɑː
 aha; ˌ ɑː h ˈ ɑː
 ahead; ə h ˈ ɛ d
@@ -390,9 +390,9 @@ airports; ˈ ɛə p ˌ ɔː t s
 airways; ˈ ɛə w ˌ eɪ z
 airy; ˈ ɛə ɹ i
 aisle; ˈ aɪ l
-aitch; ˈ eɪ tʃ
-aitches; ˈ eɪ tʃ ɪ z
-ajar; ə dʒ ˈ ɑː
+aitch; ˈ eɪ t͡ʃ
+aitches; ˈ eɪ t͡ʃ ɪ z
+ajar; ə d͡ʒ ˈ ɑː
 akin; ə k ˈ ɪ n
 al; ˈ æ l
 alabama; ˌ æ l ə b ˈ æ m ə
@@ -419,8 +419,8 @@ alexander; ˌ æ l ɪ g z ˈ ɑː n d ə
 alexandria; ˌ æ l ɪ g z ˈ ɑː n d ɹ ɪə
 alfred; ˈ æ l f ɹ ɪ d
 algae; ˈ æ l g i
-algebra; ˈ æ l dʒ ɪ b ɹ ə
-algeria; æ l dʒ ˈ ɪə ɹ ɪə
+algebra; ˈ æ l d͡ʒ ɪ b ɹ ə
+algeria; æ l d͡ʒ ˈ ɪə ɹ ɪə
 algorithm; ˈ æ l g ə ɹ ˌ ɪ ð ə m
 algorithms; ˈ æ l g ə ɹ ˌ ɪ ð ə m z
 ali; ˈ ɑː l i
@@ -441,13 +441,13 @@ allan; ˈ æ l ə n
 allay; ə l ˈ eɪ
 allegation; ˌ æ l ɪ g ˈ eɪ ʃ ə n
 allegations; ˌ æ l ɪ g ˈ eɪ ʃ ə n z
-allege; ə l ˈ ɛ dʒ
-alleged; ə l ˈ ɛ dʒ d
-allegedly; ə l ˈ ɛ dʒ ɪ d l i
-allegiance; ə l ˈ iː dʒ ə n s
+allege; ə l ˈ ɛ d͡ʒ
+alleged; ə l ˈ ɛ d͡ʒ d
+allegedly; ə l ˈ ɛ d͡ʒ ɪ d l i
+allegiance; ə l ˈ iː d͡ʒ ə n s
 allen; ˈ æ l ə n
-allergic; ə l ˈ ɜː dʒ ɪ k
-allergy; ˈ æ l ə dʒ i
+allergic; ə l ˈ ɜː d͡ʒ ɪ k
+allergy; ˈ æ l ə d͡ʒ i
 alley; ˈ æ l i
 alliance; ə l ˈ aɪ ə n s
 allied; ˈ æ l ˌ aɪ d
@@ -491,7 +491,7 @@ alresford; ˈ eɪ l s f ə d
 alresford; ˈ ɒ l z f ə d
 alresford; ˈ ɔː l z f ə d
 alright; ˌ ɔː l ɹ ˈ aɪ t
-alsager; ˈ ɒ l s eɪ dʒ ə
+alsager; ˈ ɒ l s eɪ d͡ʒ ə
 also; ˈ ɔː l s əʊ
 altar; ˈ ɔː l t ə
 alter; ˈ ɔː l t ə
@@ -521,8 +521,8 @@ am; ˈ æ m
 amanda; ə m ˈ æ n d ə
 amass; ə m ˈ æ s
 amateur; ˈ æ m ə t ə
-amateur; ˈ æ m ə tʃ ə
-amateur; ˈ æ m ə tʃ ˌ ʊə
+amateur; ˈ æ m ə t͡ʃ ə
+amateur; ˈ æ m ə t͡ʃ ˌ ʊə
 amateur; ˌ æ m ə t ˈ ɜː
 amaze; ə m ˈ eɪ z
 amazed; ə m ˈ eɪ z d
@@ -580,7 +580,7 @@ anaesthetise; ə n ˈ iː s θ ə t ˌ aɪ z
 anal; ˈ eɪ n ə l
 analog; ˈ æ n ə l ˌ ɒ g
 analogous; ə n ˈ æ l ə g ə s
-analogy; ə n ˈ æ l ə dʒ i
+analogy; ə n ˈ æ l ə d͡ʒ i
 analyse; ˈ æ n ə l ˌ aɪ z
 analysed; ˈ æ n ə l ˌ aɪ z d
 analyses; ˈ æ n ə l ˌ aɪ z i z
@@ -616,11 +616,11 @@ anecdotes; ˈ æ n ɪ k d ˌ əʊ t s
 anemone; ə n ˈ ɛ m ə n i
 anesthesia; ˌ æ n ɪ s θ ˈ iː z ɪə
 anew; ə n j ˈ uː
-angel; ˈ eɪ n dʒ ə l
-angela; ˈ æ n dʒ ə l ə
-angels; ˈ eɪ n dʒ ə l z
+angel; ˈ eɪ n d͡ʒ ə l
+angela; ˈ æ n d͡ʒ ə l ə
+angels; ˈ eɪ n d͡ʒ ə l z
 anger; ˈ æ ŋ g ə
-angie; ˈ æ n dʒ i
+angie; ˈ æ n d͡ʒ i
 angle; ˈ æ ŋ g ə l
 angles; ˈ æ ŋ g ə l z
 angola; æ ŋ g ˈ əʊ l ə
@@ -675,7 +675,7 @@ antarctica; ˌ æ n t ˈ ɑː k t ɪ k ə
 ante; ˈ æ n t i
 antenna; æ n t ˈ ɛ n ə
 anthony; ˈ æ n θ ə n i
-anthropology; ˌ æ n θ ɹ ə p ˈ ɒ l ə dʒ i
+anthropology; ˌ æ n θ ɹ ə p ˈ ɒ l ə d͡ʒ i
 anti; ˈ æ n t i
 antibiotic; ˌ æ n t ɪ b aɪ ˈ ɒ t ɪ k
 antibiotics; ˌ æ n t ɪ b aɪ ˈ ɒ t ɪ k s
@@ -713,19 +713,19 @@ anyway; ˈ ɛ n ɪ w ˌ eɪ
 anyways; ˈ ɛ n ɪ w ˌ eɪ z
 anywhere; ˈ ɛ n ɪ w ˌ ɛə
 apace; ə p ˈ eɪ s
-apache; ə p ˈ æ tʃ i
+apache; ə p ˈ æ t͡ʃ i
 apart; ə p ˈ ɑː t
 apartment; ə p ˈ ɑː t m ə n t
 apartments; ə p ˈ ɑː t m ə n t s
 ape; ˈ eɪ p
 apex; ˈ eɪ p ɛ k s
 apollo; ə p ˈ ɒ l əʊ
-apologies; ə p ˈ ɒ l ə dʒ i z
-apologise; ə p ˈ ɒ l ə dʒ ˌ aɪ z
-apologised; ə p ˈ ɒ l ə dʒ ˌ aɪ z d
-apologize; ə p ˈ ɒ l ə dʒ ˌ aɪ z
-apologized; ə p ˈ ɒ l ə dʒ ˌ aɪ z d
-apology; ə p ˈ ɒ l ə dʒ i
+apologies; ə p ˈ ɒ l ə d͡ʒ i z
+apologise; ə p ˈ ɒ l ə d͡ʒ ˌ aɪ z
+apologised; ə p ˈ ɒ l ə d͡ʒ ˌ aɪ z d
+apologize; ə p ˈ ɒ l ə d͡ʒ ˌ aɪ z
+apologized; ə p ˈ ɒ l ə d͡ʒ ˌ aɪ z d
+apology; ə p ˈ ɒ l ə d͡ʒ i
 apostrophe; ə p ˈ ɒ s t ɹ ə f i
 app; ˈ æ p
 appalled; ə p ˈ ɔː l d
@@ -770,10 +770,10 @@ appraisal; ə p ɹ ˈ eɪ z ə l
 appreciate; ə p ɹ ˈ iː ʃ ɪ ˌ eɪ t
 appreciated; ə p ɹ ˈ iː ʃ ɪ ˌ eɪ t ɪ d
 appreciation; ə p ɹ ˌ iː ʃ ɪ ˈ eɪ ʃ ə n
-approach; ə p ɹ ˈ əʊ tʃ
-approached; ə p ɹ ˈ əʊ tʃ t
-approaches; ə p ɹ ˈ əʊ tʃ ɪ z
-approaching; ə p ɹ ˈ əʊ tʃ ɪ ŋ
+approach; ə p ɹ ˈ əʊ t͡ʃ
+approached; ə p ɹ ˈ əʊ t͡ʃ t
+approaches; ə p ɹ ˈ əʊ t͡ʃ ɪ z
+approaching; ə p ɹ ˈ əʊ t͡ʃ ɪ ŋ
 appropriate; ə p ɹ ˈ əʊ p ɹ ɪə t
 appropriate; ə p ɹ ˈ əʊ p ɹ ɪ ˌ eɪ t
 appropriately; ə p ɹ ˈ əʊ p ɹ ɪə t l i
@@ -803,16 +803,16 @@ arbitration; ˌ ɑː b ɪ t ɹ ˈ eɪ ʃ ə n
 arbor; ˈ ɑː b ə
 arc; ˈ ɑː k
 arcade; ɑː k ˈ eɪ d
-arch; ˈ ɑː tʃ
-archaeological; ˌ ɑː k ɪə l ˈ ɒ dʒ ɪ k ə l
-archaeology; ˌ ɑː k ɪ ˈ ɒ l ə dʒ i
-archbishop; ɑː tʃ b ˈ ɪ ʃ ə p
-archbishop; ˈ ɑː tʃ b ɪ ʃ ə p
-archery; ˈ ɑː tʃ ə ɹ i
+arch; ˈ ɑː t͡ʃ
+archaeological; ˌ ɑː k ɪə l ˈ ɒ d͡ʒ ɪ k ə l
+archaeology; ˌ ɑː k ɪ ˈ ɒ l ə d͡ʒ i
+archbishop; ɑː t͡ʃ b ˈ ɪ ʃ ə p
+archbishop; ˈ ɑː t͡ʃ b ɪ ʃ ə p
+archery; ˈ ɑː t͡ʃ ə ɹ i
 architect; ˈ ɑː k ɪ t ˌ ɛ k t
 architects; ˈ ɑː k ɪ t ˌ ɛ k t s
-architectural; ˌ ɑː k ɪ t ˈ ɛ k tʃ ə ɹ ə l
-architecture; ˈ ɑː k ɪ t ˌ ɛ k tʃ ə
+architectural; ˌ ɑː k ɪ t ˈ ɛ k t͡ʃ ə ɹ ə l
+architecture; ˈ ɑː k ɪ t ˌ ɛ k t͡ʃ ə
 archive; ˈ ɑː k ˌ aɪ v
 archived; ˈ ɑː k ˌ aɪ v d
 archives; ˈ ɑː k ˌ aɪ v z
@@ -823,7 +823,7 @@ area; ˈ ɛə ɹ ɪə
 areas; ˈ ɛə ɹ ɪə z
 aren't; ˈ ɑː n t
 arena; ə ɹ ˈ iː n ə
-argentina; ˌ ɑː dʒ ə n t ˈ iː n ə
+argentina; ˌ ɑː d͡ʒ ə n t ˈ iː n ə
 argue; ˈ ɑː g j uː
 argued; ˈ ɑː g j uː d
 argues; ˈ ɑː g j uː z
@@ -860,10 +860,10 @@ around; ə ɹ ˈ aʊ n d
 arouse; ə ɹ ˈ aʊ z
 aroused; ə ɹ ˈ aʊ z d
 arouses; ə ɹ ˈ aʊ z i z
-arrange; ə ɹ ˈ eɪ n dʒ
-arranged; ə ɹ ˈ eɪ n dʒ d
-arrangement; ə ɹ ˈ eɪ n dʒ m ə n t
-arrangements; ə ɹ ˈ eɪ n dʒ m ə n t s
+arrange; ə ɹ ˈ eɪ n d͡ʒ
+arranged; ə ɹ ˈ eɪ n d͡ʒ d
+arrangement; ə ɹ ˈ eɪ n d͡ʒ m ə n t
+arrangements; ə ɹ ˈ eɪ n d͡ʒ m ə n t s
 array; ə ɹ ˈ eɪ
 arrest; ə ɹ ˈ ɛ s t
 arrested; ə ɹ ˈ ɛ s t ɪ d
@@ -987,7 +987,7 @@ asteroid; ˈ æ s t ə ɹ ˌ ɔɪ d
 asthma; ˈ æ z m ə
 aston; ˈ æ s t ə n
 astonishing; ə s t ˈ ɒ n ɪ ʃ ɪ ŋ
-astrology; ə s t ɹ ˈ ɒ l ə dʒ i
+astrology; ə s t ɹ ˈ ɒ l ə d͡ʒ i
 astronomy; ə s t ɹ ˈ ɒ n ə m i
 asylum; ə s ˈ aɪ l ə m
 asymmetric; ˌ æ s ɪ m ˈ ɛ t ɹ ɪ k
@@ -1013,10 +1013,10 @@ atom; ˈ æ t ə m
 atomic; ə t ˈ ɒ m ɪ k
 atoms; ˈ æ t ə m z
 atop; ə t ˈ ɒ p
-attach; ə t ˈ æ tʃ
-attached; ə t ˈ æ tʃ t
-attachment; ə t ˈ æ tʃ m ə n t
-attachments; ə t ˈ æ tʃ m ə n t s
+attach; ə t ˈ æ t͡ʃ
+attached; ə t ˈ æ t͡ʃ t
+attachment; ə t ˈ æ t͡ʃ m ə n t
+attachments; ə t ˈ æ t͡ʃ m ə n t s
 attack; ə t ˈ æ k
 attacked; ə t ˈ æ k t
 attacking; ə t ˈ æ k ɪ ŋ
@@ -1047,7 +1047,7 @@ attribute; ə t ɹ ˈ ɪ b j ˌ uː t
 attributed; ə t ɹ ˈ ɪ b j ʊ t ɪ d
 attributes; ˈ æ t ɹ ɪ b j ˌ uː t s
 attributes; ə t ɹ ˈ ɪ b j ˌ uː t s
-aubergine; ˈ əʊ b ə dʒ ˌ iː n
+aubergine; ˈ əʊ b ə d͡ʒ ˌ iː n
 auburn; ˈ ɔː b ə n
 auckland; ˈ ɔː k l ə n d
 auction; ˈ ɔː k ʃ ə n
@@ -1102,8 +1102,8 @@ availability; ə v ˌ eɪ l ə b ˈ ɪ l ɪ t i
 available; ə v ˈ eɪ l ə b ə l
 avatar; ˈ æ v ə t ɑː
 avenue; ˈ æ v ɪ n j ˌ uː
-average; ˈ æ v ɹ ɪ dʒ
-average; ˈ æ v ə ɹ ɪ dʒ
+average; ˈ æ v ɹ ɪ d͡ʒ
+average; ˈ æ v ə ɹ ɪ d͡ʒ
 averham; ˈ ɛə ɹ ə m
 avert; ə v ˈ ɜː t
 aviation; ˌ eɪ v ɪ ˈ eɪ ʃ ə n
@@ -1148,14 +1148,14 @@ axle; ˈ æ k s ə l
 aye; ˈ aɪ
 ayrshire; ˈ ɛə ʃ ə
 ayscoughfee; ˈ æ s k ə f i
-azerbaijan; ˌ æ z ə b aɪ dʒ ˈ ɑː n
+azerbaijan; ˌ æ z ə b aɪ d͡ʒ ˈ ɑː n
 babe; b ˈ eɪ b
 babes; b ˈ eɪ b z
 babies; b ˈ eɪ b i z
 baby; b ˈ eɪ b i
 babysitting; b ˈ eɪ b ɪ s ˌ ɪ t ɪ ŋ
-bachelor; b ˈ æ tʃ ə l ə
-bachelor; b ˈ æ tʃ l ə
+bachelor; b ˈ æ t͡ʃ ə l ə
+bachelor; b ˈ æ t͡ʃ l ə
 back; b ˈ æ k
 backed; b ˈ æ k t
 background; b ˈ æ k g ɹ ˌ aʊ n d
@@ -1175,7 +1175,7 @@ bacterial; b æ k t ˈ ɪə ɹ ɪə l
 bacterium; b æ k t ˈ ɪə ɹ ɪə m
 bad; b ˈ æ d
 bade; b ˈ eɪ d
-badge; b ˈ æ dʒ
+badge; b ˈ æ d͡ʒ
 badly; b ˈ æ d l i
 badminton; b ˈ æ d m ɪ n t ə n
 baffling; b ˈ æ f l ɪ ŋ
@@ -1224,7 +1224,7 @@ banging; b ˈ æ ŋ ɪ ŋ
 bangkok; b ˈ æ ŋ k ɒ k
 bangkok; b æ ŋ k ˈ ɒ k
 bangladesh; b ˈ æ ŋ l ə d ˌ ɛ ʃ
-banjo; b ˈ æ n dʒ əʊ
+banjo; b ˈ æ n d͡ʒ əʊ
 bank; b ˈ æ ŋ k
 banker; b ˈ æ ŋ k ə
 bankers; b ˈ æ ŋ k ə z
@@ -1255,7 +1255,7 @@ barf; b ˈ ɑː f
 bargain; b ˈ ɑː g ɪ n
 bargaining; b ˈ ɑː g ɪ n ɪ ŋ
 bargains; b ˈ ɑː g ɪ n z
-barge; b ˈ ɑː dʒ
+barge; b ˈ ɑː d͡ʒ
 barham; b ˈ ɛə ɹ ə m
 bark; b ˈ ɑː k
 barking; b ˈ ɑː k ɪ ŋ
@@ -1300,7 +1300,7 @@ bastard; b ˈ ɑː s t ə d
 bastards; b ˈ ɑː s t ə d z
 baste; b ˈ eɪ s t
 bat; b ˈ æ t
-batch; b ˈ æ tʃ
+batch; b ˈ æ t͡ʃ
 bath; b ˈ ɑː θ
 bathe; b ˈ eɪ ð
 bathroom; b ˈ ɑː θ ɹ ˌ uː m
@@ -1318,8 +1318,8 @@ bay; b ˈ eɪ
 bayesian; b ˈ eɪ z ɪə n
 be; b ɪ
 be; b ˈ iː
-beach; b ˈ iː tʃ
-beaches; b ˈ iː tʃ ɪ z
+beach; b ˈ iː t͡ʃ
+beaches; b ˈ iː t͡ʃ ɪ z
 beaconsfield; b ˈ ɛ k ə n z f iː l d
 bead; b ˈ iː d
 beads; b ˈ iː d z
@@ -1360,7 +1360,7 @@ bedroom; b ˈ ɛ d ɹ ˌ uː m
 bedrooms; b ˈ ɛ d ɹ ˌ uː m z
 beds; b ˈ ɛ d z
 bee; b ˈ iː
-beech; b ˈ iː tʃ
+beech; b ˈ iː t͡ʃ
 beef; b ˈ iː f
 beehive; b ˈ iː h ˌ aɪ v
 been; b ɪ n
@@ -1403,10 +1403,10 @@ being; b ˈ iː ɪ ŋ
 beings; b ˈ iː ɪ ŋ z
 belarus; b ˌ ɛ l ə ɹ ˈ uː s
 belarus; b ˈ ɛ l ə ɹ ˌ ʊ s
-belch; b ˈ ɛ l tʃ
+belch; b ˈ ɛ l t͡ʃ
 belfast; b ˈ ɛ l f ˌ ɑː s t
-belgian; b ˈ ɛ l dʒ ə n
-belgium; b ˈ ɛ l dʒ ə m
+belgian; b ˈ ɛ l d͡ʒ ə n
+belgium; b ˈ ɛ l d͡ʒ ə m
 belgrade; b ɛ l g ɹ ˈ eɪ d
 belgrade; b ˈ ɛ l g ɹ eɪ d
 belie; b ɪ l ˈ aɪ
@@ -1432,16 +1432,16 @@ below; b ɪ l ˈ əʊ
 belt; b ˈ ɛ l t
 belts; b ˈ ɛ l t s
 ben; b ˈ ɛ n
-bench; b ˈ ɛ n tʃ
-benchmark; b ˈ ɛ n tʃ m ˌ ɑː k
+bench; b ˈ ɛ n t͡ʃ
+benchmark; b ˈ ɛ n t͡ʃ m ˌ ɑː k
 bend; b ˈ ɛ n d
 beneath; b ɪ n ˈ iː θ
 beneficial; b ˌ ɛ n ɪ f ˈ ɪ ʃ ə l
 benefit; b ˈ ɛ n ɪ f ɪ t
 benefits; b ˈ ɛ n ɪ f ɪ t s
 benign; b ɪ n ˈ aɪ n
-benjamin; b ˈ ɛ n dʒ ə m ɪ n
-benjy; b ˈ ɛ n dʒ i
+benjamin; b ˈ ɛ n d͡ʒ ə m ɪ n
+benjy; b ˈ ɛ n d͡ʒ i
 bennett; b ˈ ɛ n ɪ t
 bent; b ˈ ɛ n t
 benz; b ˈ ɛ n z
@@ -1477,9 +1477,9 @@ betting; b ˈ ɛ t ɪ ŋ
 betty; b ˈ ɛ t i
 between; b ɪ t w ˈ iː n
 bev; b ˈ ɛ v
-beverage; b ˈ ɛ v ɹ ɪ dʒ
-beverage; b ˈ ɛ v ə ɹ ɪ dʒ
-beverages; b ˈ ɛ v ɹ ɪ dʒ ɪ z
+beverage; b ˈ ɛ v ɹ ɪ d͡ʒ
+beverage; b ˈ ɛ v ə ɹ ɪ d͡ʒ
+beverages; b ˈ ɛ v ɹ ɪ d͡ʒ ɪ z
 beverley; b ˈ ɛ v ə l i
 beverly; b ˈ ɛ v ə l i
 beware; b ɪ w ˈ ɛə
@@ -1512,7 +1512,7 @@ bike; b ˈ aɪ k
 bikes; b ˈ aɪ k s
 bikini; b ɪ k ˈ iː n i
 bile; b ˈ aɪ l
-bilge; b ˈ ɪ l dʒ
+bilge; b ˈ ɪ l d͡ʒ
 bilingual; b aɪ l ˈ ɪ ŋ g w ə l
 bill; b ˈ ɪ l
 billericay; b ˌ ɪ l ə ɹ ˈ ɪ k i
@@ -1525,18 +1525,18 @@ bin; b ˈ ɪ n
 binary; b ˈ aɪ n ə ɹ i
 bind; b ˈ aɪ n d
 binding; b ˈ aɪ n d ɪ ŋ
-binge; b ˈ ɪ n dʒ
+binge; b ˈ ɪ n d͡ʒ
 bingo; b ˈ ɪ ŋ g əʊ
 biodiversity; b ˌ aɪ əʊ d aɪ v ˈ ɜː s ɪ t i
 biographies; b aɪ ˈ ɒ g ɹ ə f i z
 biography; b aɪ ˈ ɒ g ɹ ə f i
-biological; b aɪ ə l ˈ ɒ dʒ ɪ k ə l
-biologist; b aɪ ˈ ɒ l ə dʒ ɪ s t
-biology; b aɪ ˈ ɒ l ə dʒ i
+biological; b aɪ ə l ˈ ɒ d͡ʒ ɪ k ə l
+biologist; b aɪ ˈ ɒ l ə d͡ʒ ɪ s t
+biology; b aɪ ˈ ɒ l ə d͡ʒ i
 biopsy; b ˈ aɪ ɒ p s i
 bios; b ˈ aɪ ɒ s
-biotechnology; b ˌ aɪ əʊ t ɛ k n ˈ ɒ l ə dʒ i
-birch; b ˈ ɜː tʃ
+biotechnology; b ˌ aɪ əʊ t ɛ k n ˈ ɒ l ə d͡ʒ i
+birch; b ˈ ɜː t͡ʃ
 bird; b ˈ ɜː d
 birds; b ˈ ɜː d z
 birmingham; b ˈ ɜː m ɪ ŋ ə m
@@ -1549,8 +1549,8 @@ bishop; b ˈ ɪ ʃ ə p
 bishops; b ˈ ɪ ʃ ə p s
 bison; b ˈ aɪ s ə n
 bit; b ˈ ɪ t
-bitch; b ˈ ɪ tʃ
-bitches; b ˈ ɪ tʃ ɪ z
+bitch; b ˈ ɪ t͡ʃ
+bitches; b ˈ ɪ t͡ʃ ɪ z
 bite; b ˈ aɪ t
 bits; b ˈ ɪ t s
 bitten; b ˈ ɪ t ə n
@@ -1563,7 +1563,7 @@ black; b l ˈ æ k
 blackberry; b l ˈ æ k b ə ɹ i
 blackburn; b l ˈ æ k b ə n
 blackcurrant; b l ˌ æ k k ˈ ʌ ɹ ə n t
-blackjack; b l ˈ æ k dʒ ˌ æ k
+blackjack; b l ˈ æ k d͡ʒ ˌ æ k
 blackpool; b l ˈ æ k p ˌ uː l
 blacks; b l ˈ æ k s
 bladder; b l ˈ æ d ə
@@ -1627,8 +1627,8 @@ blossom; b l ˈ ɒ s ə m
 blot; b l ˈ ɒ t
 blow; b l ˈ əʊ
 blowing; b l ˈ əʊ ɪ ŋ
-blowjob; b l ˈ əʊ dʒ ˌ ɒ b
-blowjobs; b l ˈ əʊ dʒ ˌ ɒ b z
+blowjob; b l ˈ əʊ d͡ʒ ˌ ɒ b
+blowjobs; b l ˈ əʊ d͡ʒ ˌ ɒ b z
 blown; b l ˈ əʊ n
 blows; b l ˈ əʊ z
 blubber; b l ˈ ʌ b ə
@@ -1678,7 +1678,7 @@ bombers; b ˈ ɒ m ə z
 bombing; b ˈ ɒ m ɪ ŋ
 bombs; b ˈ ɒ m z
 bond; b ˈ ɒ n d
-bondage; b ˈ ɒ n d ɪ dʒ
+bondage; b ˈ ɒ n d ɪ d͡ʒ
 bonds; b ˈ ɒ n d z
 bone; b ˈ əʊ n
 bones; b ˈ əʊ n z
@@ -1725,7 +1725,7 @@ bosnia; b ˈ ɒ z n ɪə
 bosom; b ˈ ʊ z ə m
 boss; b ˈ ɒ s
 boston; b ˈ ɒ s t ə n
-botch; b ˈ ɒ tʃ
+botch; b ˈ ɒ t͡ʃ
 both; b ˈ əʊ θ
 bother; b ˈ ɒ ð ə
 bothered; b ˈ ɒ ð ə d
@@ -1785,8 +1785,8 @@ brains; b ɹ ˈ eɪ n z
 brake; b ɹ ˈ eɪ k
 brakes; b ɹ ˈ eɪ k s
 bran; b ɹ ˈ æ n
-branch; b ɹ ˈ ɑː n tʃ
-branches; b ɹ ˈ ɑː n tʃ ɪ z
+branch; b ɹ ˈ ɑː n t͡ʃ
+branches; b ɹ ˈ ɑː n t͡ʃ ɪ z
 brand; b ɹ ˈ æ n d
 brandon; b ɹ ˈ æ n d ə n
 brands; b ɹ ˈ æ n d z
@@ -1802,7 +1802,7 @@ brawl; b ɹ ˈ ɔː l
 bray; b ɹ ˈ eɪ
 brazil; b ɹ ə z ˈ ɪ l
 brazilian; b ɹ ə z ˈ ɪ l j ə n
-breach; b ɹ ˈ iː tʃ
+breach; b ɹ ˈ iː t͡ʃ
 bread; b ɹ ˈ ɛ d
 break; b ɹ ˈ eɪ k
 breakdown; b ɹ ˈ eɪ k d ˌ aʊ n
@@ -1833,9 +1833,9 @@ brick; b ɹ ˈ ɪ k
 bricks; b ɹ ˈ ɪ k s
 bridal; b ɹ ˈ aɪ d ə l
 bride; b ɹ ˈ aɪ d
-bridge; b ɹ ˈ ɪ dʒ
-bridgend; b ɹ ˌ ɪ dʒ ˈ ɛ n d
-bridges; b ɹ ˈ ɪ dʒ ɪ z
+bridge; b ɹ ˈ ɪ d͡ʒ
+bridgend; b ɹ ˌ ɪ d͡ʒ ˈ ɛ n d
+bridges; b ɹ ˈ ɪ d͡ʒ ɪ z
 brief; b ɹ ˈ iː f
 briefing; b ɹ ˈ iː f ɪ ŋ
 briefly; b ɹ ˈ iː f l i
@@ -1878,10 +1878,10 @@ broken; b ɹ ˈ əʊ k ə n
 broker; b ɹ ˈ əʊ k ə
 brokers; b ɹ ˈ əʊ k ə z
 bromley; b ɹ ˈ ɒ m l i
-bromwich; b ɹ ˈ ɒ m ɪ tʃ
-bromwich; b ɹ ˈ ɒ m ɪ dʒ
+bromwich; b ɹ ˈ ɒ m ɪ t͡ʃ
+bromwich; b ɹ ˈ ɒ m ɪ d͡ʒ
 bronze; b ɹ ˈ ɒ n z
-brooch; b ɹ ˈ əʊ tʃ
+brooch; b ɹ ˈ əʊ t͡ʃ
 brood; b ɹ ˈ uː d
 brook; b ɹ ˈ ʊ k
 brooklyn; b ɹ ˈ ʊ k l ɪ n
@@ -1929,9 +1929,9 @@ budapest; b ˌ uː d ə p ˈ ɛ s t
 buddha; b ˈ uː d ə
 buddies; b ˈ ʌ d i z
 buddy; b ˈ ʌ d i
-budge; b ˈ ʌ dʒ
-budget; b ˈ ʌ dʒ ɪ t
-budgets; b ˈ ʌ dʒ ɪ t s
+budge; b ˈ ʌ d͡ʒ
+budget; b ˈ ʌ d͡ʒ ɪ t
+budgets; b ˈ ʌ d͡ʒ ɪ t s
 buff; b ˈ ʌ f
 buffalo; b ˈ ʌ f ə l ˌ əʊ
 buffer; b ˈ ʌ f ə
@@ -1956,7 +1956,7 @@ bulb; b ˈ ʌ l b
 bulbs; b ˈ ʌ l b z
 bulgaria; b ʌ l g ˈ ɛə ɹ ɪə
 bulgarian; b ʌ l g ˈ ɛə ɹ ɪə n
-bulge; b ˈ ʌ l dʒ
+bulge; b ˈ ʌ l d͡ʒ
 bulk; b ˈ ʌ l k
 bulky; b ˈ ʌ l k i
 bull; b ˈ ʊ l
@@ -1970,7 +1970,7 @@ bump; b ˈ ʌ m p
 bumper; b ˈ ʌ m p ə
 bumpy; b ˈ ʌ m p i
 bun; b ˈ ʌ n
-bunch; b ˈ ʌ n tʃ
+bunch; b ˈ ʌ n t͡ʃ
 bundle; b ˈ ʌ n d ə l
 bung; b ˈ ʌ ŋ
 bungalow; b ˈ ʌ ŋ g ə l ˌ əʊ
@@ -2021,9 +2021,9 @@ bustling; b ˈ ʌ s l ɪ ŋ
 busty; b ˈ ʌ s t i
 busy; b ˈ ɪ z i
 but; b ˈ ʌ t
-butch; b ˈ ʊ tʃ
-butcher; b ˈ ʊ tʃ ə
-butchers; b ˈ ʊ tʃ ə z
+butch; b ˈ ʊ t͡ʃ
+butcher; b ˈ ʊ t͡ʃ ə
+butchers; b ˈ ʊ t͡ʃ ə z
 bute; b j ˈ uː t
 butler; b ˈ ʌ t l ə
 butt; b ˈ ʌ t
@@ -2047,7 +2047,7 @@ bypass; b ˈ aɪ p ˌ ɑː s
 byte; b ˈ aɪ t
 bytes; b ˈ aɪ t s
 cab; k ˈ æ b
-cabbage; k ˈ æ b ɪ dʒ
+cabbage; k ˈ æ b ɪ d͡ʒ
 cabin; k ˈ æ b ɪ n
 cabinet; k ˈ æ b ɪ n ɪ t
 cabinets; k ˈ æ b ɪ n ɪ t s
@@ -2065,7 +2065,7 @@ caesar; s ˈ iː z ə
 cafe; k ˈ æ f eɪ
 caffeine; k ˈ æ f ɪ ˌ iː n
 caffeine; k ˈ æ f iː n
-cage; k ˈ eɪ dʒ
+cage; k ˈ eɪ d͡ʒ
 cairo; k ˈ aɪ ɹ əʊ
 cake; k ˈ eɪ k
 cakes; k ˈ eɪ k s
@@ -2095,8 +2095,8 @@ calves; k ˈ ɑː v z
 cam; k ˈ æ m
 camaraderie; k ˌ æ m ə ɹ ˈ ɑː d ə ɹ i
 cambodia; k ˌ æ m b ˈ əʊ d ɪə
-cambridge; k ˈ eɪ m b ɹ ɪ dʒ
-cambridgeshire; k ˈ eɪ m b ɹ ɪ dʒ ʃ ə
+cambridge; k ˈ eɪ m b ɹ ɪ d͡ʒ
+cambridgeshire; k ˈ eɪ m b ɹ ɪ d͡ʒ ʃ ə
 camcorder; k ˈ æ m k ˌ ɔː d ə
 camcorders; k ˈ æ m k ˌ ɔː d ə z
 camden; k ˈ æ m d ə n
@@ -2165,15 +2165,15 @@ capital; k ˈ æ p ɪ t ə l
 capitalism; k ˈ æ p ɪ t ə l ˌ ɪ z ə m
 capitalist; k ˈ æ p ɪ t ə l ɪ s t
 capitol; k ˈ æ p ɪ t ə l
-cappuccino; k ˌ æ p ʊ tʃ ˈ iː n əʊ
+cappuccino; k ˌ æ p ʊ t͡ʃ ˈ iː n əʊ
 capri; k ə p ɹ ˈ iː
 capri; k ˈ æ p ɹ i
 caps; k ˈ æ p s
 capsule; k ˈ æ p s uː l
 captain; k ˈ æ p t ɪ n
 captor; k ˈ æ p t ə
-capture; k ˈ æ p tʃ ə
-captured; k ˈ æ p tʃ ə d
+capture; k ˈ æ p t͡ʃ ə
+captured; k ˈ æ p t͡ʃ ə d
 car; k ˈ ɑː
 caravan; k ˈ æ ɹ ə v ˌ æ n
 caravans; k ˈ æ ɹ ə v ˌ æ n z
@@ -2218,7 +2218,7 @@ carousel; k ˌ æ ɹ ə z ˈ ɛ l
 carp; k ˈ ɑː p
 carpet; k ˈ ɑː p ɪ t
 carpets; k ˈ ɑː p ɪ t s
-carriage; k ˈ æ ɹ ɪ dʒ
+carriage; k ˈ æ ɹ ɪ d͡ʒ
 carrie; k ˈ æ ɹ i
 carried; k ˈ æ ɹ i d
 carrier; k ˈ æ ɹ ɪə
@@ -2232,13 +2232,13 @@ carrying; k ˈ æ ɹ i ɪ ŋ
 cars; k ˈ ɑː z
 cart; k ˈ ɑː t
 carter; k ˈ ɑː t ə
-cartilage; k ˈ ɑː t ɪ l ɪ dʒ
-cartilage; k ˈ ɑː t l ɪ dʒ
+cartilage; k ˈ ɑː t ɪ l ɪ d͡ʒ
+cartilage; k ˈ ɑː t l ɪ d͡ʒ
 carton; k ˈ ɑː t ə n
 cartoon; k ɑː t ˈ uː n
 cartoons; k ɑː t ˈ uː n z
-cartridge; k ˈ ɑː t ɹ ɪ dʒ
-cartridges; k ˈ ɑː t ɹ ɪ dʒ ɪ z
+cartridge; k ˈ ɑː t ɹ ɪ d͡ʒ
+cartridges; k ˈ ɑː t ɹ ɪ d͡ʒ ɪ z
 carve; k ˈ ɑː v
 cascade; k ˌ æ s k ˌ eɪ d
 case; k ˈ eɪ s
@@ -2271,8 +2271,8 @@ catalyst; k ˈ æ t ə l ɪ s t
 catastrophe; k ə t ˈ æ s t ɹ ə f i
 catastrophic; k ˌ æ t ə s t ɹ ˈ ɒ f ɪ k
 catastrophy; k ə t ˈ æ s t ɹ ə f i
-catch; k ˈ æ tʃ
-catching; k ˈ æ tʃ ɪ ŋ
+catch; k ˈ æ t͡ʃ
+catching; k ˈ æ t͡ʃ ɪ ŋ
 categories; k ˈ æ t ɪ g ə ɹ i z
 category; k ˈ æ t ɪ g ə ɹ i
 cater; k ˈ eɪ t ə
@@ -2318,7 +2318,7 @@ celebrity; s ə l ˈ ɛ b ɹ ɪ t i
 celebs; s ɪ l ˈ ɛ b z
 cell; s ˈ ɛ l
 cellar; s ˈ ɛ l ə
-cello; tʃ ˈ ɛ l əʊ
+cello; t͡ʃ ˈ ɛ l əʊ
 cells; s ˈ ɛ l z
 cellular; s ˈ ɛ l j ʊ l ə
 celt; s ˈ ɛ l t
@@ -2339,8 +2339,8 @@ central; s ˈ ɛ n t ɹ ə l
 centre; s ˈ ɛ n t ə
 centres; s ˈ ɛ n t ə z
 cents; s ˈ ɛ n t s
-centuries; s ˈ ɛ n tʃ ə ɹ i z
-century; s ˈ ɛ n tʃ ə ɹ i
+centuries; s ˈ ɛ n t͡ʃ ə ɹ i z
+century; s ˈ ɛ n t͡ʃ ə ɹ i
 ceramic; s ɪ ɹ ˈ æ m ɪ k
 cereal; s ˈ ɪə ɹ ɪə l
 cereals; s ˈ ɪə ɹ ɪə l z
@@ -2354,49 +2354,49 @@ certificates; s ə t ˈ ɪ f ɪ k ˌ eɪ t s
 certificates; s ə t ˈ ɪ f ɪ k ɪ t s
 certification; s ˌ ɜː t ɪ f ɪ k ˈ eɪ ʃ ə n
 certified; s ˈ ɜː t ɪ f ˌ aɪ d
-chad; tʃ ˈ æ d
-chafe; tʃ ˈ eɪ f
-chaff; tʃ ˈ ɑː f
-chain; tʃ ˈ eɪ n
-chains; tʃ ˈ eɪ n z
-chair; tʃ ˈ ɛə
-chairman; tʃ ˈ ɛə m ə n
-chairmen; tʃ ˈ ɛə m ə n
-chairs; tʃ ˈ ɛə z
-chalk; tʃ ˈ ɔː k
-challenge; tʃ ˈ æ l ɪ n dʒ
-challenged; tʃ ˈ æ l ɪ n dʒ d
-challenges; tʃ ˈ æ l ɪ n dʒ ɪ z
-challenging; tʃ ˈ æ l ɪ n dʒ ɪ ŋ
-chamber; tʃ ˈ eɪ m b ə
-chambers; tʃ ˈ eɪ m b ə z
+chad; t͡ʃ ˈ æ d
+chafe; t͡ʃ ˈ eɪ f
+chaff; t͡ʃ ˈ ɑː f
+chain; t͡ʃ ˈ eɪ n
+chains; t͡ʃ ˈ eɪ n z
+chair; t͡ʃ ˈ ɛə
+chairman; t͡ʃ ˈ ɛə m ə n
+chairmen; t͡ʃ ˈ ɛə m ə n
+chairs; t͡ʃ ˈ ɛə z
+chalk; t͡ʃ ˈ ɔː k
+challenge; t͡ʃ ˈ æ l ɪ n d͡ʒ
+challenged; t͡ʃ ˈ æ l ɪ n d͡ʒ d
+challenges; t͡ʃ ˈ æ l ɪ n d͡ʒ ɪ z
+challenging; t͡ʃ ˈ æ l ɪ n d͡ʒ ɪ ŋ
+chamber; t͡ʃ ˈ eɪ m b ə
+chambers; t͡ʃ ˈ eɪ m b ə z
 chameleon; k ə m ˈ iː l ɪə n
 champagne; ʃ æ m p ˈ eɪ n
-champion; tʃ ˈ æ m p ɪə n
-champions; tʃ ˈ æ m p ɪə n z
-championship; tʃ ˈ æ m p ɪə n ʃ ˌ ɪ p
-championships; tʃ ˈ æ m p ɪə n ʃ ˌ ɪ p s
-chance; tʃ ˈ ɑː n s
-chancellor; tʃ ˈ ɑː n s l ə
-chancellor; tʃ ˈ ɑː n s ə l ə
-chances; tʃ ˈ ɑː n s ɪ z
+champion; t͡ʃ ˈ æ m p ɪə n
+champions; t͡ʃ ˈ æ m p ɪə n z
+championship; t͡ʃ ˈ æ m p ɪə n ʃ ˌ ɪ p
+championships; t͡ʃ ˈ æ m p ɪə n ʃ ˌ ɪ p s
+chance; t͡ʃ ˈ ɑː n s
+chancellor; t͡ʃ ˈ ɑː n s l ə
+chancellor; t͡ʃ ˈ ɑː n s ə l ə
+chances; t͡ʃ ˈ ɑː n s ɪ z
 chandelier; ʃ ˌ æ n d ˈ ɪ l ɪə
-change; tʃ ˈ eɪ n dʒ
-changeable; tʃ ˈ eɪ n dʒ ə b ə l
-changed; tʃ ˈ eɪ n dʒ d
-changes; tʃ ˈ eɪ n dʒ ɪ z
-changing; tʃ ˈ eɪ n dʒ ɪ ŋ
-channel; tʃ ˈ æ n ə l
-channels; tʃ ˈ æ n ə l z
-chant; tʃ ˈ ɑː n t
-chanting; tʃ ˈ ɑː n t ɪ ŋ
+change; t͡ʃ ˈ eɪ n d͡ʒ
+changeable; t͡ʃ ˈ eɪ n d͡ʒ ə b ə l
+changed; t͡ʃ ˈ eɪ n d͡ʒ d
+changes; t͡ʃ ˈ eɪ n d͡ʒ ɪ z
+changing; t͡ʃ ˈ eɪ n d͡ʒ ɪ ŋ
+channel; t͡ʃ ˈ æ n ə l
+channels; t͡ʃ ˈ æ n ə l z
+chant; t͡ʃ ˈ ɑː n t
+chanting; t͡ʃ ˈ ɑː n t ɪ ŋ
 chaos; k ˈ eɪ ɒ s
-chap; tʃ ˈ æ p
-chapel; tʃ ˈ æ p ə l
-chaps; tʃ ˈ æ p s
-chapter; tʃ ˈ æ p t ə
-chapters; tʃ ˈ æ p t ə z
-char; tʃ ˈ ɑː
+chap; t͡ʃ ˈ æ p
+chapel; t͡ʃ ˈ æ p ə l
+chaps; t͡ʃ ˈ æ p s
+chapter; t͡ʃ ˈ æ p t ə
+chapters; t͡ʃ ˈ æ p t ə z
+char; t͡ʃ ˈ ɑː
 character; k ˈ æ ɹ ɪ k t ə
 characterise; k ˈ æ ɹ ɪ k t ə ɹ ˌ aɪ z
 characterised; k ˈ æ ɹ ɪ k t ə ɹ ˌ aɪ z d
@@ -2407,158 +2407,158 @@ characterization; k ˌ æ ɹ ɪ k t ə ɹ aɪ z ˈ eɪ ʃ ə n
 characterize; k ˈ æ ɹ ɪ k t ə ɹ ˌ aɪ z
 characterized; k ˈ æ ɹ ɪ k t ə ɹ ˌ aɪ z d
 characters; k ˈ æ ɹ ɪ k t ə z
-chard; tʃ ˈ ɑː d
-charge; tʃ ˈ ɑː dʒ
-charged; tʃ ˈ ɑː dʒ d
-charger; tʃ ˈ ɑː dʒ ə
-chargers; tʃ ˈ ɑː dʒ ə z
-charges; tʃ ˈ ɑː dʒ ɪ z
-charging; tʃ ˈ ɑː dʒ ɪ ŋ
+chard; t͡ʃ ˈ ɑː d
+charge; t͡ʃ ˈ ɑː d͡ʒ
+charged; t͡ʃ ˈ ɑː d͡ʒ d
+charger; t͡ʃ ˈ ɑː d͡ʒ ə
+chargers; t͡ʃ ˈ ɑː d͡ʒ ə z
+charges; t͡ʃ ˈ ɑː d͡ʒ ɪ z
+charging; t͡ʃ ˈ ɑː d͡ʒ ɪ ŋ
 charisma; k ə ɹ ˈ ɪ z m ə
-charitable; tʃ ˈ æ ɹ ɪ t ə b ə l
-charities; tʃ ˈ æ ɹ ɪ t i z
-charity; tʃ ˈ æ ɹ ɪ t i
+charitable; t͡ʃ ˈ æ ɹ ɪ t ə b ə l
+charities; t͡ʃ ˈ æ ɹ ɪ t i z
+charity; t͡ʃ ˈ æ ɹ ɪ t i
 charlatan; ʃ ˈ ɑː l ə t ə n
-charles; tʃ ˈ ɑː l z
-charleston; tʃ ˈ ɑː l s t ə n
-charleston; tʃ ˈ ɑː l z t ə n
-charlie; tʃ ˈ ɑː l i
+charles; t͡ʃ ˈ ɑː l z
+charleston; t͡ʃ ˈ ɑː l s t ə n
+charleston; t͡ʃ ˈ ɑː l z t ə n
+charlie; t͡ʃ ˈ ɑː l i
 charlotte; ʃ ˈ ɑː l ə t
-charm; tʃ ˈ ɑː m
-charming; tʃ ˈ ɑː m ɪ ŋ
-charms; tʃ ˈ ɑː m z
-chart; tʃ ˈ ɑː t
-charter; tʃ ˈ ɑː t ə
-charts; tʃ ˈ ɑː t s
-chase; tʃ ˈ eɪ s
-chasing; tʃ ˈ eɪ s ɪ ŋ
+charm; t͡ʃ ˈ ɑː m
+charming; t͡ʃ ˈ ɑː m ɪ ŋ
+charms; t͡ʃ ˈ ɑː m z
+chart; t͡ʃ ˈ ɑː t
+charter; t͡ʃ ˈ ɑː t ə
+charts; t͡ʃ ˈ ɑː t s
+chase; t͡ʃ ˈ eɪ s
+chasing; t͡ʃ ˈ eɪ s ɪ ŋ
 chasm; k ˈ æ z ə m
 chassis; ʃ ˈ æ s i
-chaste; tʃ ˈ eɪ s t
-chastise; tʃ æ s t ˈ aɪ z
-chat; tʃ ˈ æ t
-chatter; tʃ ˈ æ t ə
-chattering; tʃ ˈ æ t ə ɹ ɪ ŋ
-chatting; tʃ ˈ æ t ɪ ŋ
+chaste; t͡ʃ ˈ eɪ s t
+chastise; t͡ʃ æ s t ˈ aɪ z
+chat; t͡ʃ ˈ æ t
+chatter; t͡ʃ ˈ æ t ə
+chattering; t͡ʃ ˈ æ t ə ɹ ɪ ŋ
+chatting; t͡ʃ ˈ æ t ɪ ŋ
 chauvinism; ʃ ˈ əʊ v ɪ n ˌ ɪ z ə m
-cheap; tʃ ˈ iː p
-cheaper; tʃ ˈ iː p ə
-cheapest; tʃ ˈ iː p ɪ s t
-cheat; tʃ ˈ iː t
-cheated; tʃ ˈ iː t ɪ d
-cheating; tʃ ˈ iː t ɪ ŋ
-cheats; tʃ ˈ iː t s
-check; tʃ ˈ ɛ k
-checked; tʃ ˈ ɛ k t
-checking; tʃ ˈ ɛ k ɪ ŋ
-checklist; tʃ ˈ ɛ k l ˌ ɪ s t
-checkout; tʃ ˈ ɛ k ˌ aʊ t
-checks; tʃ ˈ ɛ k s
-cheek; tʃ ˈ iː k
-cheeks; tʃ ˈ iː k s
-cheeky; tʃ ˈ iː k i
-cheer; tʃ ˈ ɪə
-cheerful; tʃ ˈ ɪə f ə l
-cheering; tʃ ˈ ɪə ɹ ɪ ŋ
-cheerio; tʃ ˈ ɪə ɹ ɪ əʊ
-cheers; tʃ ˈ ɪə z
-cheese; tʃ ˈ iː z
-cheetah; tʃ ˈ iː t ə
+cheap; t͡ʃ ˈ iː p
+cheaper; t͡ʃ ˈ iː p ə
+cheapest; t͡ʃ ˈ iː p ɪ s t
+cheat; t͡ʃ ˈ iː t
+cheated; t͡ʃ ˈ iː t ɪ d
+cheating; t͡ʃ ˈ iː t ɪ ŋ
+cheats; t͡ʃ ˈ iː t s
+check; t͡ʃ ˈ ɛ k
+checked; t͡ʃ ˈ ɛ k t
+checking; t͡ʃ ˈ ɛ k ɪ ŋ
+checklist; t͡ʃ ˈ ɛ k l ˌ ɪ s t
+checkout; t͡ʃ ˈ ɛ k ˌ aʊ t
+checks; t͡ʃ ˈ ɛ k s
+cheek; t͡ʃ ˈ iː k
+cheeks; t͡ʃ ˈ iː k s
+cheeky; t͡ʃ ˈ iː k i
+cheer; t͡ʃ ˈ ɪə
+cheerful; t͡ʃ ˈ ɪə f ə l
+cheering; t͡ʃ ˈ ɪə ɹ ɪ ŋ
+cheerio; t͡ʃ ˈ ɪə ɹ ɪ əʊ
+cheers; t͡ʃ ˈ ɪə z
+cheese; t͡ʃ ˈ iː z
+cheetah; t͡ʃ ˈ iː t ə
 chef; ʃ ˈ ɛ f
-chelsea; tʃ ˈ ɛ l s i
-cheltenham; tʃ ˈ ɛ l t ə n ə m
+chelsea; t͡ʃ ˈ ɛ l s i
+cheltenham; t͡ʃ ˈ ɛ l t ə n ə m
 chemical; k ˈ ɛ m ɪ k ə l
 chemicals; k ˈ ɛ m ɪ k ə l z
 chemist; k ˈ ɛ m ɪ s t
 chemistry; k ˈ ɛ m ɪ s t ɹ i
 chemotherapy; k ˌ iː m əʊ θ ˈ ɛ ɹ ə p i
 chemotherapy; k ˌ iː m ə θ ˈ ɛ ɹ ə p i
-cheque; tʃ ˈ ɛ k
-cheques; tʃ ˈ ɛ k s
-cherries; tʃ ˈ ɛ ɹ i z
-cherry; tʃ ˈ ɛ ɹ i
+cheque; t͡ʃ ˈ ɛ k
+cheques; t͡ʃ ˈ ɛ k s
+cherries; t͡ʃ ˈ ɛ ɹ i z
+cherry; t͡ʃ ˈ ɛ ɹ i
 cheryl; ʃ ˈ ɛ ɹ ə l
-cheshire; tʃ ˈ ɛ ʃ ə
-cheshunt; tʃ ˈ ɛ z ə n t
-chess; tʃ ˈ ɛ s
-chest; tʃ ˈ ɛ s t
-chester; tʃ ˈ ɛ s t ə
-chester-le-street; tʃ ˈ ɛ s t ə l ɪ s t ɹ ˌ iː t
-chesterfield; tʃ ˈ ɛ s t ə f iː l d
-chetah; tʃ ˈ iː t ə
+cheshire; t͡ʃ ˈ ɛ ʃ ə
+cheshunt; t͡ʃ ˈ ɛ z ə n t
+chess; t͡ʃ ˈ ɛ s
+chest; t͡ʃ ˈ ɛ s t
+chester; t͡ʃ ˈ ɛ s t ə
+chester-le-street; t͡ʃ ˈ ɛ s t ə l ɪ s t ɹ ˌ iː t
+chesterfield; t͡ʃ ˈ ɛ s t ə f iː l d
+chetah; t͡ʃ ˈ iː t ə
 chevrolet; ʃ ˈ ɛ v ɹ əʊ l ˌ eɪ
 chevrolet; ʃ ˈ ɛ v ɹ ə l ˌ eɪ
-chevy; tʃ ˈ ɛ v i
+chevy; t͡ʃ ˈ ɛ v i
 chevy; ʃ ˈ ɛ v i
-chew; tʃ ˈ uː
-chewing; tʃ ˈ uː ɪ ŋ
+chew; t͡ʃ ˈ uː
+chewing; t͡ʃ ˈ uː ɪ ŋ
 chi; k ˈ aɪ
-chi; tʃ ˈ iː
+chi; t͡ʃ ˈ iː
 chi; k ˈ iː
 chic; ʃ ˈ iː k
 chicago; ʃ ɪ k ˈ ɑː g əʊ
-chick; tʃ ˈ ɪ k
-chicken; tʃ ˈ ɪ k ə n
-chickens; tʃ ˈ ɪ k ə n z
-chicks; tʃ ˈ ɪ k s
-chief; tʃ ˈ iː f
-chiefly; tʃ ˈ iː f l i
-chiefs; tʃ ˈ iː f s
-child; tʃ ˈ aɪ l d
-childhood; tʃ ˈ aɪ l d h ˌ ʊ d
-children; tʃ ˈ ɪ l d ɹ ə n
-chile; tʃ ˈ ɪ l i
-chill; tʃ ˈ ɪ l
-chilly; tʃ ˈ ɪ l i
-chime; tʃ ˈ aɪ m
-chimney; tʃ ˈ ɪ m n i
-chimp; tʃ ˈ ɪ m p
-chimpanzee; tʃ ˌ ɪ m p æ n z ˈ iː
-chin; tʃ ˈ ɪ n
-china; tʃ ˈ aɪ n ə
-chinese; tʃ aɪ n ˈ iː z
-chink; tʃ ˈ ɪ ŋ k
-chip; tʃ ˈ ɪ p
-chips; tʃ ˈ ɪ p s
-chirp; tʃ ˈ ɜː p
-chisel; tʃ ˈ ɪ z ə l
-chiswick; tʃ ˈ ɪ z ɪ k
-chit; tʃ ˈ ɪ t
-chive; tʃ ˈ aɪ v
-chivvy; tʃ ˈ ɪ v i
+chick; t͡ʃ ˈ ɪ k
+chicken; t͡ʃ ˈ ɪ k ə n
+chickens; t͡ʃ ˈ ɪ k ə n z
+chicks; t͡ʃ ˈ ɪ k s
+chief; t͡ʃ ˈ iː f
+chiefly; t͡ʃ ˈ iː f l i
+chiefs; t͡ʃ ˈ iː f s
+child; t͡ʃ ˈ aɪ l d
+childhood; t͡ʃ ˈ aɪ l d h ˌ ʊ d
+children; t͡ʃ ˈ ɪ l d ɹ ə n
+chile; t͡ʃ ˈ ɪ l i
+chill; t͡ʃ ˈ ɪ l
+chilly; t͡ʃ ˈ ɪ l i
+chime; t͡ʃ ˈ aɪ m
+chimney; t͡ʃ ˈ ɪ m n i
+chimp; t͡ʃ ˈ ɪ m p
+chimpanzee; t͡ʃ ˌ ɪ m p æ n z ˈ iː
+chin; t͡ʃ ˈ ɪ n
+china; t͡ʃ ˈ aɪ n ə
+chinese; t͡ʃ aɪ n ˈ iː z
+chink; t͡ʃ ˈ ɪ ŋ k
+chip; t͡ʃ ˈ ɪ p
+chips; t͡ʃ ˈ ɪ p s
+chirp; t͡ʃ ˈ ɜː p
+chisel; t͡ʃ ˈ ɪ z ə l
+chiswick; t͡ʃ ˈ ɪ z ɪ k
+chit; t͡ʃ ˈ ɪ t
+chive; t͡ʃ ˈ aɪ v
+chivvy; t͡ʃ ˈ ɪ v i
 chloride; k l ˈ ɔː ɹ aɪ d
-chocolate; tʃ ˈ ɒ k ə l ə t
-chocolate; tʃ ˈ ɒ k ə l ɪ t
-chocolates; tʃ ˈ ɒ k ə l ə t s
-chocolates; tʃ ˈ ɒ k ə l ɪ t s
-choice; tʃ ˈ ɔɪ s
-choices; tʃ ˈ ɔɪ s ɪ z
+chocolate; t͡ʃ ˈ ɒ k ə l ə t
+chocolate; t͡ʃ ˈ ɒ k ə l ɪ t
+chocolates; t͡ʃ ˈ ɒ k ə l ə t s
+chocolates; t͡ʃ ˈ ɒ k ə l ɪ t s
+choice; t͡ʃ ˈ ɔɪ s
+choices; t͡ʃ ˈ ɔɪ s ɪ z
 choir; k w ˈ aɪ ə
-choke; tʃ ˈ əʊ k
+choke; t͡ʃ ˈ əʊ k
 cholera; k ˈ ɒ l ə ɹ ə
 cholesterol; k ə l ˈ ɛ s t ə ɹ ˌ ɒ l
-cholmondeley; tʃ ˈ ʌ m l i
-chomp; tʃ ˈ ɒ m p
-choose; tʃ ˈ uː z
-choosing; tʃ ˈ uː z ɪ ŋ
-chop; tʃ ˈ ɒ p
-chopped; tʃ ˈ ɒ p t
-chops; tʃ ˈ ɒ p s
+cholmondeley; t͡ʃ ˈ ʌ m l i
+chomp; t͡ʃ ˈ ɒ m p
+choose; t͡ʃ ˈ uː z
+choosing; t͡ʃ ˈ uː z ɪ ŋ
+chop; t͡ʃ ˈ ɒ p
+chopped; t͡ʃ ˈ ɒ p t
+chops; t͡ʃ ˈ ɒ p s
 choral; k ˈ ɔː ɹ ə l
 choral; k ɒ ɹ ˈ ɑː l
 chorale; k ɒ ɹ ˈ ɑː l
 chord; k ˈ ɔː d
-chore; tʃ ˈ ɔː
-chores; tʃ ˈ ɔː z
+chore; t͡ʃ ˈ ɔː
+chores; t͡ʃ ˈ ɔː z
 chorus; k ˈ ɒ ɹ ə s
-chose; tʃ ˈ əʊ z
-chosen; tʃ ˈ əʊ z ə n
+chose; t͡ʃ ˈ əʊ z
+chosen; t͡ʃ ˈ əʊ z ə n
 chris; k ɹ ˈ ɪ s
 chrissy; k ɹ ˈ ɪ s i
 christ; k ɹ ˈ aɪ s t
-christian; k ɹ ˈ ɪ s tʃ ə n
+christian; k ɹ ˈ ɪ s t͡ʃ ə n
 christianity; k ɹ ˌ ɪ s t ɪ ˈ æ n ɪ t i
-christians; k ɹ ˈ ɪ s tʃ ə n z
+christians; k ɹ ˈ ɪ s t͡ʃ ə n z
 christie; k ɹ ˈ ɪ s t i
 christina; k ɹ ɪ s t ˈ iː n ə
 christine; k ɹ ɪ s t ˈ iː n
@@ -2569,29 +2569,29 @@ chromosome; k ɹ ˈ əʊ m ə s ˌ əʊ m
 chronic; k ɹ ˈ ɒ n ɪ k
 chronicle; k ɹ ˈ ɒ n ɪ k ə l
 chronicles; k ɹ ˈ ɒ n ɪ k ə l z
-chronological; k ɹ ˌ ɒ n ə l ˈ ɒ dʒ ɪ k ə l
+chronological; k ɹ ˌ ɒ n ə l ˈ ɒ d͡ʒ ɪ k ə l
 chrysler; k ɹ ˈ aɪ s l ə
-chubby; tʃ ˈ ʌ b i
-chuck; tʃ ˈ ʌ k
-chucked; tʃ ˈ ʌ k t
-chucking; tʃ ˈ ʌ k ɪ ŋ
-chuckle; tʃ ˈ ʌ k ə l
-chuckles; tʃ ˈ ʌ k ə l z
-chuckling; tʃ ˈ ʌ k l ɪ ŋ
-chuff; tʃ ˈ ʌ f
-chuffed; tʃ ˈ ʌ f t
-chug; tʃ ˈ ʌ g
-chum; tʃ ˈ ʌ m
-chums; tʃ ˈ ʌ m z
-chunk; tʃ ˈ ʌ ŋ k
-chunky; tʃ ˈ ʌ ŋ k i
-church; tʃ ˈ ɜː tʃ
-churches; tʃ ˈ ɜː tʃ ɪ z
-churchill; tʃ ˈ ɜː tʃ ɪ l
-churn; tʃ ˈ ɜː n
+chubby; t͡ʃ ˈ ʌ b i
+chuck; t͡ʃ ˈ ʌ k
+chucked; t͡ʃ ˈ ʌ k t
+chucking; t͡ʃ ˈ ʌ k ɪ ŋ
+chuckle; t͡ʃ ˈ ʌ k ə l
+chuckles; t͡ʃ ˈ ʌ k ə l z
+chuckling; t͡ʃ ˈ ʌ k l ɪ ŋ
+chuff; t͡ʃ ˈ ʌ f
+chuffed; t͡ʃ ˈ ʌ f t
+chug; t͡ʃ ˈ ʌ g
+chum; t͡ʃ ˈ ʌ m
+chums; t͡ʃ ˈ ʌ m z
+chunk; t͡ʃ ˈ ʌ ŋ k
+chunky; t͡ʃ ˈ ʌ ŋ k i
+church; t͡ʃ ˈ ɜː t͡ʃ
+churches; t͡ʃ ˈ ɜː t͡ʃ ɪ z
+churchill; t͡ʃ ˈ ɜː t͡ʃ ɪ l
+churn; t͡ʃ ˈ ɜː n
 chute; ʃ ˈ uː t
 chutzpa; h ˈ ʊ t s p ə
-ciao; tʃ ˈ aʊ
+ciao; t͡ʃ ˈ aʊ
 cider; s ˈ aɪ d ə
 cigar; s ɪ g ˈ ɑː
 cigarette; s ˌ ɪ g ə ɹ ˈ ɛ t
@@ -2677,7 +2677,7 @@ clearly; k l ˈ ɪə l i
 clears; k l ˈ ɪə z
 cleave; k l ˈ iː v
 cleft; k l ˈ ɛ f t
-clergy; k l ˈ ɜː dʒ i
+clergy; k l ˈ ɜː d͡ʒ i
 clerical; k l ˈ ɛ ɹ ɪ k ə l
 clerk; k l ˈ ɑː k
 cleveland; k l ˈ iː v l ə n d
@@ -2743,7 +2743,7 @@ clung; k l ˈ ʌ ŋ
 clunk; k l ˈ ʌ ŋ k
 cluster; k l ˈ ʌ s t ə
 clusters; k l ˈ ʌ s t ə z
-clutch; k l ˈ ʌ tʃ
+clutch; k l ˈ ʌ t͡ʃ
 clutter; k l ˈ ʌ t ə
 clyde; k l ˈ aɪ d
 co; k ˈ əʊ
@@ -2752,9 +2752,9 @@ co-operation; k əʊ ˌ ɒ p ə ɹ ˈ eɪ ʃ ə n
 co-operative; k ˌ əʊ ˈ ɒ p ɹ ə t ɪ v
 co-operative; k ˌ əʊ ˈ ɒ p ə ɹ ə t ɪ v
 co-ordination; k əʊ ˌ ɔː d ɪ n ˈ eɪ ʃ ə n
-coach; k ˈ əʊ tʃ
-coaches; k ˈ əʊ tʃ ɪ z
-coaching; k ˈ əʊ tʃ ɪ ŋ
+coach; k ˈ əʊ t͡ʃ
+coaches; k ˈ əʊ t͡ʃ ɪ z
+coaching; k ˈ əʊ t͡ʃ ɪ ŋ
 coal; k ˈ əʊ l
 coalesce; k ˌ əʊ ə l ˈ ɛ s
 coalition; k ˌ əʊ ə l ˈ ɪ ʃ ə n
@@ -2773,7 +2773,7 @@ cocaine; k əʊ k ˈ eɪ n
 cocaine; k ə k ˈ eɪ n
 cock; k ˈ ɒ k
 cockle; k ˈ ɒ k ə l
-cockroach; k ˈ ɒ k ɹ ˌ əʊ tʃ
+cockroach; k ˈ ɒ k ɹ ˌ əʊ t͡ʃ
 cocks; k ˈ ɒ k s
 cocktail; k ˈ ɒ k t ˌ eɪ l
 cocky; k ˈ ɒ k i
@@ -2804,7 +2804,7 @@ coke; k ˈ əʊ k
 cokes; k ˈ əʊ k s
 colateral; k ə l ˈ æ t ə ɹ ə l
 colateral; k ɒ l ˈ æ t ə ɹ ə l
-colchester; k ˈ əʊ l tʃ ɪ s t ə
+colchester; k ˈ əʊ l t͡ʃ ɪ s t ə
 cold; k ˈ əʊ l d
 colder; k ˈ əʊ l d ə
 coldfield; k ˈ əʊ l d f iː l d
@@ -2831,8 +2831,8 @@ collections; k ə l ˈ ɛ k ʃ ə n z
 collective; k ə l ˈ ɛ k t ɪ v
 collector; k ə l ˈ ɛ k t ə
 collectors; k ə l ˈ ɛ k t ə z
-college; k ˈ ɒ l ɪ dʒ
-colleges; k ˈ ɒ l ɪ dʒ ɪ z
+college; k ˈ ɒ l ɪ d͡ʒ
+colleges; k ˈ ɒ l ɪ d͡ʒ ɪ z
 collins; k ˈ ɒ l ɪ n z
 cologne; k ə l ˈ əʊ n
 colombia; k ə l ˈ ɒ m b ɪə
@@ -3030,7 +3030,7 @@ concentrations; k ˌ ɒ n s ə n t ɹ ˈ eɪ ʃ ə n z
 concept; k ˈ ɒ n s ɛ p t
 conception; k ə n s ˈ ɛ p ʃ ə n
 concepts; k ˈ ɒ n s ɛ p t s
-conceptual; k ə n s ˈ ɛ p tʃ ʊə l
+conceptual; k ə n s ˈ ɛ p t͡ʃ ʊə l
 concern; k ə n s ˈ ɜː n
 concerned; k ə n s ˈ ɜː n d
 concerning; k ə n s ˈ ɜː n ɪ ŋ
@@ -3109,11 +3109,11 @@ confused; k ə n f j ˈ uː z d
 confusing; k ə n f j ˈ uː z ɪ ŋ
 confusion; k ə n f j ˈ uː ʒ ə n
 congo; k ˈ ɒ ŋ g əʊ
-congratulations; k ə n g ɹ ˌ æ tʃ ə l ˈ eɪ ʃ ə n z
+congratulations; k ə n g ɹ ˌ æ t͡ʃ ə l ˈ eɪ ʃ ə n z
 congregation; k ˌ ɒ ŋ g ɹ ɪ g ˈ eɪ ʃ ə n
 congress; k ˈ ɒ ŋ g ɹ ɛ s
 congressional; k ə n g ɹ ˈ ɛ ʃ ə n ə l
-conjunction; k ə n dʒ ˈ ʌ ŋ k ʃ ə n
+conjunction; k ə n d͡ʒ ˈ ʌ ŋ k ʃ ə n
 connect; k ə n ˈ ɛ k t
 connected; k ə n ˈ ɛ k t ɪ d
 connecticut; k ə n ˈ ɛ t ɪ k ə t
@@ -3174,10 +3174,10 @@ constable; k ˈ ɒ n s t ə b ə l
 constance; k ˈ ɒ n s t ə n s
 constant; k ˈ ɒ n s t ə n t
 constantly; k ˈ ɒ n s t ə n t l i
-constituencies; k ə n s t ˈ ɪ tʃ ʊə n s i z
-constituency; k ə n s t ˈ ɪ tʃ ʊə n s i
-constituent; k ə n s t ˈ ɪ tʃ ʊə n t
-constituents; k ə n s t ˈ ɪ tʃ ʊə n t s
+constituencies; k ə n s t ˈ ɪ t͡ʃ ʊə n s i z
+constituency; k ə n s t ˈ ɪ t͡ʃ ʊə n s i
+constituent; k ə n s t ˈ ɪ t͡ʃ ʊə n t
+constituents; k ə n s t ˈ ɪ t͡ʃ ʊə n t s
 constitute; k ˈ ɒ n s t ɪ t j ˌ uː t
 constitutes; k ˈ ɒ n s t ɪ t j ˌ uː t s
 constitution; k ˌ ɒ n s t ɪ t j ˈ uː ʃ ə n
@@ -3210,7 +3210,7 @@ contacting; k ˈ ɒ n t ˌ æ k t ɪ ŋ
 contacting; k ə n t ˈ æ k t ɪ ŋ
 contacts; k ə n t ˈ æ k t s
 contacts; k ˈ ɒ n t ˌ æ k t s
-contagion; k ə n t ˈ eɪ dʒ ə n
+contagion; k ə n t ˈ eɪ d͡ʒ ə n
 contain; k ə n t ˈ eɪ n
 contained; k ə n t ˈ eɪ n d
 container; k ə n t ˈ eɪ n ə
@@ -3253,7 +3253,7 @@ contractor; k ˈ ɒ n t ɹ ˌ æ k t ə
 contractors; k ˈ ɒ n t ɹ ˌ æ k t ə z
 contracts; k ə n t ɹ ˈ æ k t s
 contracts; k ˈ ɒ n t ɹ ˌ æ k t s
-contractual; k ə n t ɹ ˈ æ k tʃ ʊə l
+contractual; k ə n t ɹ ˈ æ k t͡ʃ ʊə l
 contradict; k ˌ ɒ n t ɹ ə d ˈ ɪ k t
 contradiction; k ˌ ɒ n t ɹ ə d ˈ ɪ k ʃ ə n
 contradictory; k ˌ ɒ n t ɹ ə d ˈ ɪ k t ə ɹ i
@@ -3286,8 +3286,8 @@ convenient; k ə n v ˈ iː n ɪə n t
 convention; k ə n v ˈ ɛ n ʃ ə n
 conventional; k ə n v ˈ ɛ n ʃ ə n ə l
 conventions; k ə n v ˈ ɛ n ʃ ə n z
-converge; k ə n v ˈ ɜː dʒ
-convergence; k ə n v ˈ ɜː dʒ ə n s
+converge; k ə n v ˈ ɜː d͡ʒ
+convergence; k ə n v ˈ ɜː d͡ʒ ə n s
 conversation; k ˌ ɒ n v ə s ˈ eɪ ʃ ə n
 conversations; k ˌ ɒ n v ə s ˈ eɪ ʃ ə n z
 conversely; k ə n v ˈ ɜː s l i
@@ -3411,10 +3411,10 @@ costume; k ˈ ɒ s t j uː m
 costumes; k ˈ ɒ s t j uː m z
 cosy; k ˈ əʊ z i
 cot; k ˈ ɒ t
-cottage; k ˈ ɒ t ɪ dʒ
-cottages; k ˈ ɒ t ɪ dʒ ɪ z
+cottage; k ˈ ɒ t ɪ d͡ʒ
+cottages; k ˈ ɒ t ɪ d͡ʒ ɪ z
 cotton; k ˈ ɒ t ə n
-couch; k ˈ aʊ tʃ
+couch; k ˈ aʊ t͡ʃ
 cougar; k ˈ uː g ə
 cough; k ˈ ɒ f
 coughing; k ˈ ɒ f ɪ ŋ
@@ -3458,7 +3458,7 @@ coupled; k ˈ ʌ p ə l d
 couples; k ˈ ʌ p ə l z
 coupon; k ˈ uː p ɒ n
 coupons; k ˈ uː p ɒ n z
-courage; k ˈ ʌ ɹ ɪ dʒ
+courage; k ˈ ʌ ɹ ɪ d͡ʒ
 courier; k ˈ ʊ ɹ ɪə
 course; k ˈ ɔː s
 courses; k ˈ ɔː s ɪ z
@@ -3474,8 +3474,8 @@ covenant; k ˈ ʌ v ə n ə n t
 coventry; k ˈ ɒ v ə n t ɹ i
 coventry; k ˈ ʌ v ə n t ɹ i
 cover; k ˈ ʌ v ə
-coverage; k ˈ ʌ v ɹ ɪ dʒ
-coverage; k ˈ ʌ v ə ɹ ɪ dʒ
+coverage; k ˈ ʌ v ɹ ɪ d͡ʒ
+coverage; k ˈ ʌ v ə ɹ ɪ d͡ʒ
 covered; k ˈ ʌ v ə d
 covering; k ˈ ʌ v ɹ ɪ ŋ
 covering; k ˈ ʌ v ə ɹ ɪ ŋ
@@ -3528,8 +3528,8 @@ creations; k ɹ iː ˈ eɪ ʃ ə n z
 creative; k ɹ iː ˈ eɪ t ɪ v
 creativity; k ɹ ˌ iː eɪ t ˈ ɪ v ɪ t i
 creator; k ɹ iː ˈ eɪ t ə
-creature; k ɹ ˈ iː tʃ ə
-creatures; k ɹ ˈ iː tʃ ə z
+creature; k ɹ ˈ iː t͡ʃ ə
+creatures; k ɹ ˈ iː t͡ʃ ə z
 creche; k ɹ ˈ ɛ ʃ
 creche; k ɹ ˈ eɪ ʃ
 credibility; k ɹ ˌ ɛ d ɪ b ˈ ɪ l ɪ t i
@@ -3559,7 +3559,7 @@ crimes; k ɹ ˈ aɪ m z
 criminal; k ɹ ˈ ɪ m ɪ n ə l
 criminals; k ɹ ˈ ɪ m ɪ n ə l z
 crimp; k ɹ ˈ ɪ m p
-cringe; k ɹ ˈ ɪ n dʒ
+cringe; k ɹ ˈ ɪ n d͡ʒ
 crises; k ɹ ˈ aɪ s iː z
 crisis; k ɹ ˈ aɪ s ɪ s
 crisp; k ɹ ˈ ɪ s p
@@ -3611,12 +3611,12 @@ cruises; k ɹ ˈ uː z ɪ z
 crumb; k ɹ ˈ ʌ m
 crumble; k ɹ ˈ ʌ m b ə l
 crumbs; k ɹ ˈ ʌ m z
-crunch; k ɹ ˈ ʌ n tʃ
-crunchy; k ɹ ˈ ʌ n tʃ i
+crunch; k ɹ ˈ ʌ n t͡ʃ
+crunchy; k ɹ ˈ ʌ n t͡ʃ i
 crush; k ɹ ˈ ʌ ʃ
 crust; k ɹ ˈ ʌ s t
-crutch; k ɹ ˈ ʌ tʃ
-crutches; k ɹ ˈ ʌ tʃ ɪ z
+crutch; k ɹ ˈ ʌ t͡ʃ
+crutches; k ɹ ˈ ʌ t͡ʃ ɪ z
 crux; k ɹ ˈ ʌ k s
 cruz; k ɹ ˈ uː z
 cry; k ɹ ˈ aɪ
@@ -3638,9 +3638,9 @@ cuisine; k w ɪ z ˈ iː n
 cul-de-sac; k ˈ ʌ l d s ˌ æ k
 cull; k ˈ ʌ l
 cult; k ˈ ʌ l t
-cultural; k ˈ ʌ l tʃ ə ɹ ə l
-culture; k ˈ ʌ l tʃ ə
-cultures; k ˈ ʌ l tʃ ə z
+cultural; k ˈ ʌ l t͡ʃ ə ɹ ə l
+culture; k ˈ ʌ l t͡ʃ ə
+cultures; k ˈ ʌ l t͡ʃ ə z
 cum; k ˈ ʌ m
 cumberland; k ˈ ʌ m b ə l ə n d
 cumulative; k j ˈ uː m j ʊ l ə t ɪ v
@@ -3658,7 +3658,7 @@ curious; k j ˈ ʊə ɹ ɪə s
 curiously; k j ˈ ʊə ɹ ɪə s l i
 curl; k ˈ ɜː l
 curly; k ˈ ɜː l i
-curmudgeon; k ɜː m ˈ ʌ dʒ ə n
+curmudgeon; k ɜː m ˈ ʌ d͡ʒ ə n
 currencies; k ˈ ʌ ɹ ə n s i z
 currency; k ˈ ʌ ɹ ə n s i
 current; k ˈ ʌ ɹ ə n t
@@ -3702,8 +3702,8 @@ cynic; s ˈ ɪ n ɪ k
 cynical; s ˈ ɪ n ɪ k ə l
 cyprus; s ˈ aɪ p ɹ ə s
 cyst; s ˈ ɪ s t
-czech; tʃ ˈ ɛ k
-czechia; tʃ ˈ ɛ k ɪə
+czech; t͡ʃ ˈ ɛ k
+czechia; t͡ʃ ˈ ɛ k ɪə
 dad; d ˈ æ d
 daddy; d ˈ æ d i
 daemon; d ˈ iː m ə n
@@ -3717,10 +3717,10 @@ dale; d ˈ eɪ l
 dallas; d ˈ æ l ə s
 dalmatian; d æ l m ˈ eɪ ʃ ə n
 dam; d ˈ æ m
-damage; d ˈ æ m ɪ dʒ
-damaged; d ˈ æ m ɪ dʒ d
-damages; d ˈ æ m ɪ dʒ ɪ z
-damaging; d ˈ æ m ɪ dʒ ɪ ŋ
+damage; d ˈ æ m ɪ d͡ʒ
+damaged; d ˈ æ m ɪ d͡ʒ d
+damages; d ˈ æ m ɪ d͡ʒ ɪ z
+damaging; d ˈ æ m ɪ d͡ʒ ɪ ŋ
 dame; d ˈ eɪ m
 dammit; d ˈ æ m ɪ t
 damn; d ˈ æ m
@@ -3733,9 +3733,9 @@ dancer; d ˈ ɑː n s ə
 dancers; d ˈ ɑː n s ə z
 dancing; d ˈ ɑː n s ɪ ŋ
 dane; d ˈ eɪ n
-danger; d ˈ eɪ n dʒ ə
-dangerous; d ˈ eɪ n dʒ ə ɹ ə s
-dangers; d ˈ eɪ n dʒ ə z
+danger; d ˈ eɪ n d͡ʒ ə
+dangerous; d ˈ eɪ n d͡ʒ ə ɹ ə s
+dangers; d ˈ eɪ n d͡ʒ ə z
 daniel; d ˈ æ n j ə l
 danish; d ˈ eɪ n ɪ ʃ
 dank; d ˈ æ ŋ k
@@ -3990,7 +3990,7 @@ depart; d ɪ p ˈ ɑː t
 department; d ɪ p ˈ ɑː t m ə n t
 departmental; d ˌ iː p ɑː t m ˈ ɛ n t ə l
 departments; d ɪ p ˈ ɑː t m ə n t s
-departure; d ɪ p ˈ ɑː tʃ ə
+departure; d ɪ p ˈ ɑː t͡ʃ ə
 depend; d ɪ p ˈ ɛ n d
 dependence; d ɪ p ˈ ɛ n d ə n s
 dependency; d ɪ p ˈ ɛ n d ə n s i
@@ -4067,8 +4067,8 @@ destroy; d ɪ s t ɹ ˈ ɔɪ
 destroyed; d ɪ s t ɹ ˈ ɔɪ d
 destruction; d ɪ s t ɹ ˈ ʌ k ʃ ə n
 destructive; d ɪ s t ɹ ˈ ʌ k t ɪ v
-detach; d ɪ t ˈ æ tʃ
-detached; d ɪ t ˈ æ tʃ t
+detach; d ɪ t ˈ æ t͡ʃ
+detached; d ɪ t ˈ æ t͡ʃ t
 detail; d ˈ iː t eɪ l
 detailed; d ˈ iː t eɪ l d
 details; d ˈ iː t eɪ l z
@@ -4092,7 +4092,7 @@ deterrence; d ɪ t ˈ ɛ ɹ ə n s
 deterrent; d ɪ t ˈ ɛ ɹ ə n t
 detour; d ˈ iː t ʊə
 detroit; d ɪ t ɹ ˈ ɔɪ t
-deutsch; d ˈ ɔɪ tʃ
+deutsch; d ˈ ɔɪ t͡ʃ
 dev; d ˈ ɛ v
 devastating; d ˈ ɛ v ə s t ˌ eɪ t ɪ ŋ
 develop; d ɪ v ˈ ɛ l ə p
@@ -4164,8 +4164,8 @@ differences; d ˈ ɪ f ə ɹ ə n s ɪ z
 different; d ˈ ɪ f ɹ ə n t
 different; d ˈ ɪ f ə ɹ ə n t
 differential; d ˌ ɪ f ə ɹ ˈ ɛ n ʃ ə l
-differentiate; d ˌ ɪ f ə ɹ ɛ n tʃ ɪ ˈ eɪ t
-differentiation; d ˌ ɪ f ə ɹ ɛ n tʃ ɪ ˈ eɪ ʃ ə n
+differentiate; d ˌ ɪ f ə ɹ ɛ n t͡ʃ ɪ ˈ eɪ t
+differentiation; d ˌ ɪ f ə ɹ ɛ n t͡ʃ ɪ ˈ eɪ ʃ ə n
 differently; d ˈ ɪ f ɹ ə n t l i
 differently; d ˈ ɪ f ə ɹ ə n t l i
 difficult; d ˈ ɪ f ɪ k ə l t
@@ -4174,13 +4174,13 @@ difficulty; d ˈ ɪ f ɪ k ə l t i
 diffs; d ˈ ɪ f s
 diffusion; d ɪ f j ˈ uː ʒ ə n
 dig; d ˈ ɪ g
-digest; d aɪ dʒ ˈ ɛ s t
-digest; d ɪ dʒ ˈ ɛ s t
-digest; d ˈ aɪ dʒ ɛ s t
+digest; d aɪ d͡ʒ ˈ ɛ s t
+digest; d ɪ d͡ʒ ˈ ɛ s t
+digest; d ˈ aɪ d͡ʒ ɛ s t
 digger; d ˈ ɪ g ə
 digging; d ˈ ɪ g ɪ ŋ
-digit; d ˈ ɪ dʒ ɪ t
-digital; d ˈ ɪ dʒ ɪ t ə l
+digit; d ˈ ɪ d͡ʒ ɪ t
+digital; d ˈ ɪ d͡ʒ ɪ t ə l
 dignity; d ˈ ɪ g n ɪ t i
 dilate; d ˌ aɪ l ˌ eɪ t
 dilated; d ˌ aɪ l ˌ eɪ t ɪ d
@@ -4207,7 +4207,7 @@ dine; d ˈ aɪ n
 diner; d ˈ aɪ n ə
 ding; d ˈ ɪ ŋ
 dinghy; d ˈ ɪ ŋ i
-dingy; d ˈ ɪ n dʒ i
+dingy; d ˈ ɪ n d͡ʒ i
 dining; d ˈ aɪ n ɪ ŋ
 dinner; d ˈ ɪ n ə
 dinners; d ˈ ɪ n ə z
@@ -4238,8 +4238,8 @@ directors; d aɪ ɹ ˈ ɛ k t ə z
 directors; d ɪ ɹ ˈ ɛ k t ə z
 directory; d aɪ ɹ ˈ ɛ k t ə ɹ i
 directory; d ɪ ɹ ˈ ɛ k t ə ɹ i
-dirge; d ˈ ɜː dʒ
-dirigible; d ɪ ɹ ˈ ɪ dʒ ɪ b ə l
+dirge; d ˈ ɜː d͡ʒ
+dirigible; d ɪ ɹ ˈ ɪ d͡ʒ ɪ b ə l
 dirk; d ˈ ɜː k
 dirt; d ˈ ɜː t
 dirty; d ˈ ɜː t i
@@ -4247,7 +4247,7 @@ disabilities; d ɪ s ə b ˈ ɪ l ɪ t i z
 disability; d ˌ ɪ s ə b ˈ ɪ l ɪ t i
 disable; d ɪ s ˈ eɪ b ə l
 disabled; d ɪ s ˈ eɪ b ə l d
-disadvantage; d ˌ ɪ s ə d v ˈ ɑː n t ɪ dʒ
+disadvantage; d ˌ ɪ s ə d v ˈ ɑː n t ɪ d͡ʒ
 disagree; d ɪ s ə g ɹ ˈ iː
 disagreement; d ɪ s ə g ɹ ˈ iː m ə n t
 disappear; d ˌ ɪ s ə p ˈ ɪə
@@ -4258,8 +4258,8 @@ disaster; d ɪ z ˈ ɑː s t ə
 disastrous; d ɪ z ˈ ɑː s t ɹ ə s
 disc; d ˈ ɪ s k
 discard; d ɪ s k ˈ ɑː d
-discharge; d ˈ ɪ s tʃ ˌ ɑː dʒ
-discharge; d ɪ s tʃ ˈ ɑː dʒ
+discharge; d ˈ ɪ s t͡ʃ ˌ ɑː d͡ʒ
+discharge; d ɪ s t͡ʃ ˈ ɑː d͡ʒ
 disciple; d ɪ s ˈ aɪ p ə l
 disciplinary; d ˈ ɪ s ɪ p l ˌ ɪ n ə ɹ i
 discipline; d ˈ ɪ s ɪ p l ɪ n
@@ -4275,7 +4275,7 @@ discount; d ɪ s k ˈ aʊ n t
 discounted; d ˈ ɪ s k ˌ aʊ n t ɪ d
 discounts; d ˈ ɪ s k ˌ aʊ n t s
 discounts; d ɪ s k ˈ aʊ n t s
-discourage; d ɪ s k ˈ ʌ ɹ ɪ dʒ
+discourage; d ɪ s k ˈ ʌ ɹ ɪ d͡ʒ
 discourse; d ˈ ɪ s k ɔː s
 discover; d ɪ s k ˈ ʌ v ə
 discovered; d ɪ s k ˈ ʌ v ə d
@@ -4302,8 +4302,8 @@ disgusting; d ɪ s g ˈ ʌ s t ɪ ŋ
 dish; d ˈ ɪ ʃ
 dishes; d ˈ ɪ ʃ ɪ z
 dishwasher; d ˈ ɪ ʃ w ˌ ɒ ʃ ə
-disingenious; d ˌ ɪ s ɪ n dʒ ˈ ɛ n j ʊə s
-disjunction; d ɪ s dʒ ˈ ʌ ŋ k ʃ ə n
+disingenious; d ˌ ɪ s ɪ n d͡ʒ ˈ ɛ n j ʊə s
+disjunction; d ɪ s d͡ʒ ˈ ʌ ŋ k ʃ ə n
 disk; d ˈ ɪ s k
 disks; d ˈ ɪ s k s
 dislike; d ɪ s l ˈ aɪ k
@@ -4314,8 +4314,8 @@ dismissed; d ɪ s m ˈ ɪ s t
 disney; d ˈ ɪ z n i
 disorder; d ɪ s ˈ ɔː d ə
 disorders; d ɪ s ˈ ɔː d ə z
-dispatch; d ɪ s p ˈ æ tʃ
-dispatched; d ɪ s p ˈ æ tʃ t
+dispatch; d ɪ s p ˈ æ t͡ʃ
+dispatched; d ɪ s p ˈ æ t͡ʃ t
 dispel; d ɪ s p ˈ ɛ l
 dispense; d ɪ s p ˈ ɛ n s
 disperse; d ɪ s p ˈ ɜː s
@@ -4370,7 +4370,7 @@ disturb; d ɪ s t ˈ ɜː b
 disturbance; d ɪ s t ˈ ɜː b ə n s
 disturbed; d ɪ s t ˈ ɜː b d
 disturbing; d ɪ s t ˈ ɜː b ɪ ŋ
-ditch; d ˈ ɪ tʃ
+ditch; d ˈ ɪ t͡ʃ
 div; d ˈ ɪ v
 dive; d ˈ aɪ v
 dived; d ˈ aɪ v d
@@ -4405,8 +4405,8 @@ documentation; d ˌ ɒ k j ʊ m ɛ n t ˈ eɪ ʃ ə n
 documented; d ˈ ɒ k j ʊ m ˌ ɛ n t ɪ d
 documents; d ˈ ɒ k j ʊ m ɛ n t s
 documents; d ˈ ɒ k j ʊ m ə n t s
-dodge; d ˈ ɒ dʒ
-dodgy; d ˈ ɒ dʒ i
+dodge; d ˈ ɒ d͡ʒ
+dodgy; d ˈ ɒ d͡ʒ i
 dodo; d ˈ əʊ d əʊ
 doe; d ˈ əʊ
 doer; d ˈ uː ə
@@ -4467,7 +4467,7 @@ dormouse; d ˈ ɔː m ˌ aʊ s
 dorothy; d ˈ ɒ ɹ ə θ i
 dorset; d ˈ ɔː s ɪ t
 dos; d ˈ ɒ s
-dosage; d ˈ əʊ s ɪ dʒ
+dosage; d ˈ əʊ s ɪ d͡ʒ
 dose; d ˈ əʊ s
 dot; d ˈ ɒ t
 doth; d ˈ uː θ
@@ -4508,7 +4508,7 @@ drag; d ɹ ˈ æ g
 dragged; d ɹ ˈ æ g d
 dragon; d ɹ ˈ æ g ə n
 drain; d ɹ ˈ eɪ n
-drainage; d ɹ ˈ eɪ n ɪ dʒ
+drainage; d ɹ ˈ eɪ n ɪ d͡ʒ
 drake; d ɹ ˈ eɪ k
 drama; d ɹ ˈ ɑː m ə
 dramatic; d ɹ ə m ˈ æ t ɪ k
@@ -4589,7 +4589,7 @@ dug; d ˈ ʌ g
 duh; d ˈ ɜː
 duke; d j ˈ uː k
 dull; d ˈ ʌ l
-dulwich; d ˈ ʌ l ɪ tʃ
+dulwich; d ˈ ʌ l ɪ t͡ʃ
 duly; d j ˈ uː l i
 dumb; d ˈ ʌ m
 dumfries; d ʌ m f ɹ ˈ iː s
@@ -4603,7 +4603,7 @@ duncan; d ˈ ʌ ŋ k ə n
 dundee; d ʌ n d ˈ iː
 dune; d j ˈ uː n
 dung; d ˈ ʌ ŋ
-dungeon; d ˈ ʌ n dʒ ə n
+dungeon; d ˈ ʌ n d͡ʒ ə n
 dunk; d ˈ ʌ ŋ k
 duo; d j ˈ uː əʊ
 dupe; d j ˈ uː p
@@ -4617,7 +4617,7 @@ dusk; d ˈ ʌ s k
 dust; d ˈ ʌ s t
 dustbin; d ˈ ʌ s t b ɪ n
 dusty; d ˈ ʌ s t i
-dutch; d ˈ ʌ tʃ
+dutch; d ˈ ʌ t͡ʃ
 duties; d j ˈ uː t i z
 duty; d j ˈ uː t i
 duvet; d ˈ uː v eɪ
@@ -4642,7 +4642,7 @@ dynamite; d ˈ aɪ n ə m ˌ aɪ t
 dynasty; d ˈ ɪ n ə s t i
 e; ˈ iː
 e's; ˈ iː z
-each; ˈ iː tʃ
+each; ˈ iː t͡ʃ
 eager; ˈ iː g ə
 eagle; ˈ iː g ə l
 eagles; ˈ iː g ə l z
@@ -4690,9 +4690,9 @@ eckses; ˈ ɛ k s ɪ z
 eclipse; ɪ k l ˈ ɪ p s
 eco; ˈ iː k əʊ
 eco; ˈ ɛ k əʊ
-ecological; ˌ iː k ə l ˈ ɒ dʒ ɪ k ə l
-ecological; ˌ ɛ k ə l ˈ ɒ dʒ ɪ k ə l
-ecology; ɪ k ˈ ɒ l ə dʒ i
+ecological; ˌ iː k ə l ˈ ɒ d͡ʒ ɪ k ə l
+ecological; ˌ ɛ k ə l ˈ ɒ d͡ʒ ɪ k ə l
+ecology; ɪ k ˈ ɒ l ə d͡ʒ i
 ecommerce; ˈ iː k ˌ ɒ m ɜː s
 economic; ˌ iː k ə n ˈ ɒ m ɪ k
 economic; ˌ ɛ k ə n ˈ ɒ m ɪ k
@@ -4710,9 +4710,9 @@ ecuador; ˈ ɛ k w ə d ˌ ɔː
 eddie; ˈ ɛ d i
 eden; ˈ iː d ə n
 edgar; ˈ ɛ d g ə
-edge; ˈ ɛ dʒ
-edges; ˈ ɛ dʒ ɪ z
-edgy; ˈ ɛ dʒ i
+edge; ˈ ɛ d͡ʒ
+edges; ˈ ɛ d͡ʒ ɪ z
+edgy; ˈ ɛ d͡ʒ i
 edinburgh; ˈ ɛ d ɪ n b ɹ ə
 edit; ˈ ɛ d ɪ t
 edited; ˈ ɛ d ɪ t ɪ d
@@ -4750,8 +4750,8 @@ efs; ˈ ɛ f s
 egg; ˈ ɛ g
 eggs; ˈ ɛ g z
 ego; ˈ iː g əʊ
-egypt; ˈ iː dʒ ɪ p t
-egyptian; ɪ dʒ ˈ ɪ p ʃ ə n
+egypt; ˈ iː d͡ʒ ɪ p t
+egyptian; ɪ d͡ʒ ˈ ɪ p ʃ ə n
 eh; ˈ eɪ
 eight; ˈ eɪ t
 eighteen; ˈ eɪ t iː n
@@ -4766,8 +4766,8 @@ eileen; aɪ l ˈ iː n
 eire; ˈ ɛə ɹ ə
 either; ˈ aɪ ð ə
 either; ˈ iː ð ə
-ejaculation; ɪ dʒ ˌ æ k j ʊ l ˈ eɪ ʃ ə n
-eject; ɪ dʒ ˈ ɛ k t
+ejaculation; ɪ d͡ʒ ˌ æ k j ʊ l ˈ eɪ ʃ ə n
+eject; ɪ d͡ʒ ˈ ɛ k t
 el; ˈ ɛ l
 elaborate; ɪ l ˈ æ b ə ɹ ɪ t
 elaborate; ɪ l ˈ æ b ə ɹ ˌ eɪ t
@@ -4810,8 +4810,8 @@ elevenses; ɪ l ˈ ɛ v ə n z ɪ z
 eleventh; ɪ l ˈ ɛ v ə n θ
 elf; ˈ ɛ l f
 elfs; ˈ ɛ l f s
-eligibility; ˌ ɛ l ɪ dʒ ɪ b ˈ ɪ l ɪ t i
-eligible; ˈ ɛ l ɪ dʒ ɪ b ə l
+eligibility; ˌ ɛ l ɪ d͡ʒ ɪ b ˈ ɪ l ɪ t i
+eligible; ˈ ɛ l ɪ d͡ʒ ɪ b ə l
 eliminate; ɪ l ˈ ɪ m ɪ n ˌ eɪ t
 elimination; ɪ l ˌ ɪ m ɪ n ˈ eɪ ʃ ə n
 eliot; ˈ ɛ l ɪə t
@@ -4852,12 +4852,12 @@ embrace; ɪ m b ɹ ˈ eɪ s
 embroiled; ɪ m b ɹ ˈ ɔɪ l d
 emerald; ˈ ɛ m ɹ ə l d
 emerald; ˈ ɛ m ə ɹ ə l d
-emerge; ɪ m ˈ ɜː dʒ
-emerged; ɪ m ˈ ɜː dʒ d
-emergence; ɪ m ˈ ɜː dʒ ə n s
-emergency; ɪ m ˈ ɜː dʒ ə n s i
-emerges; ɪ m ˈ ɜː dʒ ɪ z
-emerging; ɪ m ˈ ɜː dʒ ɪ ŋ
+emerge; ɪ m ˈ ɜː d͡ʒ
+emerged; ɪ m ˈ ɜː d͡ʒ d
+emergence; ɪ m ˈ ɜː d͡ʒ ə n s
+emergency; ɪ m ˈ ɜː d͡ʒ ə n s i
+emerges; ɪ m ˈ ɜː d͡ʒ ɪ z
+emerging; ɪ m ˈ ɜː d͡ʒ ɪ ŋ
 emily; ˈ ɛ m ɪ l i
 eminently; ˈ ɛ m ɪ n ə n t l i
 emirates; ˈ ɛ m ɪ ɹ ɪ t s
@@ -4914,22 +4914,22 @@ encoding; ɛ n k ˈ əʊ d ɪ ŋ
 encompass; ɪ n k ˈ ʌ m p ə s
 encounter; ɪ n k ˈ aʊ n t ə
 encountered; ɪ n k ˈ aʊ n t ə d
-encourage; ɛ n k ˈ ʌ ɹ ɪ dʒ
-encourage; ɪ n k ˈ ʌ ɹ ɪ dʒ
-encouraged; ɛ n k ˈ ʌ ɹ ɪ dʒ d
-encouragement; ɛ n k ˈ ʌ ɹ ɪ dʒ m ə n t
-encourages; ɪ n k ˈ ʌ ɹ ɪ dʒ ɪ z
-encourages; ɛ n k ˈ ʌ ɹ ɪ dʒ ɪ z
-encouraging; ɛ n k ˈ ʌ ɹ ɪ dʒ ɪ ŋ
-encouraging; ɪ n k ˈ ʌ ɹ ɪ dʒ ɪ ŋ
+encourage; ɛ n k ˈ ʌ ɹ ɪ d͡ʒ
+encourage; ɪ n k ˈ ʌ ɹ ɪ d͡ʒ
+encouraged; ɛ n k ˈ ʌ ɹ ɪ d͡ʒ d
+encouragement; ɛ n k ˈ ʌ ɹ ɪ d͡ʒ m ə n t
+encourages; ɪ n k ˈ ʌ ɹ ɪ d͡ʒ ɪ z
+encourages; ɛ n k ˈ ʌ ɹ ɪ d͡ʒ ɪ z
+encouraging; ɛ n k ˈ ʌ ɹ ɪ d͡ʒ ɪ ŋ
+encouraging; ɪ n k ˈ ʌ ɹ ɪ d͡ʒ ɪ ŋ
 encryption; ɛ n k ɹ ˈ ɪ p ʃ ə n
 encyclopedia; ɛ n s ˌ aɪ k l əʊ p ˈ iː d ɪə
 encyclopedia; ɛ n s ˌ aɪ k l ə p ˈ iː d ɪə
 encyclopedia; ɪ n s ˌ aɪ k l əʊ p ˈ iː d ɪə
 encyclopedia; ɪ n s ˌ aɪ k l ə p ˈ iː d ɪə
 end; ˈ ɛ n d
-endangered; ɛ n d ˈ eɪ n dʒ ə d
-endangered; ɪ n d ˈ eɪ n dʒ ə d
+endangered; ɛ n d ˈ eɪ n d͡ʒ ə d
+endangered; ɪ n d ˈ eɪ n d͡ʒ ə d
 endeavour; ɪ n d ˈ ɛ v ə
 ended; ˈ ɛ n d ɪ d
 ending; ˈ ɛ n d ɪ ŋ
@@ -4943,23 +4943,23 @@ endurance; ɪ n d j ˈ ʊə ɹ ə n s
 endure; ɪ n d j ˈ ʊə
 enemies; ˈ ɛ n ə m i z
 enemy; ˈ ɛ n ə m i
-energies; ˈ ɛ n ə dʒ i z
-energy; ˈ ɛ n ə dʒ i
+energies; ˈ ɛ n ə d͡ʒ i z
+energy; ˈ ɛ n ə d͡ʒ i
 enfield; ˈ ɛ n f iː l d
 enforce; ɛ n f ˈ ɔː s
 enforcement; ɪ n f ˈ ɔː s m ə n t
-engage; ɪ n g ˈ eɪ dʒ
-engage; ɛ n g ˈ eɪ dʒ
-engaged; ɪ n g ˈ eɪ dʒ d
-engaged; ɛ n g ˈ eɪ dʒ d
-engagement; ɪ n g ˈ eɪ dʒ m ə n t
-engaging; ɛ n g ˈ eɪ dʒ ɪ ŋ
-engaging; ɪ n g ˈ eɪ dʒ ɪ ŋ
-engine; ˈ ɛ n dʒ ɪ n
-engineer; ˌ ɛ n dʒ ɪ n ˈ ɪə
-engineering; ˌ ɛ n dʒ ɪ n ˈ ɪə ɹ ɪ ŋ
-engineers; ˌ ɛ n dʒ ɪ n ˈ ɪə z
-engines; ˈ ɛ n dʒ ɪ n z
+engage; ɪ n g ˈ eɪ d͡ʒ
+engage; ɛ n g ˈ eɪ d͡ʒ
+engaged; ɪ n g ˈ eɪ d͡ʒ d
+engaged; ɛ n g ˈ eɪ d͡ʒ d
+engagement; ɪ n g ˈ eɪ d͡ʒ m ə n t
+engaging; ɛ n g ˈ eɪ d͡ʒ ɪ ŋ
+engaging; ɪ n g ˈ eɪ d͡ʒ ɪ ŋ
+engine; ˈ ɛ n d͡ʒ ɪ n
+engineer; ˌ ɛ n d͡ʒ ɪ n ˈ ɪə
+engineering; ˌ ɛ n d͡ʒ ɪ n ˈ ɪə ɹ ɪ ŋ
+engineers; ˌ ɛ n d͡ʒ ɪ n ˈ ɪə z
+engines; ˈ ɛ n d͡ʒ ɪ n z
 england; ˈ ɪ ŋ g l ə n d
 english; ˈ ɪ ŋ g l ɪ ʃ
 englishman; ˈ ɪ ŋ g l ɪ ʃ m ə n
@@ -4972,21 +4972,21 @@ enhancement; ɪ n h ˈ ɑː n s m ə n t
 enhancement; ɛ n h ˈ ɑː n s m ə n t
 enhancements; ɪ n h ˈ ɑː n s m ə n t s
 enhancing; ɪ n h ˈ ɑː n s ɪ ŋ
-enjoy; ɛ n dʒ ˈ ɔɪ
-enjoy; ɪ n dʒ ˈ ɔɪ
-enjoyable; ɛ n dʒ ˈ ɔɪ ə b ə l
-enjoyed; ɛ n dʒ ˈ ɔɪ d
-enjoyed; ɪ n dʒ ˈ ɔɪ d
-enjoying; ɛ n dʒ ˈ ɔɪ ɪ ŋ
-enjoying; ɪ n dʒ ˈ ɔɪ ɪ ŋ
-enjoyment; ɛ n dʒ ˈ ɔɪ m ə n t
-enjoyment; ɪ n dʒ ˈ ɔɪ m ə n t
-enjoys; ɛ n dʒ ˈ ɔɪ z
-enjoys; ɪ n dʒ ˈ ɔɪ z
-enlarge; ɪ n l ˈ ɑː dʒ
-enlarge; ɛ n l ˈ ɑː dʒ
-enlargement; ɪ n l ˈ ɑː dʒ m ə n t
-enlargement; ɛ n l ˈ ɑː dʒ m ə n t
+enjoy; ɛ n d͡ʒ ˈ ɔɪ
+enjoy; ɪ n d͡ʒ ˈ ɔɪ
+enjoyable; ɛ n d͡ʒ ˈ ɔɪ ə b ə l
+enjoyed; ɛ n d͡ʒ ˈ ɔɪ d
+enjoyed; ɪ n d͡ʒ ˈ ɔɪ d
+enjoying; ɛ n d͡ʒ ˈ ɔɪ ɪ ŋ
+enjoying; ɪ n d͡ʒ ˈ ɔɪ ɪ ŋ
+enjoyment; ɛ n d͡ʒ ˈ ɔɪ m ə n t
+enjoyment; ɪ n d͡ʒ ˈ ɔɪ m ə n t
+enjoys; ɛ n d͡ʒ ˈ ɔɪ z
+enjoys; ɪ n d͡ʒ ˈ ɔɪ z
+enlarge; ɪ n l ˈ ɑː d͡ʒ
+enlarge; ɛ n l ˈ ɑː d͡ʒ
+enlargement; ɪ n l ˈ ɑː d͡ʒ m ə n t
+enlargement; ɛ n l ˈ ɑː d͡ʒ m ə n t
 enormous; ɪ n ˈ ɔː m ə s
 enormously; ɪ n ˈ ɔː m ə s l i
 enough; ɪ n ˈ ʌ f
@@ -5039,14 +5039,14 @@ envelopes; ˈ ɛ n v ə l ˌ əʊ p s
 environment; ɪ n v ˈ aɪ ɹ ə n m ə n t
 environmental; ɪ n v ˌ aɪ ɹ ə n m ˈ ɛ n t ə l
 environments; ɪ n v ˈ aɪ ɹ ə n m ə n t s
-envisage; ɪ n v ˈ ɪ z ɪ dʒ
-envisaged; ɪ n v ˈ ɪ z ɪ dʒ d
+envisage; ɪ n v ˈ ɪ z ɪ d͡ʒ
+envisaged; ɪ n v ˈ ɪ z ɪ d͡ʒ d
 envoy; ˈ ɛ n v ɔɪ
 envy; ˈ ɛ n v i
 enzyme; ˈ ɛ n z ˌ aɪ m
 epic; ˈ ɛ p ɪ k
 epidemic; ɛ p ɪ d ˈ ɛ m ɪ k
-epidemiology; ˌ ɛ p ɪ d ˌ iː m ɪ ˈ ɒ l ə dʒ i
+epidemiology; ˌ ɛ p ɪ d ˌ iː m ɪ ˈ ɒ l ə d͡ʒ i
 episode; ˈ ɛ p ɪ s ˌ əʊ d
 episodes; ˈ ɛ p ɪ s ˌ əʊ d z
 epitome; ɪ p ˈ ɪ t ə m i
@@ -5117,7 +5117,7 @@ estimation; ˌ ɛ s t ɪ m ˈ eɪ ʃ ə n
 estonia; ɛ s t ˈ əʊ n ɪə
 et; ˈ ɛ t
 etcetera; ɪ t s ˈ ɛ t ə ɹ ə
-etch; ˈ ɛ tʃ
+etch; ˈ ɛ t͡ʃ
 eternal; ɪ t ˈ ɜː n ə l
 eternity; ɪ t ˈ ɜː n ɪ t i
 ethernet; ˈ iː θ ə n ˌ ɛ t
@@ -5128,8 +5128,8 @@ ethnic; ˈ ɛ θ n ɪ k
 ethnicity; ɛ θ n ˈ ɪ s ɪ t i
 ethos; ˈ iː θ ˈ ɒ s
 eton; ˈ iː t ə n
-eugene; j uː dʒ ˈ iː n
-eugene; j ˈ uː dʒ iː n
+eugene; j uː d͡ʒ ˈ iː n
+eugene; j ˈ uː d͡ʒ iː n
 eureka; j ʊ ɹ ˈ iː k ə
 euro; j ˈ ʊə ɹ əʊ
 europe; j ˈ ʊə ɹ ə p
@@ -5153,8 +5153,8 @@ evenings; ˈ iː v n ɪ ŋ z
 evenly; ˈ iː v ə n l i
 event; ɪ v ˈ ɛ n t
 events; ɪ v ˈ ɛ n t s
-eventual; ɪ v ˈ ɛ n tʃ ʊə l
-eventually; ɪ v ˈ ɛ n tʃ ʊə l i
+eventual; ɪ v ˈ ɛ n t͡ʃ ʊə l
+eventually; ɪ v ˈ ɛ n t͡ʃ ʊə l i
 ever; ˈ ɛ v ə
 every; ˈ ɛ v ɹ i
 every; ˈ ɛ v ə ɹ i
@@ -5182,7 +5182,7 @@ ewell; j ˈ uː l
 ex; ˈ ɛ k s
 exact; ɪ g z ˈ æ k t
 exactly; ɪ g z ˈ æ k t l i
-exaggerate; ɪ g z ˈ æ dʒ ə ɹ ˌ eɪ t
+exaggerate; ɪ g z ˈ æ d͡ʒ ə ɹ ˌ eɪ t
 exam; ɪ g z ˈ æ m
 examination; ɪ g z ˌ æ m ɪ n ˈ eɪ ʃ ə n
 examinations; ɪ g z ˌ æ m ɪ n ˈ eɪ ʃ ə n z
@@ -5209,9 +5209,9 @@ excerpt; ɛ k s ˈ ɜː p t
 excess; ɪ k s ˈ ɛ s
 excess; ˈ ɛ k s ˌ ɛ s
 excessive; ɪ k s ˈ ɛ s ɪ v
-exchange; ɪ k s tʃ ˈ eɪ n dʒ
-exchanges; ɪ k s tʃ ˈ eɪ n dʒ ɪ z
-exchequer; ˈ ɛ k s tʃ ˌ ɛ k ə
+exchange; ɪ k s t͡ʃ ˈ eɪ n d͡ʒ
+exchanges; ɪ k s t͡ʃ ˈ eɪ n d͡ʒ ɪ z
+exchequer; ˈ ɛ k s t͡ʃ ˌ ɛ k ə
 excite; ɪ k s ˈ aɪ t
 excited; ɪ k s ˈ aɪ t ɪ d
 excitement; ɪ k s ˈ aɪ t m ə n t
@@ -5278,8 +5278,8 @@ expects; ɪ k s p ˈ ɛ k t s
 expedia; ɛ k s p ˈ iː d ɪə
 expedition; ˌ ɛ k s p ɪ d ˈ ɪ ʃ ə n
 expel; ɪ k s p ˈ ɛ l
-expenditure; ɪ k s p ˈ ɛ n d ɪ tʃ ə
-expenditures; ɪ k s p ˈ ɛ n d ɪ tʃ ə z
+expenditure; ɪ k s p ˈ ɛ n d ɪ t͡ʃ ə
+expenditures; ɪ k s p ˈ ɛ n d ɪ t͡ʃ ə z
 expense; ɪ k s p ˈ ɛ n s
 expenses; ɪ k s p ˈ ɛ n s ɪ z
 expensive; ɪ k s p ˈ ɛ n s ɪ v
@@ -5385,7 +5385,7 @@ factories; f ˈ æ k t ə ɹ i z
 factors; f ˈ æ k t ə z
 factory; f ˈ æ k t ə ɹ i
 facts; f ˈ æ k t s
-factual; f ˈ æ k tʃ ʊə l
+factual; f ˈ æ k t͡ʃ ʊə l
 faculty; f ˈ æ k ə l t i
 fad; f ˈ æ d
 fade; f ˈ eɪ d
@@ -5495,10 +5495,10 @@ feast; f ˈ iː s t
 feat; f ˈ iː t
 feather; f ˈ ɛ ð ə
 feathers; f ˈ ɛ ð ə z
-feature; f ˈ iː tʃ ə
-featured; f ˈ iː tʃ ə d
-features; f ˈ iː tʃ ə z
-featuring; f ˈ iː tʃ ə ɹ ɪ ŋ
+feature; f ˈ iː t͡ʃ ə
+featured; f ˈ iː t͡ʃ ə d
+features; f ˈ iː t͡ʃ ə z
+featuring; f ˈ iː t͡ʃ ə ɹ ɪ ŋ
 february; f ˈ ɛ b j ʊə ɹ i
 february; f ˈ ɛ b ɹ ʊə ɹ i
 fed; f ˈ ɛ d
@@ -5541,8 +5541,8 @@ fest; f ˈ ɛ s t
 festival; f ˈ ɛ s t ɪ v ə l
 festivals; f ˈ ɛ s t ɪ v ə l z
 fetal; f ˈ iː t ə l
-fetch; f ˈ ɛ tʃ
-fetched; f ˈ ɛ tʃ t
+fetch; f ˈ ɛ t͡ʃ
+fetched; f ˈ ɛ t͡ʃ t
 fete; f ˈ eɪ t
 fetish; f ˈ ɛ t ɪ ʃ
 fetus; f ˈ iː t ə s
@@ -5579,7 +5579,7 @@ fights; f ˈ aɪ t s
 figure; f ˈ ɪ g ə
 figured; f ˈ ɪ g ə d
 figures; f ˈ ɪ g ə z
-fiji; f ˈ iː dʒ i
+fiji; f ˈ iː d͡ʒ i
 file; f ˈ aɪ l
 filed; f ˈ aɪ l d
 files; f ˈ aɪ l z
@@ -5609,7 +5609,7 @@ financially; f ɪ n ˈ æ n ʃ ə l i
 financially; f ˌ aɪ n ˈ æ n ʃ ə l i
 financing; f ˈ aɪ n ˌ æ n s ɪ ŋ
 financing; f ɪ n ˈ æ n s ɪ ŋ
-finch; f ˈ ɪ n tʃ
+finch; f ˈ ɪ n t͡ʃ
 find; f ˈ aɪ n d
 finder; f ˈ aɪ n d ə
 finding; f ˈ aɪ n d ɪ ŋ
@@ -5667,8 +5667,8 @@ fives; f ˈ aɪ v z
 fix; f ˈ ɪ k s
 fixed; f ˈ ɪ k s t
 fixes; f ˈ ɪ k s ɪ z
-fixture; f ˈ ɪ k s tʃ ə
-fixtures; f ˈ ɪ k s tʃ ə z
+fixture; f ˈ ɪ k s t͡ʃ ə
+fixtures; f ˈ ɪ k s t͡ʃ ə z
 fizz; f ˈ ɪ z
 fizzy; f ˈ ɪ z i
 flabbergasted; f l ˈ æ b ə g ˌ ɑː s t ɪ d
@@ -5709,7 +5709,7 @@ flicker; f l ˈ ɪ k ə
 flies; f l ˈ aɪ z
 flight; f l ˈ aɪ t
 flights; f l ˈ aɪ t s
-flinch; f l ˈ ɪ n tʃ
+flinch; f l ˈ ɪ n t͡ʃ
 fling; f l ˈ ɪ ŋ
 flint; f l ˈ ɪ n t
 flip; f l ˈ ɪ p
@@ -5744,7 +5744,7 @@ flown; f l ˈ əʊ n
 flows; f l ˈ əʊ z
 floyd; f l ˈ ɔɪ d
 flu; f l ˈ uː
-fluctuations; f l ˌ ʌ k tʃ ʊ ˈ eɪ ʃ ə n z
+fluctuations; f l ˌ ʌ k t͡ʃ ʊ ˈ eɪ ʃ ə n z
 fluff; f l ˈ ʌ f
 fluid; f l ˈ uː ɪ d
 fluke; f l ˈ uː k
@@ -5773,7 +5773,7 @@ fold; f ˈ əʊ l d
 folder; f ˈ əʊ l d ə
 folders; f ˈ əʊ l d ə z
 folding; f ˈ əʊ l d ɪ ŋ
-foliage; f ˈ əʊ l ɪ ɪ dʒ
+foliage; f ˈ əʊ l ɪ ɪ d͡ʒ
 folk; f ˈ əʊ k
 folks; f ˈ əʊ k s
 follow; f ˈ ɒ l əʊ
@@ -5795,7 +5795,7 @@ fooling; f ˈ uː l ɪ ŋ
 foolish; f ˈ uː l ɪ ʃ
 fools; f ˈ uː l z
 foot; f ˈ ʊ t
-footage; f ˈ ʊ t ɪ dʒ
+footage; f ˈ ʊ t ɪ d͡ʒ
 football; f ˈ ʊ t b ˌ ɔː l
 footnote; f ˈ ʊ t n ˌ əʊ t
 footsteps; f ˈ ʊ t s t ˌ ɛ p s
@@ -5830,7 +5830,7 @@ forever; f ə ɹ ˈ ɛ v ə
 forewent; f ɔː w ˈ ɛ n t
 forfeit; f ˈ ɔː f ɪ t
 forgave; f ə g ˈ eɪ v
-forge; f ˈ ɔː dʒ
+forge; f ˈ ɔː d͡ʒ
 forget; f ə g ˈ ɛ t
 forgetting; f ə g ˈ ɛ t ɪ ŋ
 forgive; f ə g ˈ ɪ v
@@ -5871,12 +5871,12 @@ forth; f ˈ ɔː θ
 forthcoming; f ˌ ɔː θ k ˈ ʌ m ɪ ŋ
 forties; f ˈ ɔː t i z
 fortnight; f ˈ ɔː t n ˌ aɪ t
-fortunate; f ˈ ɔː tʃ ə n ɪ t
-fortunately; f ˈ ɔː tʃ ə n ɪ t l i
-fortune; f ˈ ɔː tʃ ə n
-fortune; f ˈ ɔː tʃ uː n
-fortunes; f ˈ ɔː tʃ ə n z
-fortunes; f ˈ ɔː tʃ uː n z
+fortunate; f ˈ ɔː t͡ʃ ə n ɪ t
+fortunately; f ˈ ɔː t͡ʃ ə n ɪ t l i
+fortune; f ˈ ɔː t͡ʃ ə n
+fortune; f ˈ ɔː t͡ʃ uː n
+fortunes; f ˈ ɔː t͡ʃ ə n z
+fortunes; f ˈ ɔː t͡ʃ uː n z
 forty; f ˈ ɔː t i
 forum; f ˈ ɔː ɹ ə m
 forums; f ˈ ɔː ɹ ə m z
@@ -5908,9 +5908,9 @@ foxy; f ˈ ɒ k s i
 foyer; f ˈ ɔɪ eɪ
 fraction; f ɹ ˈ æ k ʃ ə n
 fractions; f ɹ ˈ æ k ʃ ə n z
-fracture; f ɹ ˈ æ k tʃ ə
-fractured; f ɹ ˈ æ k tʃ ə d
-fragile; f ɹ ˈ æ dʒ aɪ l
+fracture; f ɹ ˈ æ k t͡ʃ ə
+fractured; f ɹ ˈ æ k t͡ʃ ə d
+fragile; f ɹ ˈ æ d͡ʒ aɪ l
 fragment; f ɹ ˈ æ g m ə n t
 fragments; f ɹ ˈ æ g m ə n t s
 fragrance; f ɹ ˈ eɪ g ɹ ə n s
@@ -5922,7 +5922,7 @@ frames; f ɹ ˈ eɪ m z
 framework; f ɹ ˈ eɪ m w ˌ ɜː k
 framing; f ɹ ˈ eɪ m ɪ ŋ
 france; f ɹ ˈ ɑː n s
-franchise; f ɹ ˈ æ n tʃ ˌ aɪ z
+franchise; f ɹ ˈ æ n t͡ʃ ˌ aɪ z
 francis; f ɹ ˈ ɑː n s ɪ s
 francisco; f ɹ æ n s ˈ ɪ s k əʊ
 francs; f ɹ ˈ æ ŋ k s
@@ -5950,7 +5950,7 @@ freeze; f ɹ ˈ iː z
 freezer; f ɹ ˈ iː z ə
 freezing; f ɹ ˈ iː z ɪ ŋ
 freight; f ɹ ˈ eɪ t
-french; f ɹ ˈ ɛ n tʃ
+french; f ɹ ˈ ɛ n t͡ʃ
 frequencies; f ɹ ˈ iː k w ə n s i z
 frequency; f ɹ ˈ iː k w ə n s i
 frequent; f ɹ ˈ iː k w ə n t
@@ -5965,7 +5965,7 @@ friday; f ɹ ˈ aɪ d i
 friday; f ɹ ˈ aɪ d ˌ eɪ
 fridays; f ɹ ˈ aɪ d i z
 fridays; f ɹ ˈ aɪ d ˌ eɪ z
-fridge; f ɹ ˈ ɪ dʒ
+fridge; f ɹ ˈ ɪ d͡ʒ
 fried; f ɹ ˈ aɪ d
 friend; f ɹ ˈ ɛ n d
 friendly; f ɹ ˈ ɛ n d l i
@@ -5979,13 +5979,13 @@ frightened; f ɹ ˈ aɪ t ə n d
 frightening; f ɹ ˈ aɪ t n ɪ ŋ
 frightening; f ɹ ˈ aɪ t ə n ɪ ŋ
 frill; f ɹ ˈ ɪ l
-fringe; f ɹ ˈ ɪ n dʒ
+fringe; f ɹ ˈ ɪ n d͡ʒ
 frock; f ɹ ˈ ɒ k
 frog; f ɹ ˈ ɒ g
 from; f ɹ ˈ ɒ m
 frome; f ɹ ˈ uː m
 front; f ɹ ˈ ʌ n t
-front-page; f ɹ ˈ ʌ n t p ˌ eɪ dʒ
+front-page; f ɹ ˈ ʌ n t p ˌ eɪ d͡ʒ
 frontier; f ɹ ˈ ʌ n t ɪə
 frontier; f ɹ ʌ n t ˈ ɪə
 frost; f ɹ ˈ ɒ s t
@@ -6006,12 +6006,12 @@ fuck; f ˈ ʌ k
 fucked; f ˈ ʌ k t
 fucker; f ˈ ʌ k ə
 fucking; f ˈ ʌ k ɪ ŋ
-fudge; f ˈ ʌ dʒ
+fudge; f ˈ ʌ d͡ʒ
 fuel; f j ˈ uː ə l
 fuel; f j ˈ ʊə l
 fugue; f j ˈ uː g
-fuji; f ˈ uː dʒ i
-fujitsu; f uː dʒ ˈ ɪ t s uː
+fuji; f ˈ uː d͡ʒ i
+fujitsu; f uː d͡ʒ ˈ ɪ t s uː
 fulfil; f ʊ l f ˈ ɪ l
 fulham; f ˈ ʊ l ə m
 full; f ˈ ʊ l
@@ -6046,7 +6046,7 @@ furnace; f ˈ ɜː n ɪ s
 furnish; f ˈ ɜː n ɪ ʃ
 furnished; f ˈ ɜː n ɪ ʃ t
 furnishings; f ˈ ɜː n ɪ ʃ ɪ ŋ z
-furniture; f ˈ ɜː n ɪ tʃ ə
+furniture; f ˈ ɜː n ɪ t͡ʃ ə
 furry; f ˈ ɜː ɹ i
 further; f ˈ ɜː ð ə
 furthermore; f ˈ ɜː ð ə m ˌ ɔː
@@ -6057,14 +6057,14 @@ fusion; f j ˈ uː ʒ ə n
 fuss; f ˈ ʌ s
 fussy; f ˈ ʌ s i
 futile; f j ˈ uː t aɪ l
-future; f j ˈ uː tʃ ə
-futures; f j ˈ uː tʃ ə z
+future; f j ˈ uː t͡ʃ ə
+futures; f j ˈ uː t͡ʃ ə z
 fuzzy; f ˈ ʌ z i
 gab; g ˈ æ b
 gable; g ˈ eɪ b ə l
 gabriel; g ˈ eɪ b ɹ ɪə l
-gadget; g ˈ æ dʒ ɪ t
-gadgets; g ˈ æ dʒ ɪ t s
+gadget; g ˈ æ d͡ʒ ɪ t
+gadgets; g ˈ æ d͡ʒ ɪ t s
 gaff; g ˈ æ f
 gaffe; g ˈ æ f
 gag; g ˈ æ g
@@ -6091,15 +6091,15 @@ gamma; g ˈ æ m ə
 gamut; g ˈ æ m ə t
 gang; g ˈ æ ŋ
 gangbang; g ˈ æ ŋ b ˌ æ ŋ
-gaol; dʒ ˈ eɪ l
+gaol; d͡ʒ ˈ eɪ l
 gap; g ˈ æ p
 gape; g ˈ eɪ p
 gaps; g ˈ æ p s
 garage; g ˈ æ ɹ ɑː ʒ
-garage; g ˈ æ ɹ ɪ dʒ
+garage; g ˈ æ ɹ ɪ d͡ʒ
 garages; g ˈ æ ɹ ɑː ʒ ɪ z
-garages; g ˈ æ ɹ ɪ dʒ ɪ z
-garbage; g ˈ ɑː b ɪ dʒ
+garages; g ˈ æ ɹ ɪ d͡ʒ ɪ z
+garbage; g ˈ ɑː b ɪ d͡ʒ
 garden; g ˈ ɑː d ə n
 gardener; g ˈ ɑː d ə n ə
 gardening; g ˈ ɑː d n ɪ ŋ
@@ -6125,7 +6125,7 @@ gateway; g ˈ eɪ t w ˌ eɪ
 gather; g ˈ æ ð ə
 gathered; g ˈ æ ð ə d
 gathering; g ˈ æ ð ə ɹ ɪ ŋ
-gauge; g ˈ eɪ dʒ
+gauge; g ˈ eɪ d͡ʒ
 gauze; g ˈ ɔː z
 gave; g ˈ eɪ v
 gavin; g ˈ æ v ɪ n
@@ -6138,75 +6138,75 @@ gazette; g ə z ˈ ɛ t
 gazing; g ˈ eɪ z ɪ ŋ
 gear; g ˈ ɪə
 gears; g ˈ ɪə z
-gee; dʒ ˈ iː
+gee; d͡ʒ ˈ iː
 geek; g ˈ iː k
 gees; g ˈ iː z
 geese; g ˈ iː z
-gel; dʒ ˈ ɛ l
-gem; dʒ ˈ ɛ m
-gemma; dʒ ˈ ɛ m ə
-gender; dʒ ˈ ɛ n d ə
-gene; dʒ ˈ iː n
-genealogy; dʒ ˌ iː n ɪ ˈ æ l ə dʒ i
-general; dʒ ˈ ɛ n ɹ ə l
-general; dʒ ˈ ɛ n ə ɹ ə l
-generalisation; dʒ ˌ ɛ n ə ɹ ə l aɪ z ˈ eɪ ʃ ə n
-generalise; dʒ ɛ n ə ɹ ə l aɪ z
-generalised; dʒ ˈ ɛ n ə ɹ ə l aɪ z d
-generalization; dʒ ˌ ɛ n ə ɹ ə l aɪ z ˈ eɪ ʃ ə n
-generalize; dʒ ɛ n ə ɹ ə l aɪ z
-generalized; dʒ ˈ ɛ n ə ɹ ə l aɪ z d
-generally; dʒ ˈ ɛ n ɹ ə l i
-generally; dʒ ˈ ɛ n ə ɹ ə l i
-generate; dʒ ˈ ɛ n ə ɹ ˌ eɪ t
-generated; dʒ ˈ ɛ n ə ɹ ˌ eɪ t ɪ d
-generates; dʒ ˈ ɛ n ə ɹ ˌ eɪ t s
-generating; dʒ ˈ ɛ n ə ɹ ˌ eɪ t ɪ ŋ
-generation; dʒ ˌ ɛ n ə ɹ ˈ eɪ ʃ ə n
-generations; dʒ ˌ ɛ n ə ɹ ˈ eɪ ʃ ə n z
-generator; dʒ ˈ ɛ n ə ɹ ˌ eɪ t ə
-generators; dʒ ˈ ɛ n ə ɹ ˌ eɪ t ə z
-generic; dʒ ə n ˈ ɛ ɹ ɪ k
-generous; dʒ ˈ ɛ n ə ɹ ə s
-genes; dʒ ˈ iː n z
-genesis; dʒ ˈ ɛ n ɪ s ɪ s
-genetic; dʒ ə n ˈ ɛ t ɪ k
-genetically; dʒ ə n ˈ ɛ t ɪ k ə l i
-genetics; dʒ ə n ˈ ɛ t ɪ k s
-geneva; dʒ ɪ n ˈ iː v ə
-genie; dʒ ˈ iː n i
-genius; dʒ ˈ iː n j ə s
-genome; dʒ ˈ iː n ˌ əʊ m
+gel; d͡ʒ ˈ ɛ l
+gem; d͡ʒ ˈ ɛ m
+gemma; d͡ʒ ˈ ɛ m ə
+gender; d͡ʒ ˈ ɛ n d ə
+gene; d͡ʒ ˈ iː n
+genealogy; d͡ʒ ˌ iː n ɪ ˈ æ l ə d͡ʒ i
+general; d͡ʒ ˈ ɛ n ɹ ə l
+general; d͡ʒ ˈ ɛ n ə ɹ ə l
+generalisation; d͡ʒ ˌ ɛ n ə ɹ ə l aɪ z ˈ eɪ ʃ ə n
+generalise; d͡ʒ ɛ n ə ɹ ə l aɪ z
+generalised; d͡ʒ ˈ ɛ n ə ɹ ə l aɪ z d
+generalization; d͡ʒ ˌ ɛ n ə ɹ ə l aɪ z ˈ eɪ ʃ ə n
+generalize; d͡ʒ ɛ n ə ɹ ə l aɪ z
+generalized; d͡ʒ ˈ ɛ n ə ɹ ə l aɪ z d
+generally; d͡ʒ ˈ ɛ n ɹ ə l i
+generally; d͡ʒ ˈ ɛ n ə ɹ ə l i
+generate; d͡ʒ ˈ ɛ n ə ɹ ˌ eɪ t
+generated; d͡ʒ ˈ ɛ n ə ɹ ˌ eɪ t ɪ d
+generates; d͡ʒ ˈ ɛ n ə ɹ ˌ eɪ t s
+generating; d͡ʒ ˈ ɛ n ə ɹ ˌ eɪ t ɪ ŋ
+generation; d͡ʒ ˌ ɛ n ə ɹ ˈ eɪ ʃ ə n
+generations; d͡ʒ ˌ ɛ n ə ɹ ˈ eɪ ʃ ə n z
+generator; d͡ʒ ˈ ɛ n ə ɹ ˌ eɪ t ə
+generators; d͡ʒ ˈ ɛ n ə ɹ ˌ eɪ t ə z
+generic; d͡ʒ ə n ˈ ɛ ɹ ɪ k
+generous; d͡ʒ ˈ ɛ n ə ɹ ə s
+genes; d͡ʒ ˈ iː n z
+genesis; d͡ʒ ˈ ɛ n ɪ s ɪ s
+genetic; d͡ʒ ə n ˈ ɛ t ɪ k
+genetically; d͡ʒ ə n ˈ ɛ t ɪ k ə l i
+genetics; d͡ʒ ə n ˈ ɛ t ɪ k s
+geneva; d͡ʒ ɪ n ˈ iː v ə
+genie; d͡ʒ ˈ iː n i
+genius; d͡ʒ ˈ iː n j ə s
+genome; d͡ʒ ˈ iː n ˌ əʊ m
 genre; ʒ ˈ ɒ n ɹ ə
 genres; ʒ ˈ ɒ n ɹ ə z
-gent; dʒ ˈ ɛ n t
-gentle; dʒ ˈ ɛ n t ə l
-gentleman; dʒ ˈ ɛ n t ə l m ə n
-gentlemen; dʒ ˈ ɛ n t ə l m ə n
-gently; dʒ ˈ ɛ n t l i
-genuine; dʒ ˈ ɛ n j ʊ ɪ n
-genuinely; dʒ ˈ ɛ n j ʊ ɪ n l i
-genus; dʒ ˈ iː n ə s
-geoff; dʒ ˈ ɛ f
-geoffrey; dʒ ˈ ɛ f ɹ i
-geographic; dʒ ɪə g ɹ ˈ æ f ɪ k
-geographical; dʒ ɪə g ɹ ˈ æ f ɪ k ə l
-geography; dʒ ɪ ˈ ɒ g ɹ ə f i
-geological; dʒ ˌ iː ə l ˈ ɒ dʒ ɪ k ə l
-geology; dʒ ɪ ˈ ɒ l ə dʒ i
-geometry; dʒ ɪ ˈ ɒ m ə t ɹ i
-geordie; dʒ ˈ ɔː d i
-george; dʒ ˈ ɔː dʒ
-georgia; dʒ ˈ ɔː dʒ ə
-gerald; dʒ ˈ ɛ ɹ ə l d
-germ; dʒ ɜː m
-germain; dʒ ɜː m ˈ eɪ n
-germaine; dʒ ə m ˈ eɪ n
-german; dʒ ˈ ɜː m ə n
-germans; dʒ ˈ ɜː m ə n z
-germany; dʒ ˈ ɜː m ə n i
-gerry; dʒ ˈ ɛ ɹ i
-gesture; dʒ ˈ ɛ s tʃ ə
+gent; d͡ʒ ˈ ɛ n t
+gentle; d͡ʒ ˈ ɛ n t ə l
+gentleman; d͡ʒ ˈ ɛ n t ə l m ə n
+gentlemen; d͡ʒ ˈ ɛ n t ə l m ə n
+gently; d͡ʒ ˈ ɛ n t l i
+genuine; d͡ʒ ˈ ɛ n j ʊ ɪ n
+genuinely; d͡ʒ ˈ ɛ n j ʊ ɪ n l i
+genus; d͡ʒ ˈ iː n ə s
+geoff; d͡ʒ ˈ ɛ f
+geoffrey; d͡ʒ ˈ ɛ f ɹ i
+geographic; d͡ʒ ɪə g ɹ ˈ æ f ɪ k
+geographical; d͡ʒ ɪə g ɹ ˈ æ f ɪ k ə l
+geography; d͡ʒ ɪ ˈ ɒ g ɹ ə f i
+geological; d͡ʒ ˌ iː ə l ˈ ɒ d͡ʒ ɪ k ə l
+geology; d͡ʒ ɪ ˈ ɒ l ə d͡ʒ i
+geometry; d͡ʒ ɪ ˈ ɒ m ə t ɹ i
+geordie; d͡ʒ ˈ ɔː d i
+george; d͡ʒ ˈ ɔː d͡ʒ
+georgia; d͡ʒ ˈ ɔː d͡ʒ ə
+gerald; d͡ʒ ˈ ɛ ɹ ə l d
+germ; d͡ʒ ɜː m
+germain; d͡ʒ ɜː m ˈ eɪ n
+germaine; d͡ʒ ə m ˈ eɪ n
+german; d͡ʒ ˈ ɜː m ə n
+germans; d͡ʒ ˈ ɜː m ə n z
+germany; d͡ʒ ˈ ɜː m ə n i
+gerry; d͡ʒ ˈ ɛ ɹ i
+gesture; d͡ʒ ˈ ɛ s t͡ʃ ə
 get; g ˈ ɛ t
 gets; g ˈ ɛ t s
 getting; g ˈ ɛ t ɪ ŋ
@@ -6215,9 +6215,9 @@ ghastly; g ˈ ɑː s t l i
 ghetto; g ˈ ɛ t əʊ
 ghost; g ˈ əʊ s t
 ghosts; g ˈ əʊ s t s
-giant; dʒ ˈ aɪ ə n t
-giants; dʒ ˈ aɪ ə n t s
-gibraltar; dʒ ɪ b ɹ ˈ ɔː l t ə
+giant; d͡ʒ ˈ aɪ ə n t
+giants; d͡ʒ ˈ aɪ ə n t s
+gibraltar; d͡ʒ ɪ b ɹ ˈ ɔː l t ə
 gibson; g ˈ ɪ b s ə n
 gif; g ˈ ɪ f
 gift; g ˈ ɪ f t
@@ -6230,21 +6230,21 @@ gilbert; g ˈ ɪ l b ə t
 gild; g ˈ ɪ l d
 gilded; g ˈ ɪ l d ɪ d
 gill; g ˈ ɪ l
-gill; dʒ ˈ ɪ l
-gillian; dʒ ˈ ɪ l ɪə n
+gill; d͡ʒ ˈ ɪ l
+gillian; d͡ʒ ˈ ɪ l ɪə n
 gillingham; g ˈ ɪ l ɪ ŋ ə m
-gillingham; dʒ ˈ ɪ l ɪ ŋ ə m
+gillingham; d͡ʒ ˈ ɪ l ɪ ŋ ə m
 gilt; g ˈ ɪ l t
-gin; dʒ ˈ ɪ n
-ginger; dʒ ˈ ɪ n dʒ ə
-gipsy; dʒ ˈ ɪ p s i
-giraffe; dʒ ɪ ɹ ˈ ɑː f
-giraffe; dʒ ɪ ɹ ˈ æ f
+gin; d͡ʒ ˈ ɪ n
+ginger; d͡ʒ ˈ ɪ n d͡ʒ ə
+gipsy; d͡ʒ ˈ ɪ p s i
+giraffe; d͡ʒ ɪ ɹ ˈ ɑː f
+giraffe; d͡ʒ ɪ ɹ ˈ æ f
 girl; g ˈ ɜː l
 girlfriend; g ˈ ɜː l f ɹ ˌ ɛ n d
 girls; g ˈ ɜː l z
 girth; g ˈ ɜː θ
-gist; dʒ ˈ ɪ s t
+gist; d͡ʒ ˈ ɪ s t
 git; g ˈ ɪ t
 give; g ˈ ɪ v
 given; g ˈ ɪ v ə n
@@ -6340,11 +6340,11 @@ goof; g ˈ uː f
 goofy; g ˈ uː f i
 google; g ˈ uː g ə l
 goose; g ˈ uː s
-gorbachev; g ˈ ɔː b ə tʃ ˌ ɒ f
+gorbachev; g ˈ ɔː b ə t͡ʃ ˌ ɒ f
 gordon; g ˈ ɔː d ə n
 gore; g ˈ ɔː
-gorge; g ˈ ɔː dʒ
-gorgeous; g ˈ ɔː dʒ ə s
+gorge; g ˈ ɔː d͡ʒ
+gorgeous; g ˈ ɔː d͡ʒ ə s
 gorilla; g ə ɹ ˈ ɪ l ə
 gosh; g ˈ ɒ ʃ
 gospel; g ˈ ɒ s p ə l
@@ -6355,7 +6355,7 @@ gothic; g ˈ ɒ θ ɪ k
 goto; g ˈ əʊ t uː
 gotta; g ˈ ɒ t ə
 gotten; g ˈ ɒ t ə n
-gouge; g ˈ aʊ dʒ
+gouge; g ˈ aʊ d͡ʒ
 gourmet; g ˈ ʊə m ˌ eɪ
 gout; g ˈ aʊ t
 gov; g ˈ ʌ v
@@ -6400,8 +6400,8 @@ grams; g ɹ ˈ æ m z
 gran; g ɹ ˈ æ n
 granary; g ɹ ˈ æ n ə ɹ i
 grand; g ɹ ˈ æ n d
-grandchildren; g ɹ ˈ æ n tʃ ˌ ɪ l d ɹ ə n
-grandchildren; g ɹ ˈ æ n d tʃ ˌ ɪ l d ɹ ə n
+grandchildren; g ɹ ˈ æ n t͡ʃ ˌ ɪ l d ɹ ə n
+grandchildren; g ɹ ˈ æ n d t͡ʃ ˌ ɪ l d ɹ ə n
 granddad; g ɹ ˈ æ n d ˌ æ d
 grande; g ɹ ˈ æ n d i
 grande; g ɹ ˈ æ n d
@@ -6461,8 +6461,8 @@ greenbelt; g ɹ ˈ iː n b ˌ ɛ l t
 greenhouse; g ɹ ˈ iː n h ˌ aʊ s
 greenland; g ɹ ˈ iː n l ə n d
 greens; g ɹ ˈ iː n z
-greenwich; g ɹ ˈ ɛ n ɪ tʃ
-greenwich; g ɹ ˈ ɪ n ɪ dʒ
+greenwich; g ɹ ˈ ɛ n ɪ t͡ʃ
+greenwich; g ɹ ˈ ɪ n ɪ d͡ʒ
 greet; g ɹ ˈ iː t
 greeting; g ɹ ˈ iː t ɪ ŋ
 greetings; g ɹ ˈ iː t ɪ ŋ z
@@ -6552,7 +6552,7 @@ gulp; g ˈ ʌ l p
 gum; g ˈ ʌ m
 gun; g ˈ ʌ n
 gunfire; g ˈ ʌ n f ˌ aɪ ə
-gunge; g ˈ ʌ n dʒ
+gunge; g ˈ ʌ n d͡ʒ
 guns; g ˈ ʌ n z
 gunshot; g ˈ ʌ n ʃ ˌ ɒ t
 gunshots; g ˈ ʌ n ʃ ˌ ɒ t s
@@ -6565,11 +6565,11 @@ gutter; g ˈ ʌ t ə
 guy; g ˈ aɪ
 guyana; g ˌ aɪ ˈ æ n ə
 guys; g ˈ aɪ z
-gym; dʒ ˈ ɪ m
-gymnast; dʒ ˈ ɪ m n æ s t
-gypsies; dʒ ˈ ɪ p s i z
-gypsy; dʒ ˈ ɪ p s i
-gzip; dʒ ˈ iː z ˌ ɪ p
+gym; d͡ʒ ˈ ɪ m
+gymnast; d͡ʒ ˈ ɪ m n æ s t
+gypsies; d͡ʒ ˈ ɪ p s i z
+gypsy; d͡ʒ ˈ ɪ p s i
+gzip; d͡ʒ ˈ iː z ˌ ɪ p
 ha; h ˈ ɑː
 habit; h ˈ æ b ɪ t
 habitat; h ˈ æ b ɪ t ˌ æ t
@@ -6582,7 +6582,7 @@ hacks; h ˈ æ k s
 had; h ə d
 had; h ˈ æ d
 hadn't; h ˈ æ d ə n t
-haemorrhage; h ˈ ɛ m ə ɹ ɪ dʒ
+haemorrhage; h ˈ ɛ m ə ɹ ɪ d͡ʒ
 haggis; h ˈ æ g ɪ s
 hail; h ˈ eɪ l
 hair; h ˈ ɛə
@@ -6629,10 +6629,10 @@ handheld; h ˈ æ n d h ˌ ɛ l d
 handhelds; h ˈ æ n d h ˌ ɛ l d z
 handicap; h ˈ æ n d ɪ k ˌ æ p
 handicapped; h ˈ æ n d ɪ k ˌ æ p t
-handjob; h ˈ æ n d dʒ ˌ ɒ b
-handjobs; h ˈ æ n d dʒ ˌ ɒ b z
-handkerchief; h ˈ æ ŋ k ə tʃ ɪ f
-handkerchief; h ˈ æ ŋ k ə tʃ iː f
+handjob; h ˈ æ n d d͡ʒ ˌ ɒ b
+handjobs; h ˈ æ n d d͡ʒ ˌ ɒ b z
+handkerchief; h ˈ æ ŋ k ə t͡ʃ ɪ f
+handkerchief; h ˈ æ ŋ k ə t͡ʃ iː f
 handle; h ˈ æ n d ə l
 handled; h ˈ æ n d ə l d
 handles; h ˈ æ n d ə l z
@@ -6711,7 +6711,7 @@ hastily; h ˈ eɪ s t ɪ l i
 hastings; h ˈ eɪ s t ɪ ŋ z
 hasty; h ˈ eɪ s t i
 hat; h ˈ æ t
-hatch; h ˈ æ tʃ
+hatch; h ˈ æ t͡ʃ
 hate; h ˈ eɪ t
 hated; h ˈ eɪ t ɪ d
 hates; h ˈ eɪ t s
@@ -6792,8 +6792,8 @@ hectare; h ˈ ɛ k t ɛə
 hectares; h ˈ ɛ k t ɑː z
 hectares; h ˈ ɛ k t ɛə z
 hectic; h ˈ ɛ k t ɪ k
-hedge; h ˈ ɛ dʒ
-hedgehog; h ˈ ɛ dʒ h ˌ ɒ g
+hedge; h ˈ ɛ d͡ʒ
+hedgehog; h ˈ ɛ d͡ʒ h ˌ ɒ g
 heed; h ˈ iː d
 heel; h ˈ iː l
 heels; h ˈ iː l z
@@ -6828,7 +6828,7 @@ helsinki; h ɛ l s ˈ ɪ ŋ k i
 helsinki; h ˈ ɛ l s ɪ ŋ k i
 hem; h ˈ ɛ m
 hemisphere; h ˈ ɛ m ɪ s f ˌ ɪə
-hemorrhage; h ˈ ɛ m ə ɹ ɪ dʒ
+hemorrhage; h ˈ ɛ m ə ɹ ɪ d͡ʒ
 hemp; h ˈ ɛ m p
 hen; h ˈ ɛ n
 hence; h ˈ ɛ n s
@@ -6848,7 +6848,7 @@ hereby; h ˌ ɪə b ˈ aɪ
 hereford; h ˈ ɛ ɹ ɪ f ə d
 herefordshire; h ˈ ɛ ɹ ɪ f ə d ʃ ə
 herein; h ˌ ɪə ɹ ˈ ɪ n
-heritage; h ˈ ɛ ɹ ɪ t ɪ dʒ
+heritage; h ˈ ɛ ɹ ɪ t ɪ d͡ʒ
 hero; h ˈ ɪə ɹ əʊ
 heroes; h ˈ ɪə ɹ əʊ z
 heroic; h ɪ ɹ ˈ əʊ ɪ k
@@ -6909,7 +6909,7 @@ hind; h ˈ aɪ n d
 hinder; h ˈ ɪ n d ə
 hindrance; h ˈ ɪ n d ɹ ə n s
 hindu; h ˈ ɪ n d ˌ uː
-hinge; h ˈ ɪ n dʒ
+hinge; h ˈ ɪ n d͡ʒ
 hint; h ˈ ɪ n t
 hints; h ˈ ɪ n t s
 hip; h ˈ ɪ p
@@ -6935,8 +6935,8 @@ histories; h ˈ ɪ s t ə ɹ i z
 history; h ˈ ɪ s t ɹ i
 history; h ˈ ɪ s t ə ɹ i
 hit; h ˈ ɪ t
-hitachi; h ɪ t ˈ ɑː tʃ i
-hitch; h ˈ ɪ tʃ
+hitachi; h ɪ t ˈ ɑː t͡ʃ i
+hitch; h ˈ ɪ t͡ʃ
 hitherto; h ˌ ɪ ð ə t ˈ uː
 hitler; h ˈ ɪ t l ə
 hits; h ˈ ɪ t s
@@ -6971,22 +6971,22 @@ holmes; h ˈ əʊ m z
 holocaust; h ˈ ɒ l ə k ˌ ɔː s t
 holy; h ˈ əʊ l i
 holyhead; h ˈ ɒ l ɪ h ɛ d
-homage; h ˈ ɒ m ɪ dʒ
+homage; h ˈ ɒ m ɪ d͡ʒ
 home; h ˈ əʊ m
 homeland; h ˈ əʊ m l ˌ æ n d
 homeless; h ˈ əʊ m l ɪ s
-homepage; h ˈ əʊ m p ˌ eɪ dʒ
+homepage; h ˈ əʊ m p ˌ eɪ d͡ʒ
 homes; h ˈ əʊ m z
 hometown; h ˈ əʊ m t ˌ aʊ n
 homework; h ˈ əʊ m w ˌ ɜː k
 homicide; h ˈ ɒ m ɪ s ˌ aɪ d
-homogeneity; h ˌ əʊ m ə dʒ ɪ n ˈ iː ɪ t i
-homogeneity; h ˌ ɒ m ə dʒ ɪ n ˈ iː ɪ t i
-homogeneity; h ˌ ɒ m ə dʒ ɪ n ˈ eɪ ɪ t i
-homogeneity; h ˌ əʊ m əʊ dʒ ɪ n ˈ eɪ ɪ t i
-homogenous; h ə m ˈ ɒ dʒ ɪ n ə s
-homogenous; h ˌ ɒ m ə dʒ ˈ iː n ɪə s
-homogenous; h ˌ əʊ m ə dʒ ˈ iː n ɪə s
+homogeneity; h ˌ əʊ m ə d͡ʒ ɪ n ˈ iː ɪ t i
+homogeneity; h ˌ ɒ m ə d͡ʒ ɪ n ˈ iː ɪ t i
+homogeneity; h ˌ ɒ m ə d͡ʒ ɪ n ˈ eɪ ɪ t i
+homogeneity; h ˌ əʊ m əʊ d͡ʒ ɪ n ˈ eɪ ɪ t i
+homogenous; h ə m ˈ ɒ d͡ʒ ɪ n ə s
+homogenous; h ˌ ɒ m ə d͡ʒ ˈ iː n ɪə s
+homogenous; h ˌ əʊ m ə d͡ʒ ˈ iː n ɪə s
 homosexual; h ˌ ɒ m əʊ s ˈ ɛ k ʃ ʊə l
 homosexual; h ˌ əʊ m əʊ s ˈ ɛ k ʃ ʊə l
 honda; h ˈ ɒ n d ə
@@ -7046,7 +7046,7 @@ hospital; h ˈ ɒ s p ˌ ɪ t ə l
 hospitality; h ˌ ɒ s p ɪ t ˈ æ l ɪ t i
 hospitals; h ˈ ɒ s p ˌ ɪ t ə l z
 host; h ˈ əʊ s t
-hostage; h ˈ ɒ s t ɪ dʒ
+hostage; h ˈ ɒ s t ɪ d͡ʒ
 hosted; h ˈ əʊ s t ɪ d
 hostel; h ˈ ɒ s t ə l
 hostels; h ˈ ɒ s t ə l z
@@ -7094,7 +7094,7 @@ hudson; h ˈ ʌ d s ə n
 hue; h j ˈ uː
 huff; h ˈ ʌ f
 hug; h ˈ ʌ g
-huge; h j ˈ uː dʒ
+huge; h j ˈ uː d͡ʒ
 hugh; h j ˈ uː
 hughes; h j ˈ uː z
 huh; h ˈ ʌ
@@ -7116,7 +7116,7 @@ humour; h j ˈ uː m ə
 humourous; h j ˈ uː m ə ɹ ə s
 hump; h ˈ ʌ m p
 humus; h j ˈ uː m ə s
-hunch; h ˈ ʌ n tʃ
+hunch; h ˈ ʌ n t͡ʃ
 hundred; h ˈ ʌ n d ɹ ə d
 hundred; h ˈ ʌ n d ɹ ɪ d
 hundreds; h ˈ ʌ n d ɹ ə d z
@@ -7148,10 +7148,10 @@ hustle; h ˈ ʌ s ə l
 hut; h ˈ ʌ t
 hybrid; h ˈ aɪ b ɹ ɪ d
 hydraulic; h aɪ d ɹ ˈ ɒ l ɪ k
-hydrogen; h ˈ aɪ d ɹ ə dʒ ə n
+hydrogen; h ˈ aɪ d ɹ ə d͡ʒ ə n
 hyena; h aɪ ˈ iː n ə
-hygiene; h ˈ aɪ dʒ ˌ iː n
-hygienic; h ˌ aɪ dʒ ˈ iː n ɪ k
+hygiene; h ˈ aɪ d͡ʒ ˌ iː n
+hygienic; h ˌ aɪ d͡ʒ ˈ iː n ɪ k
 hymen; h ˈ aɪ m ə n
 hymn; h ˈ ɪ m
 hype; h ˈ aɪ p
@@ -7187,8 +7187,8 @@ identifies; aɪ d ˈ ɛ n t ɪ f ˌ aɪ z
 identify; aɪ d ˈ ɛ n t ɪ f ˌ aɪ
 identifying; aɪ d ˈ ɛ n t ɪ f ˌ aɪ ɪ ŋ
 identity; aɪ d ˈ ɛ n t ɪ t i
-ideological; aɪ d ɪə l ˈ ɒ dʒ ɪ k ə l
-ideology; aɪ d ɪ ˈ ɒ l ə dʒ i
+ideological; aɪ d ɪə l ˈ ɒ d͡ʒ ɪ k ə l
+ideology; aɪ d ɪ ˈ ɒ l ə d͡ʒ i
 idiom; ˈ ɪ d ɪə m
 idiot; ˈ ɪ d ɪə t
 idiots; ˈ ɪ d ɪə t s
@@ -7206,7 +7206,7 @@ ignored; ɪ g n ˈ ɔː d
 ignoring; ɪ g n ˈ ɔː ɹ ɪ ŋ
 ill; ˈ ɪ l
 illegal; ɪ l ˈ iː g ə l
-illegitimate; ɪ l ɪ dʒ ˈ ɪ t ɪ m ɪ t
+illegitimate; ɪ l ɪ d͡ʒ ˈ ɪ t ɪ m ɪ t
 illicit; ɪ l ˈ ɪ s ɪ t
 illinois; ˌ ɪ l ɪ n ˈ ɔɪ
 illness; ˈ ɪ l n ɪ s
@@ -7216,15 +7216,15 @@ illustrated; ˈ ɪ l ə s t ɹ ˌ eɪ t ɪ d
 illustrates; ˈ ɪ l ə s t ɹ ˌ eɪ t s
 illustration; ˌ ɪ l ə s t ɹ ˈ eɪ ʃ ə n
 illustrations; ˌ ɪ l ə s t ɹ ˈ eɪ ʃ ə n z
-image; ˈ ɪ m ɪ dʒ
-imagery; ˈ ɪ m ɪ dʒ ɹ i
-images; ˈ ɪ m ɪ dʒ ɪ z
-imaginary; ɪ m ˈ æ dʒ ɪ n ə ɹ i
-imagination; ɪ m ˌ æ dʒ ɪ n ˈ eɪ ʃ ə n
-imaginative; ɪ m ˈ æ dʒ ɪ n ə t ɪ v
-imagine; ɪ m ˈ æ dʒ ɪ n
-imagined; ɪ m ˈ æ dʒ ɪ n d
-imaging; ˈ ɪ m ɪ dʒ ɪ ŋ
+image; ˈ ɪ m ɪ d͡ʒ
+imagery; ˈ ɪ m ɪ d͡ʒ ɹ i
+images; ˈ ɪ m ɪ d͡ʒ ɪ z
+imaginary; ɪ m ˈ æ d͡ʒ ɪ n ə ɹ i
+imagination; ɪ m ˌ æ d͡ʒ ɪ n ˈ eɪ ʃ ə n
+imaginative; ɪ m ˈ æ d͡ʒ ɪ n ə t ɪ v
+imagine; ɪ m ˈ æ d͡ʒ ɪ n
+imagined; ɪ m ˈ æ d͡ʒ ɪ n d
+imaging; ˈ ɪ m ɪ d͡ʒ ɪ ŋ
 imbalance; ɪ m b ˈ æ l ə n s
 imbue; ɪ m b j ˈ uː
 immediate; ɪ m ˈ iː d ɪə t
@@ -7235,7 +7235,7 @@ immigrate; ˈ ɪ m ɪ g ɹ ˌ eɪ t
 immigration; ˌ ɪ m ɪ g ɹ ˈ eɪ ʃ ə n
 imminent; ˈ ɪ m ɪ n ə n t
 immune; ɪ m j ˈ uː n
-immunology; ˌ ɪ m j uː n ˈ ɒ l ə dʒ i
+immunology; ˌ ɪ m j uː n ˈ ɒ l ə d͡ʒ i
 impact; ˈ ɪ m p æ k t
 impact; ɪ m p ˈ æ k t
 impacts; ˈ ɪ m p æ k t s
@@ -7299,8 +7299,8 @@ incense; ˈ ɪ n s ɛ n s
 incentive; ɪ n s ˈ ɛ n t ɪ v
 incentives; ɪ n s ˈ ɛ n t ɪ v z
 incest; ˈ ɪ n s ˌ ɛ s t
-inch; ˈ ɪ n tʃ
-inches; ˈ ɪ n tʃ ɪ z
+inch; ˈ ɪ n t͡ʃ
+inches; ˈ ɪ n t͡ʃ ɪ z
 incidence; ˈ ɪ n s ɪ d ə n s
 incident; ˈ ɪ n s ɪ d ə n t
 incidentally; ˌ ɪ n s ɪ d ˈ ɛ n t l i
@@ -7364,7 +7364,7 @@ indifference; ɪ n d ˈ ɪ f ɹ ə n s
 indifference; ɪ n d ˈ ɪ f ə ɹ ə n s
 indifferent; ɪ n d ˈ ɪ f ɹ ə n t
 indifferent; ɪ n d ˈ ɪ f ə ɹ ə n t
-indigenous; ɪ n d ˈ ɪ dʒ ə n ə s
+indigenous; ɪ n d ˈ ɪ d͡ʒ ə n ə s
 indigo; ˈ ɪ n d ɪ g ˌ əʊ
 indirect; ˌ ɪ n d ɪ ɹ ˈ ɛ k t
 indirect; ˌ ɪ n d aɪ ɹ ˈ ɛ k t
@@ -7383,7 +7383,7 @@ indoors; ˈ ɪ n d ˌ ɔː z
 induce; ɪ n d j ˈ uː s
 induced; ɪ n d j ˈ uː s t
 induction; ɪ n d ˈ ʌ k ʃ ə n
-indulge; ɪ n d ˈ ʌ l dʒ
+indulge; ɪ n d ˈ ʌ l d͡ʒ
 industrial; ɪ n d ˈ ʌ s t ɹ ɪə l
 industrialisation; ɪ n d ˌ ʌ s t ɹ ɪə l aɪ z ˈ eɪ ʃ ə n
 industrialise; ɪ n d ˈ ʌ s t ɹ ɪə l ˌ aɪ z
@@ -7426,9 +7426,9 @@ informational; ˌ ɪ n f ə m ˈ eɪ ʃ ə n ə l
 informative; ɪ n f ˈ ɔː m ə t ɪ v
 informed; ɪ n f ˈ ɔː m d
 infrared; ˌ ɪ n f ɹ ə ɹ ˈ ɛ d
-infrastructure; ˌ ɪ n f ɹ ə s t ɹ ˈ ʌ k tʃ ə
-infringement; ɪ n f ɹ ˈ ɪ n dʒ m ə n t
-ingenious; ɪ n dʒ ˈ iː n j ə s
+infrastructure; ˌ ɪ n f ɹ ə s t ɹ ˈ ʌ k t͡ʃ ə
+infringement; ɪ n f ɹ ˈ ɪ n d͡ʒ m ə n t
+ingenious; ɪ n d͡ʒ ˈ iː n j ə s
 ingredient; ɪ n g ɹ ˈ iː d ɪə n t
 ingredients; ɪ n g ɹ ˈ iː d ɪə n t s
 inhabitant; ɪ n h ˈ æ b ɪ t ə n t
@@ -7450,17 +7450,17 @@ initiative; ɪ n ˈ ɪ ʃ ə t ɪ v
 initiative; ɪ n ˈ ɪ ʃ ɪə t ɪ v
 initiatives; ɪ n ˈ ɪ ʃ ə t ɪ v z
 initiatives; ɪ n ˈ ɪ ʃ ɪə t ɪ v z
-inject; ɪ n dʒ ˈ ɛ k t
-injection; ɪ n dʒ ˈ ɛ k ʃ ə n
-injunction; ɪ n dʒ ˈ ʌ ŋ ʃ ə n
-injunction; ɪ n dʒ ˈ ʌ ŋ k ʃ ə n
-injure; ˈ ɪ n dʒ ə
-injured; ˈ ɪ n dʒ ə d
-injuries; ˈ ɪ n dʒ ə ɹ i z
-injury; ˈ ɪ n dʒ ə ɹ i
-injustice; ɪ n dʒ ˈ ʌ s t ɪ s
+inject; ɪ n d͡ʒ ˈ ɛ k t
+injection; ɪ n d͡ʒ ˈ ɛ k ʃ ə n
+injunction; ɪ n d͡ʒ ˈ ʌ ŋ ʃ ə n
+injunction; ɪ n d͡ʒ ˈ ʌ ŋ k ʃ ə n
+injure; ˈ ɪ n d͡ʒ ə
+injured; ˈ ɪ n d͡ʒ ə d
+injuries; ˈ ɪ n d͡ʒ ə ɹ i z
+injury; ˈ ɪ n d͡ʒ ə ɹ i
+injustice; ɪ n d͡ʒ ˈ ʌ s t ɪ s
 ink; ˈ ɪ ŋ k
-inkjet; ˈ ɪ ŋ k dʒ ˌ ɛ t
+inkjet; ˈ ɪ ŋ k d͡ʒ ˌ ɛ t
 inland; ˈ ɪ n l ˌ æ n d
 inlay; ɪ n l ˈ eɪ
 inlay; ˈ ɪ n l ˌ eɪ
@@ -7549,7 +7549,7 @@ insure; ɪ n ʃ ˈ ɔː
 insured; ɪ n ʃ ˈ ɔː d
 intact; ɪ n t ˈ æ k t
 intake; ˈ ɪ n t ˌ eɪ k
-integer; ˈ ɪ n t ɪ dʒ ə
+integer; ˈ ɪ n t ɪ d͡ʒ ə
 integral; ˈ ɪ n t ɪ g ɹ ə l
 integral; ɪ n t ˈ ɛ g ɹ ə l
 integrate; ˈ ɪ n t ɪ g ɹ ˌ eɪ t
@@ -7558,9 +7558,9 @@ integrating; ˈ ɪ n t ɪ g ɹ ˌ eɪ t ɪ ŋ
 integration; ˌ ɪ n t ɪ g ɹ ˈ eɪ ʃ ə n
 integrity; ɪ n t ˈ ɛ g ɹ ɪ t i
 intel; ˈ ɪ n t ɛ l
-intellectual; ˌ ɪ n t ə l ˈ ɛ k tʃ ʊə l
-intelligence; ɪ n t ˈ ɛ l ɪ dʒ ə n s
-intelligent; ɪ n t ˈ ɛ l ɪ dʒ ə n t
+intellectual; ˌ ɪ n t ə l ˈ ɛ k t͡ʃ ʊə l
+intelligence; ɪ n t ˈ ɛ l ɪ d͡ʒ ə n s
+intelligent; ɪ n t ˈ ɛ l ɪ d͡ʒ ə n t
 intend; ɪ n t ˈ ɛ n d
 intended; ɪ n t ˈ ɛ n d ɪ d
 intends; ɪ n t ˈ ɛ n d z
@@ -7690,7 +7690,7 @@ ion; ˈ aɪ ˌ ɒ n
 iota; aɪ ˈ əʊ t ə
 iowa; ˈ aɪ əʊ ə
 ipod; ˈ aɪ p ˌ ɒ d
-ipswich; ˈ ɪ p s w ɪ tʃ
+ipswich; ˈ ɪ p s w ɪ t͡ʃ
 iran; ɪ ɹ ˈ ɑː n
 iranian; ɪ ɹ ˈ eɪ n ɪə n
 iranian; ɪ ɹ ˈ ɑː n ɪə n
@@ -7742,7 +7742,7 @@ it; ˈ ɪ t
 italian; ɪ t ˈ æ l j ə n
 italic; ɪ t ˈ æ l ɪ k
 italy; ˈ ɪ t ə l i
-itch; ˈ ɪ tʃ
+itch; ˈ ɪ t͡ʃ
 item; ˈ aɪ t ə m
 items; ˈ aɪ t ə m z
 its; ɪ t s
@@ -7752,184 +7752,184 @@ itunes; ˈ aɪ t j ˌ uː n z
 ivory; ˈ aɪ v ə ɹ i
 ivory; ˈ aɪ v ɹ i
 ivy; ˈ aɪ v i
-jab; dʒ ˈ æ b
-jack; dʒ ˈ æ k
-jacket; dʒ ˈ æ k ɪ t
-jackets; dʒ ˈ æ k ɪ t s
-jackie; dʒ ˈ æ k i
-jackson; dʒ ˈ æ k s ə n
-jacksonville; dʒ ˈ æ k s ə n v ˌ ɪ l
-jacob; dʒ ˈ eɪ k ə b
-jacqueline; dʒ ˈ æ k l ɪ n
-jacqueline; dʒ ˈ æ k ə l ɪ n
-jacques; dʒ ˈ æ k
-jade; dʒ ˈ eɪ d
-jagged; dʒ ˈ æ g ɪ d
-jaguar; dʒ ˈ æ g j ʊə
-jail; dʒ ˈ eɪ l
-jake; dʒ ˈ eɪ k
-jam; dʒ ˈ æ m
-jamaica; dʒ ə m ˈ eɪ k ə
-james; dʒ ˈ eɪ m z
-jamie; dʒ ˈ eɪ m i
-jan; dʒ ˈ æ n
-jane; dʒ ˈ eɪ n
-janet; dʒ ˈ æ n ɪ t
-january; dʒ ˈ æ n j ʊə ɹ i
-japan; dʒ ə p ˈ æ n
-japanese; dʒ ˌ æ p ə n ˈ iː z
-jar; dʒ ˈ ɑː
-jason; dʒ ˈ eɪ s ə n
-java; dʒ ˈ ɑː v ə
-javascript; dʒ ˈ ɑː v ə s k ɹ ˌ ɪ p t
-jaw; dʒ ˈ ɔː
-jay; dʒ ˈ eɪ
-jays; dʒ ˈ eɪ z
-jazz; dʒ ˈ æ z
-jealous; dʒ ˈ ɛ l ə s
-jealousy; dʒ ˈ ɛ l ə s i
-jean; dʒ ˈ iː n
-jeans; dʒ ˈ iː n z
-jeep; dʒ ˈ iː p
-jeer; dʒ ˈ ɪə
-jeez; dʒ ˈ iː z
-jeff; dʒ ˈ ɛ f
-jefferson; dʒ ˈ ɛ f ə s ə n
-jeffrey; dʒ ˈ ɛ f ɹ i
-jehovah; dʒ ɪ h ˈ əʊ v ə
-jelly; dʒ ˈ ɛ l i
-jennifer; dʒ ˈ ɛ n ɪ f ə
-jenny; dʒ ˈ ɛ n i
-jeopardise; dʒ ˈ ɛ p ə d ˌ aɪ z
-jeopardize; dʒ ˈ ɛ p ə d ˌ aɪ z
-jeremy; dʒ ˈ ɛ ɹ ɪ m i
-jerk; dʒ ˈ ɜː k
-jerry; dʒ ˈ ɛ ɹ i
-jersey; dʒ ˈ ɜː z i
-jerusalem; dʒ ə ɹ ˈ uː s ə l ə m
-jessica; dʒ ˈ ɛ s ɪ k ə
-jessie; dʒ ˈ ɛ s i
-jest; dʒ ˈ ɛ s t
-jesus; dʒ ˈ iː z ə s
-jet; dʒ ˈ ɛ t
-jets; dʒ ˈ ɛ t s
-jetty; dʒ ˈ ɛ t i
-jew; dʒ ˈ uː
-jewel; dʒ ˈ uː ə l
-jewellery; dʒ ˈ uː ə l ɹ i
-jewellery; dʒ ˈ uː l ɹ i
-jewelry; dʒ ˈ uː ə l ɹ i
-jewelry; dʒ ˈ uː l ɹ i
-jewels; dʒ ˈ uː ə l z
-jewish; dʒ ˈ uː ɪ ʃ
-jews; dʒ ˈ uː z
-jibe; dʒ ˈ aɪ b
-jigsaw; dʒ ˈ ɪ g s ˌ ɔː
-jill; dʒ ˈ ɪ l
-jim; dʒ ˈ ɪ m
-jimmy; dʒ ˈ ɪ m i
-jinx; dʒ ˈ ɪ ŋ k s
-jive; dʒ ˈ aɪ v
-jo; dʒ ˈ əʊ
-joan; dʒ ˈ əʊ n
-joanna; dʒ əʊ ˈ æ n ə
-joanne; dʒ ˌ əʊ ˈ æ n
-job; dʒ ˈ ɒ b
-job; dʒ ˈ əʊ b
-jobs; dʒ ˈ ɒ b z
-jock; dʒ ˈ ɒ k
-joe; dʒ ˈ əʊ
-joel; dʒ ˈ əʊ ə l
-joey; dʒ ˈ əʊ i
-jog; dʒ ˈ ɒ g
-jogging; dʒ ˈ ɒ g ɪ ŋ
-john; dʒ ˈ ɒ n
-johnny; dʒ ˈ ɒ n i
-johns; dʒ ˈ ɒ n z
-johnson; dʒ ˈ ɒ n s ə n
-join; dʒ ˈ ɔɪ n
-joined; dʒ ˈ ɔɪ n d
-joining; dʒ ˈ ɔɪ n ɪ ŋ
-joins; dʒ ˈ ɔɪ n z
-joint; dʒ ˈ ɔɪ n t
-jointly; dʒ ˈ ɔɪ n t l i
-joints; dʒ ˈ ɔɪ n t s
-joke; dʒ ˈ əʊ k
-joker; dʒ ˈ əʊ k ə
-jokes; dʒ ˈ əʊ k s
-joking; dʒ ˈ əʊ k ɪ ŋ
-jolly; dʒ ˈ ɒ l i
-jolt; dʒ ˈ əʊ l t
-jon; dʒ ˈ ɒ n
-jonathan; dʒ ˈ ɒ n ə θ ə n
-jones; dʒ ˈ əʊ n z
-jordan; dʒ ˈ ɔː d ə n
+jab; d͡ʒ ˈ æ b
+jack; d͡ʒ ˈ æ k
+jacket; d͡ʒ ˈ æ k ɪ t
+jackets; d͡ʒ ˈ æ k ɪ t s
+jackie; d͡ʒ ˈ æ k i
+jackson; d͡ʒ ˈ æ k s ə n
+jacksonville; d͡ʒ ˈ æ k s ə n v ˌ ɪ l
+jacob; d͡ʒ ˈ eɪ k ə b
+jacqueline; d͡ʒ ˈ æ k l ɪ n
+jacqueline; d͡ʒ ˈ æ k ə l ɪ n
+jacques; d͡ʒ ˈ æ k
+jade; d͡ʒ ˈ eɪ d
+jagged; d͡ʒ ˈ æ g ɪ d
+jaguar; d͡ʒ ˈ æ g j ʊə
+jail; d͡ʒ ˈ eɪ l
+jake; d͡ʒ ˈ eɪ k
+jam; d͡ʒ ˈ æ m
+jamaica; d͡ʒ ə m ˈ eɪ k ə
+james; d͡ʒ ˈ eɪ m z
+jamie; d͡ʒ ˈ eɪ m i
+jan; d͡ʒ ˈ æ n
+jane; d͡ʒ ˈ eɪ n
+janet; d͡ʒ ˈ æ n ɪ t
+january; d͡ʒ ˈ æ n j ʊə ɹ i
+japan; d͡ʒ ə p ˈ æ n
+japanese; d͡ʒ ˌ æ p ə n ˈ iː z
+jar; d͡ʒ ˈ ɑː
+jason; d͡ʒ ˈ eɪ s ə n
+java; d͡ʒ ˈ ɑː v ə
+javascript; d͡ʒ ˈ ɑː v ə s k ɹ ˌ ɪ p t
+jaw; d͡ʒ ˈ ɔː
+jay; d͡ʒ ˈ eɪ
+jays; d͡ʒ ˈ eɪ z
+jazz; d͡ʒ ˈ æ z
+jealous; d͡ʒ ˈ ɛ l ə s
+jealousy; d͡ʒ ˈ ɛ l ə s i
+jean; d͡ʒ ˈ iː n
+jeans; d͡ʒ ˈ iː n z
+jeep; d͡ʒ ˈ iː p
+jeer; d͡ʒ ˈ ɪə
+jeez; d͡ʒ ˈ iː z
+jeff; d͡ʒ ˈ ɛ f
+jefferson; d͡ʒ ˈ ɛ f ə s ə n
+jeffrey; d͡ʒ ˈ ɛ f ɹ i
+jehovah; d͡ʒ ɪ h ˈ əʊ v ə
+jelly; d͡ʒ ˈ ɛ l i
+jennifer; d͡ʒ ˈ ɛ n ɪ f ə
+jenny; d͡ʒ ˈ ɛ n i
+jeopardise; d͡ʒ ˈ ɛ p ə d ˌ aɪ z
+jeopardize; d͡ʒ ˈ ɛ p ə d ˌ aɪ z
+jeremy; d͡ʒ ˈ ɛ ɹ ɪ m i
+jerk; d͡ʒ ˈ ɜː k
+jerry; d͡ʒ ˈ ɛ ɹ i
+jersey; d͡ʒ ˈ ɜː z i
+jerusalem; d͡ʒ ə ɹ ˈ uː s ə l ə m
+jessica; d͡ʒ ˈ ɛ s ɪ k ə
+jessie; d͡ʒ ˈ ɛ s i
+jest; d͡ʒ ˈ ɛ s t
+jesus; d͡ʒ ˈ iː z ə s
+jet; d͡ʒ ˈ ɛ t
+jets; d͡ʒ ˈ ɛ t s
+jetty; d͡ʒ ˈ ɛ t i
+jew; d͡ʒ ˈ uː
+jewel; d͡ʒ ˈ uː ə l
+jewellery; d͡ʒ ˈ uː ə l ɹ i
+jewellery; d͡ʒ ˈ uː l ɹ i
+jewelry; d͡ʒ ˈ uː ə l ɹ i
+jewelry; d͡ʒ ˈ uː l ɹ i
+jewels; d͡ʒ ˈ uː ə l z
+jewish; d͡ʒ ˈ uː ɪ ʃ
+jews; d͡ʒ ˈ uː z
+jibe; d͡ʒ ˈ aɪ b
+jigsaw; d͡ʒ ˈ ɪ g s ˌ ɔː
+jill; d͡ʒ ˈ ɪ l
+jim; d͡ʒ ˈ ɪ m
+jimmy; d͡ʒ ˈ ɪ m i
+jinx; d͡ʒ ˈ ɪ ŋ k s
+jive; d͡ʒ ˈ aɪ v
+jo; d͡ʒ ˈ əʊ
+joan; d͡ʒ ˈ əʊ n
+joanna; d͡ʒ əʊ ˈ æ n ə
+joanne; d͡ʒ ˌ əʊ ˈ æ n
+job; d͡ʒ ˈ ɒ b
+job; d͡ʒ ˈ əʊ b
+jobs; d͡ʒ ˈ ɒ b z
+jock; d͡ʒ ˈ ɒ k
+joe; d͡ʒ ˈ əʊ
+joel; d͡ʒ ˈ əʊ ə l
+joey; d͡ʒ ˈ əʊ i
+jog; d͡ʒ ˈ ɒ g
+jogging; d͡ʒ ˈ ɒ g ɪ ŋ
+john; d͡ʒ ˈ ɒ n
+johnny; d͡ʒ ˈ ɒ n i
+johns; d͡ʒ ˈ ɒ n z
+johnson; d͡ʒ ˈ ɒ n s ə n
+join; d͡ʒ ˈ ɔɪ n
+joined; d͡ʒ ˈ ɔɪ n d
+joining; d͡ʒ ˈ ɔɪ n ɪ ŋ
+joins; d͡ʒ ˈ ɔɪ n z
+joint; d͡ʒ ˈ ɔɪ n t
+jointly; d͡ʒ ˈ ɔɪ n t l i
+joints; d͡ʒ ˈ ɔɪ n t s
+joke; d͡ʒ ˈ əʊ k
+joker; d͡ʒ ˈ əʊ k ə
+jokes; d͡ʒ ˈ əʊ k s
+joking; d͡ʒ ˈ əʊ k ɪ ŋ
+jolly; d͡ʒ ˈ ɒ l i
+jolt; d͡ʒ ˈ əʊ l t
+jon; d͡ʒ ˈ ɒ n
+jonathan; d͡ʒ ˈ ɒ n ə θ ə n
+jones; d͡ʒ ˈ əʊ n z
+jordan; d͡ʒ ˈ ɔː d ə n
 jose; h ˌ əʊ z ˈ eɪ
-joseph; dʒ ˈ əʊ z ɪ f
-josh; dʒ ˈ ɒ ʃ
-joshua; dʒ ˈ ɒ ʃ ʊə
-josie; dʒ ˈ əʊ z i
-journal; dʒ ˈ ɜː n ə l
-journalism; dʒ ˈ ɜː n ə l ˌ ɪ z ə m
-journalist; dʒ ˈ ɜː n ə l ɪ s t
-journalists; dʒ ˈ ɜː n ə l ɪ s t s
-journals; dʒ ˈ ɜː n ə l z
-journey; dʒ ˈ ɜː n i
-jowl; dʒ ˈ aʊ l
-jowls; dʒ ˈ aʊ l z
-joy; dʒ ˈ ɔɪ
-joyce; dʒ ˈ ɔɪ s
+joseph; d͡ʒ ˈ əʊ z ɪ f
+josh; d͡ʒ ˈ ɒ ʃ
+joshua; d͡ʒ ˈ ɒ ʃ ʊə
+josie; d͡ʒ ˈ əʊ z i
+journal; d͡ʒ ˈ ɜː n ə l
+journalism; d͡ʒ ˈ ɜː n ə l ˌ ɪ z ə m
+journalist; d͡ʒ ˈ ɜː n ə l ɪ s t
+journalists; d͡ʒ ˈ ɜː n ə l ɪ s t s
+journals; d͡ʒ ˈ ɜː n ə l z
+journey; d͡ʒ ˈ ɜː n i
+jowl; d͡ʒ ˈ aʊ l
+jowls; d͡ʒ ˈ aʊ l z
+joy; d͡ʒ ˈ ɔɪ
+joyce; d͡ʒ ˈ ɔɪ s
 juan; h w ˈ ɑː n
-judge; dʒ ˈ ʌ dʒ
-judged; dʒ ˈ ʌ dʒ d
-judgement; dʒ ˈ ʌ dʒ m ə n t
-judgements; dʒ ˈ ʌ dʒ m ə n t s
-judges; dʒ ˈ ʌ dʒ ɪ z
-judging; dʒ ˈ ʌ dʒ ɪ ŋ
-judgment; dʒ ˈ ʌ dʒ m ə n t
-judicial; dʒ uː d ˈ ɪ ʃ ə l
-judiciary; dʒ uː d ˈ ɪ ʃ ə ɹ i
-judith; dʒ ˈ uː d ɪ θ
-judo; dʒ ˈ uː d əʊ
-judy; dʒ ˈ uː d i
-jug; dʒ ˈ ʌ g
-juggle; dʒ ˈ ʌ g ə l
-juice; dʒ ˈ uː s
-juicy; dʒ ˈ uː s i
-julia; dʒ ˈ uː l ɪə
-julian; dʒ ˈ uː l j ə n
-julian; dʒ ˈ uː l ɪə n
-julie; dʒ ˈ uː l i
-julien; dʒ ˈ uː l ɪə n
-juliet; dʒ ˈ uː l ɪ ˌ ɛ t
-july; dʒ ə l ˈ aɪ
-july; dʒ ˌ ʊ l ˈ aɪ
-jump; dʒ ˈ ʌ m p
-jumped; dʒ ˈ ʌ m p t
-jumper; dʒ ˈ ʌ m p ə
-jumpers; dʒ ˈ ʌ m p ə z
-jumping; dʒ ˈ ʌ m p ɪ ŋ
-jumps; dʒ ˈ ʌ m p s
-junction; dʒ ˈ ʌ ŋ k ʃ ə n
-june; dʒ ˈ uː n
-jungle; dʒ ˈ ʌ ŋ g ə l
-junior; dʒ ˈ uː n j ə
-junk; dʒ ˈ ʌ ŋ k
-jupiter; dʒ ˈ uː p ɪ t ə
-jurisdiction; dʒ ˌ ʊə ɹ ɪ s d ˈ ɪ k ʃ ə n
-juror; dʒ ˈ ʊə ɹ ə
-jury; dʒ ˈ ʊə ɹ i
-jus; dʒ ˈ uː
-jus; dʒ ˈ ʌ s
-just; dʒ ə s t
-just; dʒ ˈ ʌ s t
-justice; dʒ ˈ ʌ s t ɪ s
-justification; dʒ ˌ ʌ s t ɪ f ɪ k ˈ eɪ ʃ ə n
-justified; dʒ ˈ ʌ s t ɪ f ˌ aɪ d
-justify; dʒ ˈ ʌ s t ɪ f ˌ aɪ
-justin; dʒ ˈ ʌ s t ɪ n
-jut; dʒ ˈ ʌ t
-juvenile; dʒ ˈ uː v ə n ˌ aɪ l
+judge; d͡ʒ ˈ ʌ d͡ʒ
+judged; d͡ʒ ˈ ʌ d͡ʒ d
+judgement; d͡ʒ ˈ ʌ d͡ʒ m ə n t
+judgements; d͡ʒ ˈ ʌ d͡ʒ m ə n t s
+judges; d͡ʒ ˈ ʌ d͡ʒ ɪ z
+judging; d͡ʒ ˈ ʌ d͡ʒ ɪ ŋ
+judgment; d͡ʒ ˈ ʌ d͡ʒ m ə n t
+judicial; d͡ʒ uː d ˈ ɪ ʃ ə l
+judiciary; d͡ʒ uː d ˈ ɪ ʃ ə ɹ i
+judith; d͡ʒ ˈ uː d ɪ θ
+judo; d͡ʒ ˈ uː d əʊ
+judy; d͡ʒ ˈ uː d i
+jug; d͡ʒ ˈ ʌ g
+juggle; d͡ʒ ˈ ʌ g ə l
+juice; d͡ʒ ˈ uː s
+juicy; d͡ʒ ˈ uː s i
+julia; d͡ʒ ˈ uː l ɪə
+julian; d͡ʒ ˈ uː l j ə n
+julian; d͡ʒ ˈ uː l ɪə n
+julie; d͡ʒ ˈ uː l i
+julien; d͡ʒ ˈ uː l ɪə n
+juliet; d͡ʒ ˈ uː l ɪ ˌ ɛ t
+july; d͡ʒ ə l ˈ aɪ
+july; d͡ʒ ˌ ʊ l ˈ aɪ
+jump; d͡ʒ ˈ ʌ m p
+jumped; d͡ʒ ˈ ʌ m p t
+jumper; d͡ʒ ˈ ʌ m p ə
+jumpers; d͡ʒ ˈ ʌ m p ə z
+jumping; d͡ʒ ˈ ʌ m p ɪ ŋ
+jumps; d͡ʒ ˈ ʌ m p s
+junction; d͡ʒ ˈ ʌ ŋ k ʃ ə n
+june; d͡ʒ ˈ uː n
+jungle; d͡ʒ ˈ ʌ ŋ g ə l
+junior; d͡ʒ ˈ uː n j ə
+junk; d͡ʒ ˈ ʌ ŋ k
+jupiter; d͡ʒ ˈ uː p ɪ t ə
+jurisdiction; d͡ʒ ˌ ʊə ɹ ɪ s d ˈ ɪ k ʃ ə n
+juror; d͡ʒ ˈ ʊə ɹ ə
+jury; d͡ʒ ˈ ʊə ɹ i
+jus; d͡ʒ ˈ uː
+jus; d͡ʒ ˈ ʌ s
+just; d͡ʒ ə s t
+just; d͡ʒ ˈ ʌ s t
+justice; d͡ʒ ˈ ʌ s t ɪ s
+justification; d͡ʒ ˌ ʌ s t ɪ f ɪ k ˈ eɪ ʃ ə n
+justified; d͡ʒ ˈ ʌ s t ɪ f ˌ aɪ d
+justify; d͡ʒ ˈ ʌ s t ɪ f ˌ aɪ
+justin; d͡ʒ ˈ ʌ s t ɪ n
+jut; d͡ʒ ˈ ʌ t
+juvenile; d͡ʒ ˈ uː v ə n ˌ aɪ l
 kansas; k ˈ æ n z ə s
 karaoke; k ˌ æ ɹ ɪ ˈ əʊ k i
 karate; k ə ɹ ˈ ɑː t i
@@ -7970,7 +7970,7 @@ kept; k ˈ ɛ p t
 kernel; k ˈ ɜː n ə l
 kerry; k ˈ ɛ ɹ i
 keswick; k ˈ ɛ z ɪ k
-ketchup; k ˈ ɛ tʃ ə p
+ketchup; k ˈ ɛ t͡ʃ ə p
 kettle; k ˈ ɛ t ə l
 kevin; k ˈ ɛ v ɪ n
 kew; k j ˈ uː
@@ -8037,13 +8037,13 @@ kissed; k ˈ ɪ s t
 kisses; k ˈ ɪ s ɪ z
 kissing; k ˈ ɪ s ɪ ŋ
 kit; k ˈ ɪ t
-kitchen; k ˈ ɪ tʃ ə n
+kitchen; k ˈ ɪ t͡ʃ ə n
 kite; k ˈ aɪ t
 kits; k ˈ ɪ t s
 kittens; k ˈ ɪ t ə n z
 kitty; k ˈ ɪ t i
 kiwi; k ˈ iː w i
-kludge; k l ˈ ʌ dʒ
+kludge; k l ˈ ʌ d͡ʒ
 knack; n ˈ æ k
 knead; n ˈ iː d
 knee; n ˈ iː
@@ -8068,8 +8068,8 @@ knocking; n ˈ ɒ k ɪ ŋ
 knot; n ˈ ɒ t
 know; n ˈ əʊ
 knowing; n ˈ əʊ ɪ ŋ
-knowledge; n ˈ ɒ l ɪ dʒ
-knowledgeable; n ˈ ɒ l ɪ dʒ ɪ b ə l
+knowledge; n ˈ ɒ l ɪ d͡ʒ
+knowledgeable; n ˈ ɒ l ɪ d͡ʒ ɪ b ə l
 known; n ˈ əʊ n
 knows; n ˈ əʊ z
 koala; k əʊ ˈ ɑː l ə
@@ -8148,8 +8148,8 @@ landscapes; l ˈ æ n s k ˌ eɪ p s
 landscapes; l ˈ æ n d s k ˌ eɪ p s
 lane; l ˈ eɪ n
 lanes; l ˈ eɪ n z
-language; l ˈ æ ŋ g w ɪ dʒ
-languages; l ˈ æ ŋ g w ɪ dʒ ɪ z
+language; l ˈ æ ŋ g w ɪ d͡ʒ
+languages; l ˈ æ ŋ g w ɪ d͡ʒ ɪ z
 lanky; l ˈ æ ŋ k i
 lantern; l ˈ æ n t ə n t
 laos; l ˈ ɑː ɒ s
@@ -8162,11 +8162,11 @@ laptop; l ˈ æ p t ˌ ɒ p
 laptops; l ˈ æ p t ˌ ɒ p s
 lard; l ˈ ɑː d
 larder; l ˈ ɑː d ə
-large; l ˈ ɑː dʒ
-large-scale; l ˈ ɑː dʒ s k ˌ eɪ l
-largely; l ˈ ɑː dʒ l i
-larger; l ˈ ɑː dʒ ə
-largest; l ˈ ɑː dʒ ɪ s t
+large; l ˈ ɑː d͡ʒ
+large-scale; l ˈ ɑː d͡ʒ s k ˌ eɪ l
+largely; l ˈ ɑː d͡ʒ l i
+larger; l ˈ ɑː d͡ʒ ə
+largest; l ˈ ɑː d͡ʒ ɪ s t
 lark; l ˈ ɑː k
 larry; l ˈ æ ɹ i
 laser; l ˈ eɪ z ə
@@ -8176,7 +8176,7 @@ last; l ˈ ɑː s t
 lasted; l ˈ ɑː s t ɪ d
 lasting; l ˈ ɑː s t ɪ ŋ
 lasts; l ˈ ɑː s t s
-latch; l ˈ æ tʃ
+latch; l ˈ æ t͡ʃ
 late; l ˈ eɪ t
 lately; l ˈ eɪ t l i
 later; l ˈ eɪ t ə
@@ -8198,9 +8198,9 @@ laughed; l ˈ ɑː f t
 laughing; l ˈ ɑː f ɪ ŋ
 laughs; l ˈ ɑː f s
 laughter; l ˈ ɑː f t ə
-launch; l ˈ ɔː n tʃ
-launched; l ˈ ɔː n tʃ t
-launches; l ˈ ɔː n tʃ ɪ z
+launch; l ˈ ɔː n t͡ʃ
+launched; l ˈ ɔː n t͡ʃ t
+launches; l ˈ ɔː n t͡ʃ ɪ z
 laundry; l ˈ ɔː n d ɹ i
 laura; l ˈ ɔː ɹ ə
 laurel; l ˈ ɒ ɹ ə l
@@ -8261,13 +8261,13 @@ leave; l ˈ iː v
 leaves; l ˈ iː v z
 leaving; l ˈ iː v ɪ ŋ
 lebanon; l ˈ ɛ b ə n ə n
-lecture; l ˈ ɛ k tʃ ə
-lecturer; l ˈ ɛ k tʃ ə ɹ ə
-lectures; l ˈ ɛ k tʃ ə z
+lecture; l ˈ ɛ k t͡ʃ ə
+lecturer; l ˈ ɛ k t͡ʃ ə ɹ ə
+lectures; l ˈ ɛ k t͡ʃ ə z
 led; l ˈ ɛ d
-ledge; l ˈ ɛ dʒ
+ledge; l ˈ ɛ d͡ʒ
 lee; l ˈ iː
-leech; l ˈ iː tʃ
+leech; l ˈ iː t͡ʃ
 leeds; l ˈ iː d z
 leek; l ˈ iː k
 leer; l ˈ ɪə
@@ -8277,16 +8277,16 @@ leg; l ˈ ɛ g
 legacy; l ˈ ɛ g ə s i
 legal; l ˈ iː g ə l
 legally; l ˈ iː g ə l i
-legend; l ˈ ɛ dʒ ə n d
-legendary; l ˈ ɛ dʒ ə n d ə ɹ i
-legends; l ˈ ɛ dʒ ə n d z
+legend; l ˈ ɛ d͡ʒ ə n d
+legendary; l ˈ ɛ d͡ʒ ə n d ə ɹ i
+legends; l ˈ ɛ d͡ʒ ə n d z
 leggings; l ˈ ɛ g ɪ ŋ z
-legion; l ˈ iː dʒ ə n
-legislation; l ˌ ɛ dʒ ɪ s l ˈ eɪ ʃ ə n
-legislative; l ˈ ɛ dʒ ɪ s l ə t ɪ v
-legislature; l ˈ ɛ dʒ ɪ s l ˌ eɪ tʃ ə
-legitimacy; l ɪ dʒ ˈ ɪ t ɪ m ə s i
-legitimate; l ɪ dʒ ˈ ɪ t ɪ m ɪ t
+legion; l ˈ iː d͡ʒ ə n
+legislation; l ˌ ɛ d͡ʒ ɪ s l ˈ eɪ ʃ ə n
+legislative; l ˈ ɛ d͡ʒ ɪ s l ə t ɪ v
+legislature; l ˈ ɛ d͡ʒ ɪ s l ˌ eɪ t͡ʃ ə
+legitimacy; l ɪ d͡ʒ ˈ ɪ t ɪ m ə s i
+legitimate; l ɪ d͡ʒ ˈ ɪ t ɪ m ɪ t
 lego; l ˈ ɛ g əʊ
 legs; l ˈ ɛ g z
 leicester; l ˈ ɛ s t ə
@@ -8341,8 +8341,8 @@ leukemia; l uː k ˈ iː m ɪə
 level; l ˈ ɛ v ə l
 levels; l ˈ ɛ v ə l z
 lever; l ˈ iː v ə
-leverage; l ˈ ɛ v ə ɹ ɪ dʒ
-leverage; l ˈ iː v ə ɹ ɪ dʒ
+leverage; l ˈ ɛ v ə ɹ ɪ d͡ʒ
+leverage; l ˈ iː v ə ɹ ɪ d͡ʒ
 levi; l ˈ iː v aɪ
 levy; l ˈ iː v aɪ
 levy; l ˈ ɛ v i
@@ -8482,7 +8482,7 @@ literal; l ˈ ɪ t ə ɹ ə l
 literally; l ˈ ɪ t ɹ ə l i
 literally; l ˈ ɪ t ə ɹ ə l i
 literary; l ˈ ɪ t ə ɹ ə ɹ i
-literature; l ˈ ɪ t ə ɹ ə tʃ ə
+literature; l ˈ ɪ t ə ɹ ə t͡ʃ ə
 lithuania; l ˌ ɪ θ j ʊ ˈ eɪ n ɪə
 litigation; l ˌ ɪ t ɪ g ˈ eɪ ʃ ə n
 litre; l ˈ iː t ə
@@ -8538,17 +8538,17 @@ locks; l ˈ ɒ k s
 locomotive; l ˌ əʊ k ə m ˈ əʊ t ɪ v
 locust; l ˈ əʊ k ə s t
 locusts; l ˈ əʊ k ə s t s
-lodge; l ˈ ɒ dʒ
-lodging; l ˈ ɒ dʒ ɪ ŋ
+lodge; l ˈ ɒ d͡ʒ
+lodging; l ˈ ɒ d͡ʒ ɪ ŋ
 loft; l ˈ ɒ f t
 lofty; l ˈ ɒ f t i
 log; l ˈ ɒ g
 logged; l ˈ ɒ g d
 logging; l ˈ ɒ g ɪ ŋ
-logic; l ˈ ɒ dʒ ɪ k
-logical; l ˈ ɒ dʒ ɪ k ə l
+logic; l ˈ ɒ d͡ʒ ɪ k
+logical; l ˈ ɒ d͡ʒ ɪ k ə l
 login; l ˈ ɒ g ɪ n
-logistics; l ə dʒ ˈ ɪ s t ɪ k s
+logistics; l ə d͡ʒ ˈ ɪ s t ɪ k s
 logo; l ˈ əʊ g əʊ
 logos; l ˈ əʊ g ˌ əʊ z
 logs; l ˈ ɒ g z
@@ -8563,9 +8563,9 @@ long; l ˈ ɒ ŋ
 long-term; l ˈ ɒ ŋ t ɜː m
 longer; l ˈ ɒ ŋ g ə
 longest; l ˈ ɒ ŋ g ɪ s t
-longitude; l ˈ ɒ n dʒ ɪ t j ˌ uː d
+longitude; l ˈ ɒ n d͡ʒ ɪ t j ˌ uː d
 longitude; l ˈ ɒ ŋ g ɪ t j ˌ uː d
-longitudinal; l ˌ ɒ n dʒ ɪ t j ˈ uː d ɪ n ə l
+longitudinal; l ˌ ɒ n d͡ʒ ɪ t j ˈ uː d ɪ n ə l
 longitudinal; l ˌ ɒ ŋ g ɪ t j ˈ uː d ɪ n ə l
 loo; l ˈ uː
 look; l ˈ ʊ k
@@ -8595,7 +8595,7 @@ losing; l ˈ uː z ɪ ŋ
 loss; l ˈ ɒ s
 losses; l ˈ ɒ s ɪ z
 lost; l ˈ ɒ s t
-los_angeles; l ɒ s ˈ æ n dʒ ɪ l ˌ iː z
+los_angeles; l ɒ s ˈ æ n d͡ʒ ɪ l ˌ iː z
 lot; l ˈ ɒ t
 lothian; l ˈ əʊ ð ɪə n
 lotion; l ˈ əʊ ʃ ə n
@@ -8612,7 +8612,7 @@ louis; l ˈ uː i
 louise; l uː ˈ iː z
 louisiana; l uː ˌ iː z ɪ ˈ æ n ə
 louisville; l ˈ uː ɪ v ˌ ɪ l
-lounge; l ˈ aʊ n dʒ
+lounge; l ˈ aʊ n d͡ʒ
 louse; l ˈ aʊ s
 lousy; l ˈ aʊ z i
 lout; l ˈ aʊ t
@@ -8638,17 +8638,17 @@ luck; l ˈ ʌ k
 luckily; l ˈ ʌ k ɪ l i
 lucky; l ˈ ʌ k i
 lucy; l ˈ uː s i
-luggage; l ˈ ʌ g ɪ dʒ
+luggage; l ˈ ʌ g ɪ d͡ʒ
 luke; l ˈ uː k
 lull; l ˈ ʌ l
 lumber; l ˈ ʌ m b ə
 lump; l ˈ ʌ m p
 lunatic; l ˈ uː n ə t ˌ ɪ k
-lunch; l ˈ ʌ n tʃ
-lunchtime; l ˈ ʌ n tʃ t ˌ aɪ m
+lunch; l ˈ ʌ n t͡ʃ
+lunchtime; l ˈ ʌ n t͡ʃ t ˌ aɪ m
 lung; l ˈ ʌ ŋ
 lungs; l ˈ ʌ ŋ z
-lurch; l ˈ ɜː tʃ
+lurch; l ˈ ɜː t͡ʃ
 lure; l j ˈ ʊə
 lure; l ˈ ʊə
 lurid; l ˈ ʊə ɹ ɪ d
@@ -8663,7 +8663,7 @@ luxury; l ˈ ʌ k ʃ ə ɹ i
 lycra; l ˈ aɪ k ɹ ə
 lying; l ˈ aɪ ɪ ŋ
 lyn; l ˈ ɪ n
-lynch; l ˈ ɪ n tʃ
+lynch; l ˈ ɪ n t͡ʃ
 lynda; l ˈ ɪ n d ə
 lynn; l ˈ ɪ n
 lynx; l ˈ ɪ ŋ k s
@@ -8679,7 +8679,7 @@ machine; m ə ʃ ˈ iː n
 machinery; m ə ʃ ˈ iː n ɹ i
 machinery; m ə ʃ ˈ iː n ə ɹ i
 machines; m ə ʃ ˈ iː n z
-macho; m ˈ æ tʃ əʊ
+macho; m ˈ æ t͡ʃ əʊ
 macintosh; m ˈ æ k ɪ n t ˌ ɒ ʃ
 mackerel; m ˈ æ k ə ɹ ə l
 mackintosh; m ˈ æ k ɪ n t ˌ ɒ ʃ
@@ -8691,7 +8691,7 @@ madame; m ˈ æ d ə m
 madame; m ə d ˈ ɑː m
 made; m ˈ eɪ d
 mademoiselle; m ˌ æ d ə m ə z ˈ ɛ l
-madge; m ˈ æ dʒ
+madge; m ˈ æ d͡ʒ
 madison; m ˈ æ d ɪ s ə n
 madness; m ˈ æ d n ɪ s
 madonna; m ə d ˈ ɒ n ə
@@ -8701,14 +8701,14 @@ mafia; m ˈ æ f ɪə
 mag; m ˈ æ g
 magazine; m ˈ æ g ə z ˌ iː n
 magazines; m ˈ æ g ə z ˌ iː n z
-magenta; m ə dʒ ˈ ɛ n t ə
+magenta; m ə d͡ʒ ˈ ɛ n t ə
 maggie; m ˈ æ g i
-magic; m ˈ æ dʒ ɪ k
-magical; m ˈ æ dʒ ɪ k ə l
-magistrate; m ˈ æ dʒ ɪ s t ɹ ˌ eɪ t
-magistrate; m ˈ æ dʒ ɪ s t ɹ ɪ t
-magistrates; m ˈ æ dʒ ɪ s t ɹ ˌ eɪ t s
-magistrates; m ˈ æ dʒ ɪ s t ɹ ɪ t s
+magic; m ˈ æ d͡ʒ ɪ k
+magical; m ˈ æ d͡ʒ ɪ k ə l
+magistrate; m ˈ æ d͡ʒ ɪ s t ɹ ˌ eɪ t
+magistrate; m ˈ æ d͡ʒ ɪ s t ɹ ɪ t
+magistrates; m ˈ æ d͡ʒ ɪ s t ɹ ˌ eɪ t s
+magistrates; m ˈ æ d͡ʒ ɪ s t ɹ ɪ t s
 magnet; m ˈ æ g n ɪ t
 magnetic; m æ g n ˈ ɛ t ɪ k
 magnificent; m æ g n ˈ ɪ f ɪ s ə n t
@@ -8735,9 +8735,9 @@ maintains; m eɪ n t ˈ eɪ n z
 maintenance; m ˈ eɪ n t n ə n s
 maintenance; m ˈ eɪ n t ə n ə n s
 maize; m ˈ eɪ z
-majesty; m ˈ æ dʒ ə s t i
-major; m ˈ eɪ dʒ ə
-majority; m ə dʒ ˈ ɒ ɹ ɪ t i
+majesty; m ˈ æ d͡ʒ ə s t i
+major; m ˈ eɪ d͡ʒ ə
+majority; m ə d͡ʒ ˈ ɒ ɹ ɪ t i
 make; m ˈ eɪ k
 make-up; m ˈ eɪ k ˌ ʌ p
 maker; m ˈ eɪ k ə
@@ -8766,14 +8766,14 @@ mambo; m ˈ æ m b əʊ
 mammal; m ˈ æ m ə l
 mammals; m ˈ æ m ə l z
 man; m ˈ æ n
-manage; m ˈ æ n ɪ dʒ
-managed; m ˈ æ n ɪ dʒ d
-management; m ˈ æ n ɪ dʒ m ə n t
-manager; m ˈ æ n ɪ dʒ ə
-managerial; m ˌ æ n ɪ dʒ ˈ ɪə ɹ ɪə l
-managers; m ˈ æ n ɪ dʒ ə z
-managing; m ˈ æ n ɪ dʒ ɪ ŋ
-manchester; m ˈ æ n tʃ ɪ s t ə
+manage; m ˈ æ n ɪ d͡ʒ
+managed; m ˈ æ n ɪ d͡ʒ d
+management; m ˈ æ n ɪ d͡ʒ m ə n t
+manager; m ˈ æ n ɪ d͡ʒ ə
+managerial; m ˌ æ n ɪ d͡ʒ ˈ ɪə ɹ ɪə l
+managers; m ˈ æ n ɪ d͡ʒ ə z
+managing; m ˈ æ n ɪ d͡ʒ ɪ ŋ
+manchester; m ˈ æ n t͡ʃ ɪ s t ə
 mandate; m ˈ æ n d ˌ eɪ t
 mandate; m ˈ æ n d ɪ t
 mandatory; m ˈ æ n d ə t ə ɹ i
@@ -8800,11 +8800,11 @@ mantle; m ˈ æ n t ə l
 manual; m ˈ æ n j ʊə l
 manually; m ˈ æ n j ʊə l i
 manuals; m ˈ æ n j ʊə l z
-manufacture; m ˌ æ n j ʊ f ˈ æ k tʃ ə
-manufactured; m ˌ æ n j ʊ f ˈ æ k tʃ ə d
-manufacturer; m ˌ æ n j ʊ f ˈ æ k tʃ ə ɹ ə
-manufacturers; m ˌ æ n j ʊ f ˈ æ k tʃ ə ɹ ə z
-manufacturing; m ˌ æ n j ʊ f ˈ æ k tʃ ə ɹ ɪ ŋ
+manufacture; m ˌ æ n j ʊ f ˈ æ k t͡ʃ ə
+manufactured; m ˌ æ n j ʊ f ˈ æ k t͡ʃ ə d
+manufacturer; m ˌ æ n j ʊ f ˈ æ k t͡ʃ ə ɹ ə
+manufacturers; m ˌ æ n j ʊ f ˈ æ k t͡ʃ ə ɹ ə z
+manufacturing; m ˌ æ n j ʊ f ˈ æ k t͡ʃ ə ɹ ɪ ŋ
 manuscript; m ˈ æ n j ʊ s k ɹ ˌ ɪ p t
 many; m ˈ ɛ n i
 map; m ˈ æ p
@@ -8815,18 +8815,18 @@ mar; m ˈ ɑː
 marathon; m ˈ æ ɹ ə θ ə n
 marble; m ˈ ɑː b ə l
 marc; m ˈ ɑː k
-march; m ˈ ɑː tʃ
-marching; m ˈ ɑː tʃ ɪ ŋ
+march; m ˈ ɑː t͡ʃ
+marching; m ˈ ɑː t͡ʃ ɪ ŋ
 marcus; m ˈ ɑː k ə s
 mare; m ˈ ɛə
 margaret; m ˈ ɑː g ɹ ə t
 margaret; m ˈ ɑː g ɹ ɪ t
 margaret; m ˈ ɑː g ə ɹ ɪ t
-margarine; m ˈ ɑː dʒ ə ɹ ˌ iː n
-marge; m ˈ ɑː dʒ
-margin; m ˈ ɑː dʒ ɪ n
-marginal; m ˈ ɑː dʒ ɪ n ə l
-margins; m ˈ ɑː dʒ ɪ n z
+margarine; m ˈ ɑː d͡ʒ ə ɹ ˌ iː n
+marge; m ˈ ɑː d͡ʒ
+margin; m ˈ ɑː d͡ʒ ɪ n
+marginal; m ˈ ɑː d͡ʒ ɪ n ə l
+margins; m ˈ ɑː d͡ʒ ɪ n z
 margot; m ˈ ɑː g əʊ
 maria; m ə ɹ ˈ iː ə
 mariah; m ə ɹ ˈ aɪ ə
@@ -8851,8 +8851,8 @@ marking; m ˈ ɑː k ɪ ŋ
 marks; m ˈ ɑː k s
 marmalade; m ˈ ɑː m ə l ˌ eɪ d
 marquee; m ɑː k ˈ iː
-marriage; m ˈ æ ɹ ɪ dʒ
-marriages; m ˈ æ ɹ ɪ dʒ ɪ z
+marriage; m ˈ æ ɹ ɪ d͡ʒ
+marriages; m ˈ æ ɹ ɪ d͡ʒ ɪ z
 married; m ˈ æ ɹ i d
 marriott; m ˈ æ ɹ ɪə t
 marrow; m ˈ æ ɹ əʊ
@@ -8887,7 +8887,7 @@ masochist; m ˈ æ s ə k ɪ s t
 mason; m ˈ eɪ s ə n
 masonry; m ˈ eɪ s ə n ɹ i
 mass; m ˈ æ s
-massachusetts; m ˌ æ s ə tʃ ˈ uː s ɪ t s
+massachusetts; m ˌ æ s ə t͡ʃ ˈ uː s ɪ t s
 massacre; m ˈ æ s ə k ə
 massage; m ə s ˈ ɑː ʒ
 masses; m ˈ æ s ɪ z
@@ -8900,10 +8900,10 @@ masters; m ˈ ɑː s t ə z
 masturbating; m ˈ æ s t ə b ˌ eɪ t ɪ ŋ
 masturbation; m ˌ æ s t ə b ˈ eɪ ʃ ə n
 mat; m ˈ æ t
-match; m ˈ æ tʃ
-matched; m ˈ æ tʃ t
-matches; m ˈ æ tʃ ɪ z
-matching; m ˈ æ tʃ ɪ ŋ
+match; m ˈ æ t͡ʃ
+matched; m ˈ æ t͡ʃ t
+matches; m ˈ æ t͡ʃ ɪ z
+matching; m ˈ æ t͡ʃ ɪ ŋ
 mate; m ˈ eɪ t
 material; m ə t ˈ ɪə ɹ ɪə l
 materials; m ə t ˈ ɪə ɹ ɪə l z
@@ -8926,9 +8926,9 @@ matter; m ˈ æ t ə
 matters; m ˈ æ t ə z
 matthew; m ˈ æ θ j uː
 mattress; m ˈ æ t ɹ ɪ s
-mature; m ə tʃ ˈ ʊə
+mature; m ə t͡ʃ ˈ ʊə
 mature; m ə t j ˈ ʊə
-maturity; m ə tʃ ˈ ʊə ɹ ɪ t i
+maturity; m ə t͡ʃ ˈ ʊə ɹ ɪ t i
 maturity; m ə t j ˈ ʊə ɹ ɪ t i
 maul; m ˈ ɔː l
 maureen; m ˈ ɔː ɹ iː n
@@ -9044,15 +9044,15 @@ meopham; m ˈ ɛ p ə m
 meow; m ɪ ˈ aʊ
 mercator; m ˌ ɜː k ˈ eɪ t ə
 mercedes; m ə s ˈ eɪ d iː z
-merchandise; m ˈ ɜː tʃ ə n d ˌ aɪ z
-merchant; m ˈ ɜː tʃ ə n t
-merchants; m ˈ ɜː tʃ ə n t s
+merchandise; m ˈ ɜː t͡ʃ ə n d ˌ aɪ z
+merchant; m ˈ ɜː t͡ʃ ə n t
+merchants; m ˈ ɜː t͡ʃ ə n t s
 mercury; m ˈ ɜː k j ʊ ɹ i
 mercy; m ˈ ɜː s i
 mere; m ˈ ɪə
 merely; m ˈ ɪə l i
-merge; m ˈ ɜː dʒ
-merger; m ˈ ɜː dʒ ə
+merge; m ˈ ɜː d͡ʒ
+merger; m ˈ ɜː d͡ʒ ə
 merit; m ˈ ɛ ɹ ɪ t
 merits; m ˈ ɛ ɹ ɪ t s
 mermaid; m ˈ ɜː m ˌ eɪ d
@@ -9063,11 +9063,11 @@ merton; m ˈ ɜː t ə n
 mesa; m ˈ eɪ s ə
 mesh; m ˈ ɛ ʃ
 mess; m ˈ ɛ s
-message; m ˈ ɛ s ɪ dʒ
-messages; m ˈ ɛ s ɪ dʒ ɪ z
-messaging; m ˈ ɛ s ɪ dʒ ɪ ŋ
+message; m ˈ ɛ s ɪ d͡ʒ
+messages; m ˈ ɛ s ɪ d͡ʒ ɪ z
+messaging; m ˈ ɛ s ɪ d͡ʒ ɪ ŋ
 messed; m ˈ ɛ s t
-messenger; m ˈ ɛ s ɪ n dʒ ə
+messenger; m ˈ ɛ s ɪ n d͡ʒ ə
 messing; m ˈ ɛ s ɪ ŋ
 messrs; m ˈ ɛ s ə z
 messy; m ˈ ɛ s i
@@ -9079,11 +9079,11 @@ metal; m ˈ ɛ t ə l
 metallic; m ɪ t ˈ æ l ɪ k
 metals; m ˈ ɛ t ə l z
 metaphor; m ˈ ɛ t ə f ɔː
-meteorology; m ˌ iː t ɪə ɹ ˈ ɒ l ə dʒ i
+meteorology; m ˌ iː t ɪə ɹ ˈ ɒ l ə d͡ʒ i
 meter; m ˈ iː t ə
 meters; m ˈ iː t ə z
 method; m ˈ ɛ θ ə d
-methodology; m ˌ ɛ θ ə d ˈ ɒ l ə dʒ i
+methodology; m ˌ ɛ θ ə d ˈ ɒ l ə d͡ʒ i
 methods; m ˈ ɛ θ ə d z
 metre; m ˈ iː t ə
 metres; m ˈ iː t ə z
@@ -9109,11 +9109,11 @@ microsoft; m ˈ aɪ k ɹ ə s ˌ ɒ f t
 microwave; m ˈ aɪ k ɹ ə w ˌ eɪ v
 midday; m ˈ ɪ d d ˌ eɪ
 middle; m ˈ ɪ d ə l
-middle-aged; m ˈ ɪ d ə l eɪ dʒ d
+middle-aged; m ˈ ɪ d ə l eɪ d͡ʒ d
 middle-class; m ˈ ɪ d ə l k l ˌ ɑː s
 middlesbrough; m ˈ ɪ d ə l z b ɹ ə
 middlesex; m ˈ ɪ d ə l s ɛ k s
-midget; m ˈ ɪ dʒ ɪ t
+midget; m ˈ ɪ d͡ʒ ɪ t
 midi; m ˈ ɪ d i
 midland; m ˈ ɪ d l ə n d
 midlands; m ˈ ɪ d l ə n d z
@@ -9133,7 +9133,7 @@ milan; m ɪ l ˈ æ n
 mild; m ˈ aɪ l d
 mildly; m ˈ aɪ l d l i
 mile; m ˈ aɪ l
-mileage; m ˈ aɪ l ɪ dʒ
+mileage; m ˈ aɪ l ɪ d͡ʒ
 miles; m ˈ aɪ l z
 milf; m ˈ ɪ l f
 milfs; m ˈ ɪ l f s
@@ -9165,7 +9165,7 @@ minerals; m ˈ ɪ n ə ɹ ə l z
 miners; m ˈ aɪ n ə z
 mines; m ˈ aɪ n z
 mini; m ˈ ɪ n i
-miniature; m ˈ ɪ n ɪ tʃ ə
+miniature; m ˈ ɪ n ɪ t͡ʃ ə
 minibus; m ˈ ɪ n ɪ b ˌ ʌ s
 minima; m ˈ ɪ n ɪ m ə
 minimal; m ˈ ɪ n ɪ m ə l
@@ -9198,11 +9198,11 @@ miracles; m ˈ ɪ ɹ ə k ə l z
 mire; m ˈ aɪ ə
 mirror; m ˈ ɪ ɹ ə
 mirrors; m ˈ ɪ ɹ ə z
-miscarriage; m ɪ s k ˈ æ ɹ ɪ dʒ
-miscarriages; m ɪ s k ˈ æ ɹ ɪ dʒ ɪ z
+miscarriage; m ɪ s k ˈ æ ɹ ɪ d͡ʒ
+miscarriages; m ɪ s k ˈ æ ɹ ɪ d͡ʒ ɪ z
 miscellaneous; m ˌ ɪ s ə l ˈ eɪ n ɪə s
-mischief; m ˈ ɪ s tʃ ɪ f
-mischievous; m ˈ ɪ s tʃ ɪ v ə s
+mischief; m ˈ ɪ s t͡ʃ ɪ f
+mischievous; m ˈ ɪ s t͡ʃ ɪ v ə s
 miserable; m ˈ ɪ z ɹ ə b ə l
 miserable; m ˈ ɪ z ə ɹ ə b ə l
 misery; m ˈ ɪ z ə ɹ i
@@ -9231,14 +9231,14 @@ misty; m ˈ ɪ s t i
 misunderstand; m ˌ ɪ s ʌ n d ə s t ˈ æ n d
 misunderstanding; m ˌ ɪ s ʌ n d ə s t ˈ æ n d ɪ ŋ
 misunderstood; m ˌ ɪ s ʌ n d ə s t ˈ ʊ d
-mitchell; m ˈ ɪ tʃ ə l
+mitchell; m ˈ ɪ t͡ʃ ə l
 mite; m ˈ aɪ t
 mitsubishi; m ˌ ɪ t s ʊ b ˈ ɪ ʃ i
 mix; m ˈ ɪ k s
 mixed; m ˈ ɪ k s t
 mixer; m ˈ ɪ k s ə
 mixing; m ˈ ɪ k s ɪ ŋ
-mixture; m ˈ ɪ k s tʃ ə
+mixture; m ˈ ɪ k s t͡ʃ ə
 mm; m
 mo; m ˈ əʊ
 moan; m ˈ əʊ n
@@ -9270,13 +9270,13 @@ modifications; m ˌ ɒ d ɪ f ɪ k ˈ eɪ ʃ ə n z
 modified; m ˈ ɒ d ɪ f ˌ aɪ d
 modify; m ˈ ɒ d ɪ f ˌ aɪ
 modular; m ˈ ɒ d j ʊ l ə
-module; m ˈ ɒ dʒ uː l
+module; m ˈ ɒ d͡ʒ uː l
 module; m ˈ ɒ d j uː l
-modules; m ˈ ɒ dʒ uː l z
+modules; m ˈ ɒ d͡ʒ uː l z
 modules; m ˈ ɒ d j uː l z
 moira; m ˈ ɔɪ ɹ ə
 moist; m ˈ ɔɪ s t
-moisture; m ˈ ɔɪ s tʃ ə
+moisture; m ˈ ɔɪ s t͡ʃ ə
 molar; m ˈ əʊ l ə
 mold; m ˈ əʊ l d
 moldova; m ˌ ɒ l d ˈ əʊ v ə
@@ -9355,15 +9355,15 @@ morning; m ˈ ɔː n ɪ ŋ
 mornings; m ˈ ɔː n ɪ ŋ z
 morocco; m ə ɹ ˈ ɒ k əʊ
 moron; m ˈ ɔː ɹ ˌ ɒ n
-morphological; m ˌ ɔː f ə l ˈ ɒ dʒ ɪ k ə l
-morphology; m ɔː f ˈ ɒ l ə dʒ i
+morphological; m ˌ ɔː f ə l ˈ ɒ d͡ʒ ɪ k ə l
+morphology; m ɔː f ˈ ɒ l ə d͡ʒ i
 morris; m ˈ ɒ ɹ ɪ s
 morrison; m ˈ ɒ ɹ ɪ s ə n
 morse; m ˈ ɔː s
 mortal; m ˈ ɔː t ə l
 mortality; m ˌ ɔː t ˈ æ l ɪ t i
-mortgage; m ˈ ɔː g ɪ dʒ
-mortgages; m ˈ ɔː g ɪ dʒ ɪ z
+mortgage; m ˈ ɔː g ɪ d͡ʒ
+mortgages; m ˈ ɔː g ɪ d͡ʒ ɪ z
 mosaic; m ə z ˈ eɪ k
 mosaic; m əʊ z ˈ eɪ k
 moscow; m ˈ ɒ s k ˌ əʊ
@@ -9433,7 +9433,7 @@ mpeg; ˈ ɛ m p ˌ ɛ g
 mpegs; ˈ ɛ m p ˌ ɛ g z
 ms; m ˈ ɪ z
 mu; m j ˈ uː
-much; m ˈ ʌ tʃ
+much; m ˈ ʌ t͡ʃ
 muck; m ˈ ʌ k
 mucking; m ˈ ʌ k ɪ ŋ
 mucky; m ˈ ʌ k i
@@ -9444,7 +9444,7 @@ muffin; m ˈ ʌ f ɪ n
 muffled; m ˈ ʌ f ə l d
 mug; m ˈ ʌ g
 muir; m j ˈ ʊə
-mulch; m ˈ ʌ l tʃ
+mulch; m ˈ ʌ l t͡ʃ
 mule; m j ˈ uː l
 mull; m ˈ ʌ l
 multimedia; m ˌ ʌ l t ɪ m ˈ iː d ɪə
@@ -9456,7 +9456,7 @@ mumbai; m ˌ ʊ m b ˈ aɪ
 mummy; m ˈ ʌ m i
 mumps; m ˈ ʌ m p s
 mums; m ˈ ʌ m z
-munch; m ˈ ʌ n tʃ
+munch; m ˈ ʌ n t͡ʃ
 munich; m j ˈ uː n ɪ k
 municipal; m j uː n ˈ ɪ s ɪ p ə l
 municipality; m j ˌ uː n ɪ s ɪ p ˈ æ l ɪ t i
@@ -9499,7 +9499,7 @@ mute; m j ˈ uː t
 muted; m j ˈ uː t ɪ d
 mutter; m ˈ ʌ t ə
 muttered; m ˈ ʌ t ə d
-mutual; m j ˈ uː tʃ ʊə l
+mutual; m j ˈ uː t͡ʃ ʊə l
 my; m ˈ aɪ
 myanmar; m j ˈ æ n m ɑː
 myanmar; m ˈ aɪ æ n m ɑː
@@ -9560,13 +9560,13 @@ nations; n ˈ eɪ ʃ ə n z
 nationwide; n ˈ eɪ ʃ ə n w ˌ aɪ d
 native; n ˈ eɪ t ɪ v
 nato; n ˈ eɪ t əʊ
-natural; n ˈ æ tʃ ɹ ə l
-natural; n ˈ æ tʃ ə ɹ ə l
-naturally; n ˈ æ tʃ ɹ ə l i
-naturally; n ˈ æ tʃ ə ɹ ə l i
-naturals; n ˈ æ tʃ ɹ ə l z
-naturals; n ˈ æ tʃ ə ɹ ə l z
-nature; n ˈ eɪ tʃ ə
+natural; n ˈ æ t͡ʃ ɹ ə l
+natural; n ˈ æ t͡ʃ ə ɹ ə l
+naturally; n ˈ æ t͡ʃ ɹ ə l i
+naturally; n ˈ æ t͡ʃ ə ɹ ə l i
+naturals; n ˈ æ t͡ʃ ɹ ə l z
+naturals; n ˈ æ t͡ʃ ə ɹ ə l z
+nature; n ˈ eɪ t͡ʃ ə
 naughty; n ˈ ɔː t i
 nauseous; n ˈ ɔː z ɪə s
 nauseous; n ˈ ɔː s ɪə s
@@ -9609,7 +9609,7 @@ needs; n ˈ iː d z
 needy; n ˈ iː d i
 negative; n ˈ ɛ g ə t ɪ v
 neglect; n ɪ g l ˈ ɛ k t
-negligence; n ˈ ɛ g l ɪ dʒ ə n s
+negligence; n ˈ ɛ g l ɪ d͡ʒ ə n s
 negotiate; n ɪ g ˈ əʊ ʃ ɪ ˌ eɪ t
 negotiation; n ɪ g ˌ əʊ ʃ ɪ ˈ eɪ ʃ ə n
 negotiations; n ə g ˌ əʊ ʃ ɪ ˈ eɪ ʃ ə n z
@@ -9684,7 +9684,7 @@ nice; n ˈ iː s
 nicely; n ˈ aɪ s l i
 nicer; n ˈ aɪ s ə
 niche; n ˈ iː ʃ
-niche; n ˈ ɪ tʃ
+niche; n ˈ ɪ t͡ʃ
 nicholas; n ˈ ɪ k l ə s
 nicholas; n ˈ ɪ k ə l ə s
 nick; n ˈ ɪ k
@@ -9698,10 +9698,10 @@ nicosia; n ˌ ɪ k ə s ˈ ɪə
 nicosia; n ˌ ɪ k ə s ˈ iː ə
 niece; n ˈ iː s
 nifty; n ˈ ɪ f t i
-nigel; n ˈ aɪ dʒ ə l
+nigel; n ˈ aɪ d͡ʒ ə l
 niger; n iː ʒ ˈ ɛə
-niger; n ˈ aɪ dʒ ə
-nigeria; n aɪ dʒ ˈ ɪə ɹ ɪə
+niger; n ˈ aɪ d͡ʒ ə
+nigeria; n aɪ d͡ʒ ˈ ɪə ɹ ɪə
 nigger; n ˈ ɪ g ə
 nigh; n ˈ aɪ
 night; n ˈ aɪ t
@@ -9718,10 +9718,10 @@ nines; n ˈ aɪ n z
 nineteen; n ˈ aɪ n t iː n
 nineteen; n aɪ n t ˈ iː n
 nineteenth; n aɪ n t ˈ iː n θ
-nineteenth-century; n ˌ aɪ n t iː n θ s ˈ ɛ n tʃ ə ɹ i
+nineteenth-century; n ˌ aɪ n t iː n θ s ˈ ɛ n t͡ʃ ə ɹ i
 nineties; n ˈ aɪ n t i z
 ninety; n ˈ aɪ n t i
-ninja; n ɪ n dʒ ə
+ninja; n ɪ n d͡ʒ ə
 nintendo; n ɪ n t ˈ ɛ n d əʊ
 ninth; n ˈ aɪ n θ
 nip; n ˈ ɪ p
@@ -9733,7 +9733,7 @@ nirvana; n ɪə v ˈ ɑː n ə
 nissan; n ˈ ɪ s æ n
 nissan; n ˈ iː s ɑː n
 nit; n ˈ ɪ t
-nitrogen; n ˈ aɪ t ɹ ə dʒ ə n
+nitrogen; n ˈ aɪ t ɹ ə d͡ʒ ə n
 no; n ˈ əʊ
 no-one; n ˈ əʊ w ʌ n
 noah; n ˈ əʊ ə
@@ -9790,8 +9790,8 @@ northumberland; n ɔː θ ˈ ʌ m b ə l ə n d
 northwest; n ˌ ɔː θ w ˈ ɛ s t
 norton; n ˈ ɔː t ə n
 norway; n ˈ ɔː w ˌ eɪ
-norwegian; n ˌ ɔː w ˈ iː dʒ ə n
-norwich; n ˈ ɒ ɹ ɪ tʃ
+norwegian; n ˌ ɔː w ˈ iː d͡ʒ ə n
+norwich; n ˈ ɒ ɹ ɪ t͡ʃ
 nose; n ˈ əʊ z
 nosey; n ˈ əʊ z i
 nostril; n ˈ ɒ s t ɹ ɪ l
@@ -9801,7 +9801,7 @@ not; n ˈ ɒ t
 notable; n ˈ əʊ t ə b ə l
 notably; n ˈ əʊ t ə b l i
 notation; n əʊ t ˈ eɪ ʃ ə n
-notch; n ˈ ɒ tʃ
+notch; n ˈ ɒ t͡ʃ
 note; n ˈ əʊ t
 notebook; n ˈ əʊ t b ˌ ʊ k
 notebooks; n ˈ əʊ t b ˌ ʊ k s
@@ -9838,7 +9838,7 @@ nuance; n j ˈ uː ɑː n s
 nuclear; n j ˈ uː k l ɪə
 nucleus; n j ˈ uː k l ɪə s
 nude; n j ˈ uː d
-nudge; n ˈ ʌ dʒ
+nudge; n ˈ ʌ d͡ʒ
 nudist; n j ˈ uː d ɪ s t
 nudity; n j ˈ uː d ɪ t i
 nuisance; n j ˈ uː s ə n s
@@ -9880,19 +9880,19 @@ obese; əʊ b ˈ iː s
 obesity; əʊ b ˈ iː s ɪ t i
 obesity; ə b ˈ iː s ɪ t i
 obey; əʊ b ˈ eɪ
-obituaries; əʊ b ˈ ɪ tʃ ʊə ɹ iː z
-object; ə b dʒ ˈ ɛ k t
-object; ˈ ɒ b dʒ ɛ k t
-objection; ə b dʒ ˈ ɛ k ʃ ə n
-objections; ə b dʒ ˈ ɛ k ʃ ə n z
-objective; ə b dʒ ˈ ɛ k t ɪ v
-objectives; ə b dʒ ˈ ɛ k t ɪ v z
-objects; ə b dʒ ˈ ɛ k t s
-objects; ˈ ɒ b dʒ ɛ k t s
+obituaries; əʊ b ˈ ɪ t͡ʃ ʊə ɹ iː z
+object; ə b d͡ʒ ˈ ɛ k t
+object; ˈ ɒ b d͡ʒ ɛ k t
+objection; ə b d͡ʒ ˈ ɛ k ʃ ə n
+objections; ə b d͡ʒ ˈ ɛ k ʃ ə n z
+objective; ə b d͡ʒ ˈ ɛ k t ɪ v
+objectives; ə b d͡ʒ ˈ ɛ k t ɪ v z
+objects; ə b d͡ʒ ˈ ɛ k t s
+objects; ˈ ɒ b d͡ʒ ɛ k t s
 obligation; ˌ ɒ b l ɪ g ˈ eɪ ʃ ə n
 obligations; ˌ ɒ b l ɪ g ˈ eɪ ʃ ə n z
-oblige; ə b l ˈ aɪ dʒ
-obliged; ə b l ˈ aɪ dʒ d
+oblige; ə b l ˈ aɪ d͡ʒ
+obliged; ə b l ˈ aɪ d͡ʒ d
 oblique; ə b l ˈ iː k
 oboe; ˈ əʊ b əʊ
 obscure; ə b s k j ˈ ʊə
@@ -10072,8 +10072,8 @@ or; ˈ ɔː
 oracle; ˈ ɒ ɹ ə k ə l
 oral; ˈ ɒ ɹ ə l
 oral; ˈ ɔː ɹ ə l
-orange; ˈ ɒ ɹ ɪ n dʒ
-oranges; ˈ ɒ ɹ ɪ n dʒ ɪ z
+orange; ˈ ɒ ɹ ɪ n d͡ʒ
+oranges; ˈ ɒ ɹ ɪ n d͡ʒ ɪ z
 orangutan; ɔː ɹ ˌ æ ŋ ʊ t ˈ æ n
 orangutan; ə ɹ ˈ æ ŋ ʊ t æ n
 orangutang; ɔː ɹ ˌ æ ŋ ʊ t ˈ æ ŋ
@@ -10113,7 +10113,7 @@ organizer; ˈ ɔː g ə n ˌ aɪ z ə
 organizing; ˈ ɔː g ə n aɪ z ɪ ŋ
 organs; ˈ ɔː g ə n z
 orgasm; ˈ ɔː g æ z ə m
-orgy; ˈ ɔː dʒ i
+orgy; ˈ ɔː d͡ʒ i
 orient; ˈ ɔː ɹ ɪə n t
 orient; ˈ ɔː ɹ ɪ ˌ ɛ n t
 oriental; ˌ ɔː ɹ ɪ ˈ ɛ n t ə l
@@ -10122,12 +10122,12 @@ orientation; ˌ ɔː ɹ ɪ ɛ n t ˈ eɪ ʃ ə n
 orientation; ˌ ɒ ɹ ɪ ɛ n t ˈ eɪ ʃ ə n
 oriented; ˈ ɔː ɹ ɪ ˌ ɛ n t ɪ d
 oriented; ˈ ɒ ɹ ɪ ˌ ɛ n t ɪ d
-origin; ˈ ɒ ɹ ɪ dʒ ɪ n
-original; ə ɹ ˈ ɪ dʒ ɪ n ə l
-originally; ə ɹ ˈ ɪ dʒ n ə l i
-originally; ə ɹ ˈ ɪ dʒ ɪ n ə l i
-originate; ə ɹ ˈ ɪ dʒ ɪ n ˌ eɪ t
-origins; ˈ ɒ ɹ ɪ dʒ ɪ n z
+origin; ˈ ɒ ɹ ɪ d͡ʒ ɪ n
+original; ə ɹ ˈ ɪ d͡ʒ ɪ n ə l
+originally; ə ɹ ˈ ɪ d͡ʒ n ə l i
+originally; ə ɹ ˈ ɪ d͡ʒ ɪ n ə l i
+originate; ə ɹ ˈ ɪ d͡ʒ ɪ n ˌ eɪ t
+origins; ˈ ɒ ɹ ɪ d͡ʒ ɪ n z
 orkney; ˈ ɔː k n i
 orkneys; ˈ ɔː k n i z
 orlando; ˌ ɔː l ˈ æ n d əʊ
@@ -10137,13 +10137,13 @@ oscar; ˈ ɒ s k ə
 oscillation; ˌ ɒ s ɪ l ˈ eɪ ʃ ə n
 oslo; ˈ ɒ z l əʊ
 ostensibly; ɒ s t ˈ ɛ n s ɪ b l i
-ostrich; ˈ ɒ s t ɹ ɪ tʃ
+ostrich; ˈ ɒ s t ɹ ɪ t͡ʃ
 other; ˈ ʌ ð ə
 others; ˈ ʌ ð ə z
 otherwise; ˈ ʌ ð ə w ˌ aɪ z
 ottawa; ˈ ɒ t ə w ə
 otter; ˈ ɒ t ə
-ouch; ˈ aʊ tʃ
+ouch; ˈ aʊ t͡ʃ
 ought; ˈ ɔː t
 oughtn't; ˈ ɔː t ə n t
 ounce; ˈ aʊ n s
@@ -10168,9 +10168,9 @@ outlined; ˈ aʊ t l ˌ aɪ n d
 outlook; ˈ aʊ t l ˌ ʊ k
 output; ˈ aʊ t p ˌ ʊ t
 outputs; ˈ aʊ t p ˌ ʊ t s
-outrage; ˈ aʊ t ɹ ˌ eɪ dʒ
-outrageous; ˌ aʊ t ɹ ˈ eɪ dʒ ə s
-outreach; ˈ aʊ t ɹ ˌ iː tʃ
+outrage; ˈ aʊ t ɹ ˌ eɪ d͡ʒ
+outrageous; ˌ aʊ t ɹ ˈ eɪ d͡ʒ ə s
+outreach; ˈ aʊ t ɹ ˌ iː t͡ʃ
 outset; ˈ aʊ t s ˌ ɛ t
 outside; ˈ aʊ t s aɪ d
 outside; aʊ t s ˈ aɪ d
@@ -10221,7 +10221,7 @@ oxfordshire; ˈ ɒ k s f ə d ʃ ə
 oxide; ˈ ɒ k s ˌ aɪ d
 oxidise; ˈ ɒ k s ɪ d ˌ aɪ z
 oxidize; ˈ ɒ k s ɪ d ˌ aɪ z
-oxygen; ˈ ɒ k s ɪ dʒ ə n
+oxygen; ˈ ɒ k s ɪ d͡ʒ ə n
 oy; ˈ ɔɪ
 oyster; ˈ ɔɪ s t ə
 ozone; ˈ əʊ z ˌ əʊ n
@@ -10229,9 +10229,9 @@ pa; p ˈ ɑː
 pace; p ˈ eɪ s
 pacific; p ə s ˈ ɪ f ɪ k
 pack; p ˈ æ k
-package; p ˈ æ k ɪ dʒ
-packages; p ˈ æ k ɪ dʒ ɪ z
-packaging; p ˈ æ k ɪ dʒ ɪ ŋ
+package; p ˈ æ k ɪ d͡ʒ
+packages; p ˈ æ k ɪ d͡ʒ ɪ z
+packaging; p ˈ æ k ɪ d͡ʒ ɪ ŋ
 packard; p ˈ æ k ɑː d
 packed; p ˈ æ k t
 packet; p ˈ æ k ɪ t
@@ -10246,9 +10246,9 @@ paddle; p ˈ æ d ə l
 paddy; p ˈ æ d i
 pads; p ˈ æ d z
 pagan; p ˈ eɪ g ə n
-page; p ˈ eɪ dʒ
-pageant; p ˈ eɪ dʒ ə n t
-pages; p ˈ eɪ dʒ ɪ z
+page; p ˈ eɪ d͡ʒ
+pageant; p ˈ eɪ d͡ʒ ə n t
+pages; p ˈ eɪ d͡ʒ ɪ z
 paid; p ˈ eɪ d
 pail; p ˈ eɪ l
 pain; p ˈ eɪ n
@@ -10378,11 +10378,11 @@ partnerships; p ˈ ɑː t n ə ʃ ˌ ɪ p s
 parts; p ˈ ɑː t s
 party; p ˈ ɑː t i
 pass; p ˈ ɑː s
-passage; p ˈ æ s ɪ dʒ
-passages; p ˈ æ s ɪ dʒ ɪ z
+passage; p ˈ æ s ɪ d͡ʒ
+passages; p ˈ æ s ɪ d͡ʒ ɪ z
 passed; p ˈ ɑː s t
-passenger; p ˈ æ s ə n dʒ ə
-passengers; p ˈ æ s ə n dʒ ə z
+passenger; p ˈ æ s ə n d͡ʒ ə
+passengers; p ˈ æ s ə n d͡ʒ ə z
 passes; p ˈ ɑː s ɪ z
 passing; p ˈ ɑː s ɪ ŋ
 passion; p ˈ æ ʃ ə n
@@ -10397,15 +10397,15 @@ paste; p ˈ eɪ s t
 pastor; p ˈ ɑː s t ə
 pastry; p ˈ eɪ s t ɹ i
 pat; p ˈ æ t
-patch; p ˈ æ tʃ
-patches; p ˈ æ tʃ ɪ z
+patch; p ˈ æ t͡ʃ
+patches; p ˈ æ t͡ʃ ɪ z
 pate; p ˈ æ t eɪ
 pate; p ˈ eɪ t
 patent; p ˈ æ t ə n t
 patents; p ˈ æ t ə n t s
 path; p ˈ ɑː θ
 pathetic; p ə θ ˈ ɛ t ɪ k
-pathology; p ə θ ˈ ɒ l ə dʒ i
+pathology; p ə θ ˈ ɒ l ə d͡ʒ i
 paths; p ˈ ɑː θ s
 paths; p ˈ ɑː ð z
 pathway; p ˈ ɑː θ w ˌ eɪ
@@ -10419,8 +10419,8 @@ patriot; p ˈ eɪ t ɹ ɪə t
 patriot; p ˈ æ t ɹ ɪə t
 patrol; p ə t ɹ ˈ əʊ l
 patron; p ˈ eɪ t ɹ ə n
-patronage; p ˈ æ t ɹ ə n ɪ dʒ
-patronage; p ˈ eɪ t ɹ ə n ɪ dʒ
+patronage; p ˈ æ t ɹ ə n ɪ d͡ʒ
+patronage; p ˈ eɪ t ɹ ə n ɪ d͡ʒ
 patrons; p ˈ eɪ t ɹ ə n z
 patter; p ˈ æ t ə
 pattern; p ˈ æ t ə n
@@ -10449,7 +10449,7 @@ pays; p ˈ eɪ z
 pea; p ˈ iː
 peace; p ˈ iː s
 peaceful; p ˈ iː s f ə l
-peach; p ˈ iː tʃ
+peach; p ˈ iː t͡ʃ
 peacock; p ˈ iː k ˌ ɒ k
 peak; p ˈ iː k
 peaks; p ˈ iː k s
@@ -10520,10 +10520,10 @@ per; p ˈ ɜː
 perceive; p ə s ˈ iː v
 perceived; p ə s ˈ iː v d
 percent; p ə s ˈ ɛ n t
-percentage; p ə s ˈ ɛ n t ɪ dʒ
+percentage; p ə s ˈ ɛ n t ɪ d͡ʒ
 perception; p ə s ˈ ɛ p ʃ ə n
 perceptions; p ə s ˈ ɛ p ʃ ə n z
-perch; p ˈ ɜː tʃ
+perch; p ˈ ɜː t͡ʃ
 perfect; p ˈ ɜː f ˌ ɪ k t
 perfect; p ə f ˈ ɛ k t
 perfection; p ə f ˈ ɛ k ʃ ə n
@@ -10613,7 +10613,7 @@ pharaohs; f ˈ ɛə ɹ əʊ z
 pharmaceutical; f ˌ ɑː m ə s j ˈ uː t ɪ k ə l
 pharmaceuticals; f ˌ ɑː m ə s j ˈ uː t ɪ k ə l z
 pharmacies; f ˈ ɑː m ə s i z
-pharmacology; f ˌ ɑː m ə k ˈ ɒ l ə dʒ i
+pharmacology; f ˌ ɑː m ə k ˈ ɒ l ə d͡ʒ i
 pharmacy; f ˈ ɑː m ə s i
 phase; f ˈ eɪ z
 phases; f ˈ eɪ z ɪ z
@@ -10641,8 +10641,8 @@ phones; f ˈ əʊ n z
 phonetic; f ə n ˈ ɛ t ɪ k
 phonetics; f ə n ˈ ɛ t ɪ k s
 phoning; f ˈ əʊ n ɪ ŋ
-phonological; f ˌ ɒ n ə l ˈ ɒ dʒ ɪ k ə l
-phonology; f ə n ˈ ɒ l ə dʒ i
+phonological; f ˌ ɒ n ə l ˈ ɒ d͡ʒ ɪ k ə l
+phonology; f ə n ˈ ɒ l ə d͡ʒ i
 phosphate; f ˈ ɒ s f eɪ t
 photo; f ˈ əʊ t ˌ əʊ
 photograph; f ˈ əʊ t ə g ɹ ˌ ɑː f
@@ -10667,8 +10667,8 @@ physicist; f ˈ ɪ z ɪ s ɪ s t
 physicists; f ˈ ɪ z ɪ s ɪ s t s
 physics; f ˈ ɪ z ɪ k s
 physio; f ˈ ɪ z ɪ əʊ
-physiological; f ˌ ɪ z ɪə l ˈ ɒ dʒ ɪ k ə l
-physiology; f ˌ ɪ z ɪ ˈ ɒ l ə dʒ i
+physiological; f ˌ ɪ z ɪə l ˈ ɒ d͡ʒ ɪ k ə l
+physiology; f ˌ ɪ z ɪ ˈ ɒ l ə d͡ʒ i
 pi; p ˈ aɪ
 piano; p ɪ ˈ æ n əʊ
 pic; p ˈ ɪ k
@@ -10681,8 +10681,8 @@ picks; p ˈ ɪ k s
 pickup; p ˈ ɪ k ˌ ʌ p
 picnic; p ˈ ɪ k n ˌ ɪ k
 pics; p ˈ ɪ k s
-picture; p ˈ ɪ k tʃ ə
-pictures; p ˈ ɪ k tʃ ə z
+picture; p ˈ ɪ k t͡ʃ ə
+pictures; p ˈ ɪ k t͡ʃ ə z
 pie; p ˈ aɪ
 piece; p ˈ iː s
 pieces; p ˈ iː s ɪ z
@@ -10693,8 +10693,8 @@ pierre; p ˈ ɪə
 piers; p ˈ ɪə z
 pies; p ˈ aɪ z
 pig; p ˈ ɪ g
-pigeon; p ˈ ɪ dʒ ɪ n
-pigeons; p ˈ ɪ dʒ ə n z
+pigeon; p ˈ ɪ d͡ʒ ɪ n
+pigeons; p ˈ ɪ d͡ʒ ə n z
 pigmy; p ˈ ɪ g m i
 pigs; p ˈ ɪ g z
 pike; p ˈ aɪ k
@@ -10702,7 +10702,7 @@ pikey; p ˈ aɪ k i
 pile; p ˈ aɪ l
 piles; p ˈ aɪ l z
 pilgrim; p ˈ ɪ l g ɹ ɪ m
-pilgrimage; p ˈ ɪ l g ɹ ɪ m ɪ dʒ
+pilgrimage; p ˈ ɪ l g ɹ ɪ m ɪ d͡ʒ
 pill; p ˈ ɪ l
 pillar; p ˈ ɪ l ə
 pillow; p ˈ ɪ l əʊ
@@ -10713,9 +10713,9 @@ pilots; p ˈ aɪ l ə t s
 pimp; p ˈ ɪ m p
 pimple; p ˈ ɪ m p ə l
 pin; p ˈ ɪ n
-pinch; p ˈ ɪ n tʃ
-pinched; p ˈ ɪ n tʃ t
-pinching; p ˈ ɪ n tʃ ɪ ŋ
+pinch; p ˈ ɪ n t͡ʃ
+pinched; p ˈ ɪ n t͡ʃ t
+pinching; p ˈ ɪ n t͡ʃ ɪ ŋ
 pine; p ˈ aɪ n
 pineapple; p ˈ aɪ n ˌ æ p ə l
 ping; p ˈ ɪ ŋ
@@ -10739,7 +10739,7 @@ pissed; p ˈ ɪ s t
 pissing; p ˈ ɪ s ɪ ŋ
 pistol; p ˈ ɪ s t ə l
 pit; p ˈ ɪ t
-pitch; p ˈ ɪ tʃ
+pitch; p ˈ ɪ t͡ʃ
 pithy; p ˈ ɪ θ i
 pits; p ˈ ɪ t s
 pitta; p ˈ ɪ t ə
@@ -10756,9 +10756,9 @@ placed; p l ˈ eɪ s t
 placement; p l ˈ eɪ s m ə n t
 places; p l ˈ eɪ s ɪ z
 placing; p l ˈ eɪ s ɪ ŋ
-plagiarise; p l ˈ eɪ dʒ ə ɹ ˌ aɪ z
-plagiarism; p l ˈ eɪ dʒ ə ɹ ˌ ɪ z ə m
-plagiarize; p l ˈ eɪ dʒ ə ɹ ˌ aɪ z
+plagiarise; p l ˈ eɪ d͡ʒ ə ɹ ˌ aɪ z
+plagiarism; p l ˈ eɪ d͡ʒ ə ɹ ˌ ɪ z ə m
+plagiarize; p l ˈ eɪ d͡ʒ ə ɹ ˌ aɪ z
 plague; p l ˈ eɪ g
 plaid; p l ˈ eɪ d
 plain; p l ˈ eɪ n
@@ -10821,7 +10821,7 @@ pleasing; p l ˈ iː z ɪ ŋ
 pleasure; p l ˈ ɛ ʒ ə
 pleat; p l ˈ iː t
 pled; p l ˈ ɛ d
-pledge; p l ˈ ɛ dʒ
+pledge; p l ˈ ɛ d͡ʒ
 plenty; p l ˈ ɛ n t i
 plethora; p l ˈ ɛ θ ə ɹ ə
 plight; p l ˈ aɪ t
@@ -10840,14 +10840,14 @@ plumber; p l ˈ ʌ m ə
 plumbing; p l ˈ ʌ m ɪ ŋ
 plume; p l ˈ uː m
 plump; p l ˈ ʌ m p
-plunge; p l ˈ ʌ n dʒ
+plunge; p l ˈ ʌ n d͡ʒ
 plural; p l ˈ ʊə ɹ ə l
 plus; p l ˈ ʌ s
 plush; p l ˈ ʌ ʃ
 pluto; p l ˈ uː t əʊ
 ply; p l ˈ aɪ
 plymouth; p l ˈ ɪ m ə θ
-poach; p ˈ əʊ tʃ
+poach; p ˈ əʊ t͡ʃ
 pocket; p ˈ ɒ k ɪ t
 pockets; p ˈ ɒ k ɪ t s
 pod; p ˈ ɒ d
@@ -10855,7 +10855,7 @@ podcast; p ˈ ɒ d k ˌ ɑː s t
 podcasts; p ˈ ɒ d k ˌ ɑː s t s
 podgorica; p ˌ ɒ d g ə ɹ ˈ ɪ t s ə
 podgorica; p ˌ ɒ d g ˈ ɔː ɹ ɪ t s ə
-podgy; p ˈ ɒ dʒ i
+podgy; p ˈ ɒ d͡ʒ i
 poem; p ˈ əʊ ɪ m
 poems; p ˈ əʊ ɪ m z
 poet; p ˈ əʊ ɪ t
@@ -10914,7 +10914,7 @@ ponder; p ˈ ɒ n d ə
 ponteland; p ɒ n t ˈ iː l ə n d
 pony; p ˈ əʊ n i
 poo; p ˈ uː
-pooch; p uː tʃ
+pooch; p uː t͡ʃ
 poof; p ˈ ʊ f
 poofter; p ˈ ʊ f t ə
 pool; p ˈ uː l
@@ -10940,12 +10940,12 @@ population; p ˌ ɒ p j ʊ l ˈ eɪ ʃ ə n
 populations; p ˌ ɒ p j ʊ l ˈ eɪ ʃ ə n z
 porcelain; p ˈ ɔː s l ɪ n
 porcelain; p ˈ ɔː s ə l ɪ n
-porch; p ˈ ɔː tʃ
+porch; p ˈ ɔː t͡ʃ
 pore; p ˈ ɔː
 pork; p ˈ ɔː k
 porn; p ˈ ɔː n
 porno; p ˈ ɔː n əʊ
-porridge; p ˈ ɒ ɹ ɪ dʒ
+porridge; p ˈ ɒ ɹ ɪ d͡ʒ
 porsche; p ˈ ɔː ʃ
 porsche; p ˈ ɔː ʃ ə
 port; p ˈ ɔː t
@@ -10964,8 +10964,8 @@ portray; p ɔː t ɹ ˈ eɪ
 portrayal; p ɔː t ɹ ˈ eɪ ə l
 ports; p ˈ ɔː t s
 portsmouth; p ˈ ɔː t s m ə θ
-portugal; p ˈ ɔː tʃ ʊ g ə l
-portuguese; p ˌ ɔː tʃ ʊ g ˈ iː z
+portugal; p ˈ ɔː t͡ʃ ʊ g ə l
+portuguese; p ˌ ɔː t͡ʃ ʊ g ˈ iː z
 pose; p ˈ əʊ z
 poser; p ˈ əʊ z ə
 posh; p ˈ ɒ ʃ
@@ -10987,7 +10987,7 @@ possible; p ˈ ɒ s ɪ b ə l
 possibly; p ˈ ɒ s ɪ b l i
 post; p ˈ əʊ s t
 post-war; p ˈ əʊ s t w ˌ ɔː
-postage; p ˈ əʊ s t ɪ dʒ
+postage; p ˈ əʊ s t ɪ d͡ʒ
 postal; p ˈ əʊ s t ə l
 postcard; p ˈ əʊ s k ˌ ɑː d
 postcard; p ˈ əʊ s t k ˌ ɑː d
@@ -11015,7 +11015,7 @@ potter; p ˈ ɒ t ə
 pottery; p ˈ ɒ t ə ɹ i
 potts; p ˈ ɒ t s
 potty; p ˈ ɒ t i
-pouch; p ˈ aʊ tʃ
+pouch; p ˈ aʊ t͡ʃ
 poultry; p ˈ əʊ l t ɹ i
 pound; p ˈ aʊ n d
 pounds; p ˈ aʊ n d z
@@ -11059,7 +11059,7 @@ prayer; p ɹ ˈ eɪ ə
 prayers; p ɹ ˈ ɛə z
 prayers; p ɹ ˈ eɪ ə z
 praying; p ɹ ˈ eɪ ɪ ŋ
-preach; p ɹ ˈ iː tʃ
+preach; p ɹ ˈ iː t͡ʃ
 precaution; p ɹ ɪ k ˈ ɔː ʃ ə n
 precede; p ɹ ɪ s ˈ iː d
 preceded; p ɹ ɪ s ˈ iː d ɪ d
@@ -11093,9 +11093,9 @@ prefix; p ɹ ˈ iː f ɪ k s
 prefixed; p ɹ ˈ iː f ɪ k s t
 pregnancy; p ɹ ˈ ɛ g n ə n s i
 pregnant; p ɹ ˈ ɛ g n ə n t
-prejudice; p ɹ ˈ ɛ dʒ ə d ɪ s
+prejudice; p ɹ ˈ ɛ d͡ʒ ə d ɪ s
 preliminary; p ɹ ɪ l ˈ ɪ m ɪ n ə ɹ i
-premature; p ɹ ˌ iː m ə tʃ ˈ ʊə
+premature; p ɹ ˌ iː m ə t͡ʃ ˈ ʊə
 premier; p ɹ ˈ ɛ m ɪə
 premiere; p ɹ ˈ ɛ m ɪ ˌ ɛə
 premiere; p ɹ ˈ ɛ m ɪə
@@ -11140,7 +11140,7 @@ pressing; p ɹ ˈ ɛ s ɪ ŋ
 pressure; p ɹ ˈ ɛ ʃ ə
 pressures; p ɹ ˈ ɛ ʃ ə z
 prestige; p ɹ ɛ s t ˈ iː ʒ
-prestigious; p ɹ ɛ s t ˈ ɪ dʒ ə s
+prestigious; p ɹ ɛ s t ˈ ɪ d͡ʒ ə s
 preston; p ɹ ˈ ɛ s t ə n
 presumably; p ɹ ɪ z j ˈ uː m ə b l i
 presume; p ɹ ɪ z j ˈ uː m
@@ -11208,12 +11208,12 @@ private; p ɹ ˈ aɪ v ɪ t
 privately; p ɹ ˈ aɪ v ɪ t l i
 privatisation; p ɹ ˌ aɪ v ɪ t aɪ z ˈ eɪ ʃ ə n
 privatization; p ɹ ˌ aɪ v ɪ t aɪ z ˈ eɪ ʃ ə n
-privilege; p ɹ ˈ ɪ v l ɪ dʒ
-privilege; p ɹ ˈ ɪ v ɪ l ɪ dʒ
-privileged; p ɹ ˈ ɪ v l ɪ dʒ d
-privileged; p ɹ ˈ ɪ v ɪ l ɪ dʒ d
-privileges; p ɹ ˈ ɪ v l ɪ dʒ ɪ z
-privileges; p ɹ ˈ ɪ v ɪ l ɪ dʒ ɪ z
+privilege; p ɹ ˈ ɪ v l ɪ d͡ʒ
+privilege; p ɹ ˈ ɪ v ɪ l ɪ d͡ʒ
+privileged; p ɹ ˈ ɪ v l ɪ d͡ʒ d
+privileged; p ɹ ˈ ɪ v ɪ l ɪ d͡ʒ d
+privileges; p ɹ ˈ ɪ v l ɪ d͡ʒ ɪ z
+privileges; p ɹ ˈ ɪ v ɪ l ɪ d͡ʒ ɪ z
 privy; p ɹ ˈ ɪ v i
 prix; p ɹ ˈ iː
 prize; p ɹ ˈ aɪ z
@@ -11226,8 +11226,8 @@ probe; p ɹ ˈ əʊ b
 problem; p ɹ ˈ ɒ b l ə m
 problematic; p ɹ ˌ ɒ b l ə m ˈ æ t ɪ k
 problems; p ɹ ˈ ɒ b l ə m z
-procedure; p ɹ ə s ˈ iː dʒ ə
-procedures; p ɹ ə s ˈ iː dʒ ə z
+procedure; p ɹ ə s ˈ iː d͡ʒ ə
+procedures; p ɹ ə s ˈ iː d͡ʒ ə z
 proceed; p ɹ ə s ˈ iː d
 proceeding; p ɹ ə s ˈ iː d ɪ ŋ
 proceedings; p ɹ ə s ˈ iː d ɪ ŋ z
@@ -11283,14 +11283,14 @@ progressive; p ɹ ə g ɹ ˈ ɛ s ɪ v
 progressively; p ɹ ə g ɹ ˈ ɛ s ɪ v l i
 prohibit; p ɹ əʊ h ˈ ɪ b ɪ t
 prohibited; p ɹ əʊ h ˈ ɪ b ɪ t ɪ d
-project; p ɹ ˈ ɒ dʒ ɛ k t
-project; p ɹ ə dʒ ˈ ɛ k t
-projected; p ɹ ə dʒ ˈ ɛ k t ɪ d
-projection; p ɹ ə dʒ ˈ ɛ k ʃ ə n
-projector; p ɹ ə dʒ ˈ ɛ k t ə
-projectors; p ɹ ə dʒ ˈ ɛ k t ə z
-projects; p ɹ ˈ ɒ dʒ ɛ k t s
-projects; p ɹ ə dʒ ˈ ɛ k t s
+project; p ɹ ˈ ɒ d͡ʒ ɛ k t
+project; p ɹ ə d͡ʒ ˈ ɛ k t
+projected; p ɹ ə d͡ʒ ˈ ɛ k t ɪ d
+projection; p ɹ ə d͡ʒ ˈ ɛ k ʃ ə n
+projector; p ɹ ə d͡ʒ ˈ ɛ k t ə
+projectors; p ɹ ə d͡ʒ ˈ ɛ k t ə z
+projects; p ɹ ˈ ɒ d͡ʒ ɛ k t s
+projects; p ɹ ə d͡ʒ ˈ ɛ k t s
 prolonged; p ɹ ə l ˈ ɒ ŋ d
 prom; p ɹ ˈ ɒ m
 prominent; p ɹ ˈ ɒ m ɪ n ə n t
@@ -11404,10 +11404,10 @@ psychiatrist; s aɪ k ˈ aɪ ə t ɹ ɪ s t
 psychiatry; s aɪ k ˈ aɪ ə t ɹ i
 psychic; s ˈ aɪ k ɪ k
 psycho; s ˈ aɪ k əʊ
-psychological; s ˌ aɪ k ə l ˈ ɒ dʒ ɪ k ə l
-psychologist; s aɪ k ˈ ɒ l ə dʒ ɪ s t
-psychologists; s aɪ k ˈ ɒ l ə dʒ ɪ s t s
-psychology; s aɪ k ˈ ɒ l ə dʒ i
+psychological; s ˌ aɪ k ə l ˈ ɒ d͡ʒ ɪ k ə l
+psychologist; s aɪ k ˈ ɒ l ə d͡ʒ ɪ s t
+psychologists; s aɪ k ˈ ɒ l ə d͡ʒ ɪ s t s
+psychology; s aɪ k ˈ ɒ l ə d͡ʒ i
 pub; p ˈ ʌ b
 pubic; p j ˈ uː b ɪ k
 public; p ˈ ʌ b l ɪ k
@@ -11438,7 +11438,7 @@ pump; p ˈ ʌ m p
 pumpkin; p ˈ ʌ m p k ɪ n
 pumps; p ˈ ʌ m p s
 pun; p ˈ ʌ n
-punch; p ˈ ʌ n tʃ
+punch; p ˈ ʌ n t͡ʃ
 pundit; p ˈ ʌ n d ɪ t
 punish; p ˈ ʌ n ɪ ʃ
 punished; p ˈ ʌ n ɪ ʃ t
@@ -11450,15 +11450,15 @@ pup; p ˈ ʌ p
 pupil; p j ˈ uː p ə l
 pupils; p j ˈ uː p ə l z
 puppy; p ˈ ʌ p i
-purchase; p ˈ ɜː tʃ ɪ s
-purchased; p ˈ ɜː tʃ ɪ s t
-purchaser; p ˈ ɜː tʃ ɪ s ə
-purchases; p ˈ ɜː tʃ ɪ s ɪ z
-purchasing; p ˈ ɜː tʃ ɪ s ɪ ŋ
+purchase; p ˈ ɜː t͡ʃ ɪ s
+purchased; p ˈ ɜː t͡ʃ ɪ s t
+purchaser; p ˈ ɜː t͡ʃ ɪ s ə
+purchases; p ˈ ɜː t͡ʃ ɪ s ɪ z
+purchasing; p ˈ ɜː t͡ʃ ɪ s ɪ ŋ
 pure; p j ˈ ʊə
 puree; p j ˈ ʊə ɹ eɪ
 purely; p j ˈ ʊə l i
-purge; p ˈ ɜː dʒ
+purge; p ˈ ɜː d͡ʒ
 purity; p j ˈ ʊə ɹ ɪ i
 purple; p ˈ ɜː p ə l
 purpose; p ˈ ɜː p ə s
@@ -11530,14 +11530,14 @@ queensland; k w ˈ iː n z l ə n d
 queensland; k w ˈ iː n z l ˌ æ n d
 queer; k w ˈ ɪə
 quell; k w ˈ ɛ l
-quench; k w ˈ ɛ n tʃ
+quench; k w ˈ ɛ n t͡ʃ
 queries; k w ˈ ɪə ɹ i z
 query; k w ˈ ɪə ɹ i
 quest; k w ˈ ɛ s t
-question; k w ˈ ɛ s tʃ ə n
-questioned; k w ˈ ɛ s tʃ ə n d
-questionnaire; k w ˌ ɛ s tʃ ə n ˈ ɛə
-questions; k w ˈ ɛ s tʃ ə n z
+question; k w ˈ ɛ s t͡ʃ ə n
+questioned; k w ˈ ɛ s t͡ʃ ə n d
+questionnaire; k w ˌ ɛ s t͡ʃ ə n ˈ ɛə
+questions; k w ˈ ɛ s t͡ʃ ə n z
 queue; k j ˈ uː
 quick; k w ˈ ɪ k
 quicker; k w ˈ ɪ k ə
@@ -11571,7 +11571,7 @@ rabid; ɹ ˈ æ b ɪ d
 raccoon; ɹ ə k ˈ uː n
 race; ɹ ˈ eɪ s
 races; ɹ ˈ eɪ s ɪ z
-rachel; ɹ ˈ eɪ tʃ ə l
+rachel; ɹ ˈ eɪ t͡ʃ ə l
 racial; ɹ ˈ eɪ ʃ ə l
 racing; ɹ ˈ eɪ s ɪ ŋ
 racism; ɹ ˈ eɪ s ˌ ɪ z ə m
@@ -11594,7 +11594,7 @@ raf; ɹ ˈ æ f
 raffle; ɹ ˈ æ f ə l
 raft; ɹ ˈ ɑː f t
 rag; ɹ ˈ æ g
-rage; ɹ ˈ eɪ dʒ
+rage; ɹ ˈ eɪ d͡ʒ
 raid; ɹ ˈ eɪ d
 rail; ɹ ˈ eɪ l
 railroad; ɹ ˈ eɪ l ɹ ˌ əʊ d
@@ -11620,7 +11620,7 @@ ram; ɹ ˈ æ m
 ramen; ɹ ˈ ɑː m ə n
 ramp; ɹ ˈ æ m p
 ran; ɹ ˈ æ n
-ranch; ɹ ˈ ɑː n tʃ
+ranch; ɹ ˈ ɑː n t͡ʃ
 rand; ɹ ˈ æ n d
 random; ɹ ˈ æ n d ə m
 randomise; ɹ ˈ æ n d ə m ˌ aɪ z
@@ -11628,11 +11628,11 @@ randomize; ɹ ˈ æ n d ə m ˌ aɪ z
 randomly; ɹ ˈ æ n d ə m l i
 randy; ɹ ˈ æ n d i
 rang; ɹ ˈ æ ŋ
-range; ɹ ˈ eɪ n dʒ
-ranger; ɹ ˈ eɪ n dʒ ə
-rangers; ɹ ˈ eɪ n dʒ ə z
-ranges; ɹ ˈ eɪ n dʒ ɪ z
-ranging; ɹ ˈ eɪ n dʒ ɪ ŋ
+range; ɹ ˈ eɪ n d͡ʒ
+ranger; ɹ ˈ eɪ n d͡ʒ ə
+rangers; ɹ ˈ eɪ n d͡ʒ ə z
+ranges; ɹ ˈ eɪ n d͡ʒ ɪ z
+ranging; ɹ ˈ eɪ n d͡ʒ ɪ ŋ
 rank; ɹ ˈ æ ŋ k
 ranked; ɹ ˈ æ ŋ k t
 ranking; ɹ ˈ æ ŋ k ɪ ŋ
@@ -11679,10 +11679,10 @@ re; ɹ ˈ eɪ
 re; ɹ ˈ iː
 re-sign; ɹ iː s ˈ aɪ n
 re-sort; ɹ ˌ iː s ˈ ɔː t
-reach; ɹ ˈ iː tʃ
-reached; ɹ ˈ iː tʃ t
-reaches; ɹ ˈ iː tʃ ɪ z
-reaching; ɹ ˈ iː tʃ ɪ ŋ
+reach; ɹ ˈ iː t͡ʃ
+reached; ɹ ˈ iː t͡ʃ t
+reaches; ɹ ˈ iː t͡ʃ ɪ z
+reaching; ɹ ˈ iː t͡ʃ ɪ ŋ
 react; ɹ ɪ ˈ æ k t
 reaction; ɹ ɪ ˈ æ k ʃ ə n
 reactions; ɹ ɪ ˈ æ k ʃ ə n z
@@ -11803,7 +11803,7 @@ recruitment; ɹ ɪ k ɹ ˈ uː t m ə n t
 recur; ɹ ɪ k ˈ ɜː
 recycling; ɹ ɪ s ˈ aɪ k l ɪ ŋ
 red; ɹ ˈ ɛ d
-redbridge; ɹ ˈ ɛ d b ɹ ɪ dʒ
+redbridge; ɹ ˈ ɛ d b ɹ ɪ d͡ʒ
 redcurrant; ɹ ˈ ɛ d k ˌ ʌ ɹ ə n t
 redeem; ɹ ɪ d ˈ iː m
 redhead; ɹ ˈ ɛ d h ˌ ɛ d
@@ -11857,10 +11857,10 @@ reflex; ɹ ɪ f l ˈ ɛ k s
 reform; ɹ ɪ f ˈ ɔː m
 reforms; ɹ ɪ f ˈ ɔː m z
 refresh; ɹ ɪ f ɹ ˈ ɛ ʃ
-refrigerator; ɹ ɪ f ɹ ˈ ɪ dʒ ə ɹ ˌ eɪ t ə
-refuge; ɹ ˈ ɛ f j uː dʒ
-refugee; ɹ ˈ ɛ f j uː dʒ i
-refugees; ɹ ˈ ɛ f j ˌ uː dʒ i z
+refrigerator; ɹ ɪ f ɹ ˈ ɪ d͡ʒ ə ɹ ˌ eɪ t ə
+refuge; ɹ ˈ ɛ f j uː d͡ʒ
+refugee; ɹ ˈ ɛ f j uː d͡ʒ i
+refugees; ɹ ˈ ɛ f j ˌ uː d͡ʒ i z
 refund; ɹ ˈ iː f ˌ ʌ n d
 refund; ɹ ɪ f ˈ ʌ n d
 refurbished; ɹ ɪ f ˈ ɜː b ɪ ʃ t
@@ -11879,16 +11879,16 @@ regardless; ɹ ɪ g ˈ ɑː d l ɪ s
 regards; ɹ ɪ g ˈ ɑː d z
 reggae; ɹ ˈ ɛ g ˌ eɪ
 regime; ɹ eɪ ʒ ˈ iː m
-regiment; ɹ ˈ ɛ dʒ ɪ m ə n t
-region; ɹ ˈ iː dʒ ə n
-regional; ɹ ˈ iː dʒ ə n ə l
-regions; ɹ ˈ iː dʒ ə n z
-register; ɹ ˈ ɛ dʒ ɪ s t ə
-registered; ɹ ˈ ɛ dʒ ɪ s t ə d
-registrar; ɹ ˈ ɛ dʒ ɪ s t ɹ ˌ ɑː
-registrar; ɹ ˌ ɛ dʒ ɪ s t ɹ ˈ ɑː
-registration; ɹ ˌ ɛ dʒ ɪ s t ɹ ˈ eɪ ʃ ə n
-registry; ɹ ˈ ɛ dʒ ɪ s t ɹ i
+regiment; ɹ ˈ ɛ d͡ʒ ɪ m ə n t
+region; ɹ ˈ iː d͡ʒ ə n
+regional; ɹ ˈ iː d͡ʒ ə n ə l
+regions; ɹ ˈ iː d͡ʒ ə n z
+register; ɹ ˈ ɛ d͡ʒ ɪ s t ə
+registered; ɹ ˈ ɛ d͡ʒ ɪ s t ə d
+registrar; ɹ ˈ ɛ d͡ʒ ɪ s t ɹ ˌ ɑː
+registrar; ɹ ˌ ɛ d͡ʒ ɪ s t ɹ ˈ ɑː
+registration; ɹ ˌ ɛ d͡ʒ ɪ s t ɹ ˈ eɪ ʃ ə n
+registry; ɹ ˈ ɛ d͡ʒ ɪ s t ɹ i
 regression; ɹ ɪ g ɹ ˈ ɛ ʃ ə n
 regret; ɹ ɪ g ɹ ˈ ɛ t
 regular; ɹ ˈ ɛ g j ʊ l ə
@@ -11904,10 +11904,10 @@ rehearsal; ɹ ɪ h ˈ ɜː s ə l
 reign; ɹ ˈ eɪ n
 rein; ɹ ˈ eɪ n
 reinforce; ɹ ˌ iː ɪ n f ˈ ɔː s
-reject; ɹ ɪ dʒ ˈ ɛ k t
-reject; ɹ ˈ iː dʒ ɛ k t
-rejected; ɹ ɪ dʒ ˈ ɛ k t ɪ d
-rejection; ɹ ɪ dʒ ˈ ɛ k ʃ ə n
+reject; ɹ ɪ d͡ʒ ˈ ɛ k t
+reject; ɹ ˈ iː d͡ʒ ɛ k t
+rejected; ɹ ɪ d͡ʒ ˈ ɛ k t ɪ d
+rejection; ɹ ɪ d͡ʒ ˈ ɛ k ʃ ə n
 relate; ɹ ɪ l ˈ eɪ t
 related; ɹ ɪ l ˈ eɪ t ɪ d
 relates; ɹ ɪ l ˈ eɪ t s
@@ -11936,9 +11936,9 @@ relic; ɹ ˈ ɛ l ɪ k
 relief; ɹ ɪ l ˈ iː f
 relieve; ɹ ɪ l ˈ iː v
 relieved; ɹ ɪ l ˈ iː v d
-religion; ɹ ɪ l ˈ ɪ dʒ ə n
-religions; ɹ ɪ l ˈ ɪ dʒ ə n z
-religious; ɹ ɪ l ˈ ɪ dʒ ə s
+religion; ɹ ɪ l ˈ ɪ d͡ʒ ə n
+religions; ɹ ɪ l ˈ ɪ d͡ʒ ə n z
+religious; ɹ ɪ l ˈ ɪ d͡ʒ ə s
 reload; ɹ iː l ˈ əʊ d
 relocation; ɹ ɪ l əʊ k ˈ eɪ ʃ ə n
 reluctance; ɹ ɪ l ˈ ʌ k t ə n s
@@ -12060,11 +12060,11 @@ requirements; ɹ ɪ k w ˈ aɪ ə m ə n t s
 requires; ɹ ɪ k w ˈ aɪ ə z
 requiring; ɹ ɪ k w ˈ aɪ ə ɹ ɪ ŋ
 rescue; ɹ ˈ ɛ s k j uː
-research; ɹ ɪ s ˈ ɜː tʃ
-research; ɹ ˈ iː s ɜː tʃ
-researcher; ɹ ɪ s ˈ ɜː tʃ ə
+research; ɹ ɪ s ˈ ɜː t͡ʃ
+research; ɹ ˈ iː s ɜː t͡ʃ
+researcher; ɹ ɪ s ˈ ɜː t͡ʃ ə
 researcher; ɹ ˈ iː s ɜː t ə
-researchers; ɹ ɪ s ˈ ɜː tʃ ə z
+researchers; ɹ ɪ s ˈ ɜː t͡ʃ ə z
 researchers; ɹ ˈ iː s ɜː t ə z
 reseller; ɹ iː s ˈ ɛ l ə
 resemble; ɹ ɪ z ˈ ɛ m b ə l
@@ -12139,7 +12139,7 @@ restricted; ɹ ɪ s t ɹ ˈ ɪ k t ɪ d
 restriction; ɹ ɪ s t ɹ ˈ ɪ k ʃ ə n
 restrictions; ɹ ɪ s t ɹ ˈ ɪ k ʃ ə n z
 restrictive; ɹ ɪ s t ɹ ˈ ɪ k t ɪ v
-restructuring; ɹ ɪ s t ɹ ˈ ʌ k tʃ ə ɹ ɪ ŋ
+restructuring; ɹ ɪ s t ɹ ˈ ʌ k t͡ʃ ə ɹ ɪ ŋ
 result; ɹ ɪ z ˈ ʌ l t
 resulted; ɹ ɪ z ˈ ʌ l t ɪ d
 resulting; ɹ ɪ z ˈ ʌ l t ɪ ŋ
@@ -12154,7 +12154,7 @@ retailers; ɹ ˈ iː t ˌ eɪ l ə z
 retailing; ɹ ˈ iː t ˌ eɪ l ɪ ŋ
 retain; ɹ ɪ t ˈ eɪ n
 retained; ɹ ɪ t ˈ eɪ n d
-retch; ɹ ˈ ɛ tʃ
+retch; ɹ ˈ ɛ t͡ʃ
 retention; ɹ ɪ t ˈ ɛ n ʃ ə n
 retire; ɹ ɪ t ˈ aɪ ə
 retired; ɹ ɪ t ˈ aɪ ə d
@@ -12179,7 +12179,7 @@ revealing; ɹ ɪ v ˈ iː l ɪ ŋ
 reveals; ɹ ɪ v ˈ iː l z
 revel; ɹ ˈ ɛ v ə l
 revelation; ɹ ˌ ɛ v ə l ˈ eɪ ʃ ə n
-revenge; ɹ ɪ v ˈ ɛ n dʒ
+revenge; ɹ ɪ v ˈ ɛ n d͡ʒ
 revenue; ɹ ˈ ɛ v ə n j ˌ uː
 revenues; ɹ ˈ ɛ v ə n j ˌ uː z
 reverend; ɹ ˈ ɛ v ɹ ə n d
@@ -12219,10 +12219,10 @@ ribbed; ɹ ˈ ɪ b d
 ribbon; ɹ ˈ ɪ b ə n
 ribs; ɹ ˈ ɪ b z
 rice; ɹ ˈ aɪ s
-rich; ɹ ˈ ɪ tʃ
-richard; ɹ ˈ ɪ tʃ ə d
-riches; ɹ ˈ ɪ tʃ ɪ z
-richmond; ɹ ˈ ɪ tʃ m ə n d
+rich; ɹ ˈ ɪ t͡ʃ
+richard; ɹ ˈ ɪ t͡ʃ ə d
+riches; ɹ ˈ ɪ t͡ʃ ɪ z
+richmond; ɹ ˈ ɪ t͡ʃ m ə n d
 rick; ɹ ˈ ɪ k
 ricky; ɹ ˈ ɪ k i
 rid; ɹ ˈ ɪ d
@@ -12234,7 +12234,7 @@ ride; ɹ ˈ aɪ d
 rider; ɹ ˈ aɪ d ə
 riders; ɹ ˈ aɪ d ə z
 rides; ɹ ˈ aɪ d z
-ridge; ɹ ˈ ɪ dʒ
+ridge; ɹ ˈ ɪ d͡ʒ
 ridiculous; ɹ ɪ d ˈ ɪ k j ʊ l ə s
 riding; ɹ ˈ aɪ d ɪ ŋ
 rife; ɹ ˈ aɪ f
@@ -12246,7 +12246,7 @@ riga; ɹ ˈ iː g ə
 right; ɹ ˈ aɪ t
 rightly; ɹ ˈ aɪ t l i
 rights; ɹ ˈ aɪ t s
-rigid; ɹ ˈ ɪ dʒ ɪ d
+rigid; ɹ ˈ ɪ d͡ʒ ɪ d
 rile; ɹ ˈ aɪ l
 rim; ɹ ˈ ɪ m
 rind; ɹ ˈ aɪ n d
@@ -12271,7 +12271,7 @@ risks; ɹ ˈ ɪ s k s
 risky; ɹ ˈ ɪ s k i
 rita; ɹ ˈ iː t ə
 rite; ɹ ˈ aɪ t
-ritual; ɹ ˈ ɪ tʃ ʊə l
+ritual; ɹ ˈ ɪ t͡ʃ ʊə l
 ritz; ɹ ˈ ɪ t s
 rival; ɹ ˈ aɪ v ə l
 rivals; ɹ ˈ aɪ v ə l z
@@ -12280,7 +12280,7 @@ rivers; ɹ ˈ ɪ v ə z
 riverside; ɹ ˈ ɪ v ə s ˌ aɪ d
 rivet; ɹ ˈ ɪ v ɪ t
 riveting; ɹ ˈ ɪ v ɪ t ɪ ŋ
-roach; ɹ ˈ əʊ tʃ
+roach; ɹ ˈ əʊ t͡ʃ
 road; ɹ ˈ əʊ d
 roads; ɹ ˈ əʊ d z
 roam; ɹ ˈ əʊ m
@@ -12298,7 +12298,7 @@ robinson; ɹ ˈ ɒ b ɪ n s ə n
 robot; ɹ ˈ əʊ b ˌ ɒ t
 robots; ɹ ˈ əʊ b ˌ ɒ t s
 robust; ɹ əʊ b ˈ ʌ s t
-rochester; ɹ ˈ ɒ tʃ ɪ s t ə
+rochester; ɹ ˈ ɒ t͡ʃ ɪ s t ə
 rock; ɹ ˈ ɒ k
 rocket; ɹ ˈ ɒ k ɪ t
 rocks; ɹ ˈ ɒ k s
@@ -12306,8 +12306,8 @@ rocky; ɹ ˈ ɒ k i
 rod; ɹ ˈ ɒ d
 rode; ɹ ˈ əʊ d
 rodeo; ɹ ˈ əʊ d ɪ ˌ əʊ
-roger; ɹ ˈ ɒ dʒ ə
-rogers; ɹ ˈ ɒ dʒ ə z
+roger; ɹ ˈ ɒ d͡ʒ ə
+rogers; ɹ ˈ ɒ d͡ʒ ə z
 rogue; ɹ ˈ əʊ g
 role; ɹ ˈ əʊ l
 roles; ɹ ˈ əʊ l z
@@ -12448,7 +12448,7 @@ sack; s ˈ æ k
 sacramento; s ˌ æ k ɹ ə m ˈ ɛ n t əʊ
 sacred; s ˈ eɪ k ɹ ɪ d
 sacrifice; s ˈ æ k ɹ ɪ f ˌ aɪ s
-sacrilegious; s ˌ æ k ɹ ˈ ɪ l ɪ dʒ ə s
+sacrilegious; s ˌ æ k ɹ ˈ ɪ l ɪ d͡ʒ ə s
 sad; s ˈ æ d
 saddam; s æ d ˈ æ m
 saddle; s ˈ æ d ə l
@@ -12461,7 +12461,7 @@ safer; s ˈ eɪ f ə
 safety; s ˈ eɪ f t i
 sag; s ˈ æ g
 saga; s ˈ ɑː g ə
-sage; s ˈ eɪ dʒ
+sage; s ˈ eɪ d͡ʒ
 said; s ˈ ɛ d
 sail; s ˈ eɪ l
 sailing; s ˈ eɪ l ɪ ŋ
@@ -12487,7 +12487,7 @@ salt; s ˈ ɔː l t
 salty; s ˈ ɒ l t i
 salty; s ˈ ɔː l t i
 salvador; s ˈ æ l v ə d ˌ ɔː
-salvage; s ˈ æ l v ɪ dʒ
+salvage; s ˈ æ l v ɪ d͡ʒ
 salvation; s ə l v ˈ eɪ ʃ ə n
 sam; s ˈ æ m
 samantha; s ə m ˈ æ n θ ə
@@ -12507,13 +12507,13 @@ sanction; s ˈ æ ŋ ʃ ə n
 sanction; s ˈ æ ŋ k ʃ ə n
 sanctions; s ˈ æ ŋ ʃ ə n z
 sanctions; s ˈ æ ŋ k ʃ ə n z
-sanctuary; s ˈ æ ŋ k tʃ ʊə ɹ i
+sanctuary; s ˈ æ ŋ k t͡ʃ ʊə ɹ i
 sand; s ˈ æ n d
 sandra; s ˈ ɑː n d ɹ ə
-sandwich; s ˈ æ n w ɪ tʃ
-sandwich; s ˈ æ n w ɪ dʒ
-sandwiches; s ˈ æ n w ɪ tʃ ɪ z
-sandwiches; s ˈ æ n w ɪ dʒ ɪ z
+sandwich; s ˈ æ n w ɪ t͡ʃ
+sandwich; s ˈ æ n w ɪ d͡ʒ
+sandwiches; s ˈ æ n w ɪ t͡ʃ ɪ z
+sandwiches; s ˈ æ n w ɪ d͡ʒ ɪ z
 sandy; s ˈ æ n d i
 sane; s ˈ eɪ n
 sang; s ˈ æ ŋ
@@ -12530,7 +12530,7 @@ sarajevo; s ˌ æ ɹ ə j ˈ eɪ v əʊ
 sarcasm; s ˈ ɑː k æ z ə m
 sarcastic; s ɑː k ˈ æ s t ˈ ɪ k
 sash; s ˈ æ ʃ
-saskatchewan; s æ s k ˈ æ tʃ ɪ w ə n
+saskatchewan; s æ s k ˈ æ t͡ʃ ɪ w ə n
 sat; s ˈ æ t
 satan; s ˈ eɪ t ə n
 satellite; s ˈ æ t ə l ˌ aɪ t
@@ -12551,9 +12551,9 @@ saucer; s ˈ ɔː s ə
 saudi; s ˈ aʊ d i
 saudi; s ˈ ɔː d i
 sauna; s ˈ ɔː n ə
-sausage; s ˈ ɒ s ɪ dʒ
-sausages; s ˈ ɒ s ɪ dʒ ɪ z
-savage; s ˈ æ v ɪ dʒ
+sausage; s ˈ ɒ s ɪ d͡ʒ
+sausages; s ˈ ɒ s ɪ d͡ʒ ɪ z
+savage; s ˈ æ v ɪ d͡ʒ
 savannah; s ə v ˈ æ n ə
 save; s ˈ eɪ v
 saved; s ˈ eɪ v d
@@ -12598,14 +12598,14 @@ scenes; s ˈ iː n z
 scenic; s ˈ iː n ɪ k
 scent; s ˈ ɛ n t
 sceptical; s k ˈ ɛ p t ɪ k ə l
-schedule; ʃ ˈ ɛ dʒ uː l
-schedule; s k ˈ ɛ dʒ uː l
-scheduled; ʃ ˈ ɛ dʒ uː l d
-scheduled; s k ˈ ɛ dʒ uː l d
-schedules; ʃ ˈ ɛ dʒ uː l z
-schedules; s k ˈ ɛ dʒ uː l z
-scheduling; ʃ ˈ ɛ dʒ uː l ɪ ŋ
-scheduling; s k ˈ ɛ dʒ uː l ɪ ŋ
+schedule; ʃ ˈ ɛ d͡ʒ uː l
+schedule; s k ˈ ɛ d͡ʒ uː l
+scheduled; ʃ ˈ ɛ d͡ʒ uː l d
+scheduled; s k ˈ ɛ d͡ʒ uː l d
+schedules; ʃ ˈ ɛ d͡ʒ uː l z
+schedules; s k ˈ ɛ d͡ʒ uː l z
+scheduling; ʃ ˈ ɛ d͡ʒ uː l ɪ ŋ
+scheduling; s k ˈ ɛ d͡ʒ uː l ɪ ŋ
 schema; s k ˈ iː m ə
 schemas; s k ˈ iː m ə z
 scheme; s k ˈ iː m
@@ -12638,24 +12638,24 @@ scores; s k ˈ ɔː z
 scoring; s k ˈ ɔː ɹ ɪ ŋ
 scorn; s k ˈ ɔː n
 scot; s k ˈ ɒ t
-scotch; s k ˈ ɒ tʃ
+scotch; s k ˈ ɒ t͡ʃ
 scotland; s k ˈ ɒ t l ə n d
 scots; s k ˈ ɒ t s
 scott; s k ˈ ɒ t
 scottish; s k ˈ ɒ t ɪ ʃ
 scour; s k ˈ aʊ ə
-scourge; s k ˈ ɜː dʒ
+scourge; s k ˈ ɜː d͡ʒ
 scout; s k ˈ aʊ t
 scowl; s k ˈ aʊ l
 scrap; s k ɹ ˈ æ p
 scrape; s k ɹ ˈ eɪ p
-scratch; s k ɹ ˈ æ tʃ
-scratching; s k ɹ ˈ æ tʃ ɪ ŋ
+scratch; s k ɹ ˈ æ t͡ʃ
+scratching; s k ɹ ˈ æ t͡ʃ ɪ ŋ
 scream; s k ɹ ˈ iː m
 screamed; s k ɹ ˈ iː m d
 screaming; s k ɹ ˈ iː m ɪ ŋ
 screams; s k ɹ ˈ iː m z
-screeching; s k ɹ ˈ iː tʃ ɪ ŋ
+screeching; s k ɹ ˈ iː t͡ʃ ɪ ŋ
 screen; s k ɹ ˈ iː n
 screening; s k ɹ ˈ iː n ɪ ŋ
 screens; s k ɹ ˈ iː n z
@@ -12671,8 +12671,8 @@ screws; s k ɹ ˈ uː z
 script; s k ɹ ˈ ɪ p t
 scripting; s k ɹ ˈ ɪ p t ɪ ŋ
 scripts; s k ɹ ˈ ɪ p t s
-scripture; s k ɹ ˈ ɪ p tʃ ə
-scriptures; s k ɹ ˈ ɪ p tʃ ə z
+scripture; s k ɹ ˈ ɪ p t͡ʃ ə
+scriptures; s k ɹ ˈ ɪ p t͡ʃ ə z
 scroll; s k ɹ ˈ əʊ l
 scrub; s k ɹ ˈ ʌ b
 scruffy; s k ɹ ˈ ʌ f i
@@ -12681,7 +12681,7 @@ scrumb; s k ɹ ˈ ʌ m
 scrutiny; s k ɹ ˈ uː t ɪ n i
 scuba; s k j ˈ uː b ə
 scud; s k ˈ ʌ d
-sculpture; s k ˈ ʌ l p tʃ ə
+sculpture; s k ˈ ʌ l p t͡ʃ ə
 scum; s k ˈ ʌ m
 sea; s ˈ iː
 seafood; s ˈ iː f ˌ uː d
@@ -12691,10 +12691,10 @@ sealed; s ˈ iː l d
 seam; s ˈ iː m
 sean; ʃ ˈ ɔː n
 sear; s ˈ ɪə
-search; s ˈ ɜː tʃ
-searched; s ˈ ɜː tʃ t
-searches; s ˈ ɜː tʃ ɪ z
-searching; s ˈ ɜː tʃ ɪ ŋ
+search; s ˈ ɜː t͡ʃ
+searched; s ˈ ɜː t͡ʃ t
+searches; s ˈ ɜː t͡ʃ ɪ z
+searching; s ˈ ɜː t͡ʃ ɪ ŋ
 seas; s ˈ iː z
 season; s ˈ iː z ə n
 seasonal; s ˈ iː z ə n ə l
@@ -12822,7 +12822,7 @@ sequences; s ˈ iː k w ə n s ɪ z
 serbia; s ˈ ɜː b ɪə
 serbian; s ˈ ɜː b ɪə n
 serf; s ˈ ɜː f
-sergeant; s ˈ ɑː dʒ ə n t
+sergeant; s ˈ ɑː d͡ʒ ə n t
 serial; s ˈ ɪə ɹ ɪə l
 series; s ˈ ɪə ɹ iː z
 serif; s ˈ ɛ ɹ ɪ f
@@ -12866,7 +12866,7 @@ severe; s ə v ˈ ɪə
 severely; s ə v ˈ ɪə l i
 severity; s ə v ˈ ɛ ɹ ɪ t i
 sew; s ˈ əʊ
-sewage; s ˈ uː ɪ dʒ
+sewage; s ˈ uː ɪ d͡ʒ
 sewed; s ˈ əʊ d
 sewer; s ˈ uː ə
 sewing; s ˈ əʊ ɪ ŋ
@@ -12997,7 +12997,7 @@ shore; ʃ ˈ ɔː
 shorn; ʃ ˈ ɔː n
 short; ʃ ˈ ɔː t
 short-term; ʃ ˌ ɔː t t ˈ ɜː m
-shortage; ʃ ˈ ɔː t ɪ dʒ
+shortage; ʃ ˈ ɔː t ɪ d͡ʒ
 shortcuts; ʃ ˈ ɔː t k ˌ ʌ t s
 shorten; ʃ ˈ ɔː t ə n
 shorter; ʃ ˈ ɔː t ə
@@ -13052,7 +13052,7 @@ sid; s ˈ ɪ d
 side; s ˈ aɪ d
 sides; s ˈ aɪ d z
 sideways; s ˈ aɪ d w ˌ eɪ z
-siege; s ˈ iː dʒ
+siege; s ˈ iː d͡ʒ
 siemens; s ˈ iː m ə n z
 sierra; s ɪ ˈ ɛə ɹ ə
 sieve; s ˈ iː v
@@ -13067,8 +13067,8 @@ sigma; s ˈ ɪ g m ə
 sign; s ˈ aɪ n
 signal; s ˈ ɪ g n ə l
 signals; s ˈ ɪ g n ə l z
-signature; s ˈ ɪ g n ə tʃ ə
-signatures; s ˈ ɪ g n ə tʃ ə z
+signature; s ˈ ɪ g n ə t͡ʃ ə
+signatures; s ˈ ɪ g n ə t͡ʃ ə z
 signed; s ˈ aɪ n d
 significance; s ɪ g n ˈ ɪ f ɪ k ə n s
 significant; s ɪ g n ˈ ɪ f ɪ k ə n t
@@ -13115,7 +13115,7 @@ sincerely; s ɪ n s ˈ ɪə l i
 sinew; s ˈ ɪ n j uː
 sing; s ˈ ɪ ŋ
 singapore; s ˈ ɪ ŋ ə p ˌ ɔː
-singe; s ˈ ɪ n dʒ
+singe; s ˈ ɪ n d͡ʒ
 singer; s ˈ ɪ ŋ ə
 singing; s ˈ ɪ ŋ ɪ ŋ
 single; s ˈ ɪ ŋ g ə l
@@ -13140,10 +13140,10 @@ site; s ˈ aɪ t
 sites; s ˈ aɪ t s
 sits; s ˈ ɪ t s
 sitting; s ˈ ɪ t ɪ ŋ
-situate; s ˈ ɪ tʃ ʊə t
-situated; s ˈ ɪ tʃ ʊə t ɪ d
-situation; s ˌ ɪ tʃ ʊ ˈ eɪ ʃ ə n
-situations; s ˌ ɪ tʃ ʊ ˈ eɪ ʃ ə n z
+situate; s ˈ ɪ t͡ʃ ʊə t
+situated; s ˈ ɪ t͡ʃ ʊə t ɪ d
+situation; s ˌ ɪ t͡ʃ ʊ ˈ eɪ ʃ ə n
+situations; s ˌ ɪ t͡ʃ ʊ ˈ eɪ ʃ ə n z
 six; s ˈ ɪ k s
 sixes; s ˈ ɪ k s ɪ z
 sixpence; s ˈ ɪ k s p ə n s
@@ -13160,7 +13160,7 @@ sizes; s ˈ aɪ z ɪ z
 skate; s k ˈ eɪ t
 skating; s k ˈ eɪ t ɪ ŋ
 skeleton; s k ˈ ɛ l ɪ t ə n
-sketch; s k ˈ ɛ tʃ
+sketch; s k ˈ ɛ t͡ʃ
 skew; s k j ˈ uː
 ski; s k ˈ iː
 skid; s k ˈ ɪ d
@@ -13200,7 +13200,7 @@ slaves; s l ˈ eɪ v z
 slay; s l ˈ eɪ
 slayed; s l ˈ eɪ d
 sled; s l ˈ ɛ d
-sledge; s l ˈ ɛ dʒ
+sledge; s l ˈ ɛ d͡ʒ
 sleek; s l ˈ iː k
 sleep; s l ˈ iː p
 sleeping; s l ˈ iː p ɪ ŋ
@@ -13293,7 +13293,7 @@ smoky; s m ˈ əʊ k i
 smooth; s m ˈ uː ð
 smoothly; s m ˈ uː ð l i
 smote; s m ˈ əʊ t
-smudge; s m ˈ ʌ dʒ
+smudge; s m ˈ ʌ d͡ʒ
 smug; s m ˈ ʌ g
 smut; s m ˈ ʌ t
 snack; s n ˈ æ k
@@ -13306,7 +13306,7 @@ snapshot; s n ˈ æ p ʃ ˌ ɒ t
 snare; s n ˈ ɛə
 snarky; s n ˈ ɑː k i
 snarl; s n ˈ ɑː l
-snatch; s n ˈ æ tʃ
+snatch; s n ˈ æ t͡ʃ
 sneak; s n ˈ iː k
 sneaked; s n ˈ iː k t
 sneer; s n ˈ ɪə
@@ -13352,8 +13352,8 @@ socialize; s ˈ əʊ ʃ ə l ˌ aɪ z
 socially; s ˈ əʊ ʃ ə l i
 societies; s ə s ˈ aɪ ə t i z
 society; s ə s ˈ aɪ ə t i
-sociological; s ˌ əʊ s ɪə l ˈ ɒ dʒ ɪ k ə l
-sociology; s ˌ əʊ s ɪ ˈ ɒ l ə dʒ i
+sociological; s ˌ əʊ s ɪə l ˈ ɒ d͡ʒ ɪ k ə l
+sociology; s ˌ əʊ s ɪ ˈ ɒ l ə d͡ʒ i
 sock; s ˈ ɒ k
 socket; s ˈ ɒ k ɪ t
 socks; s ˈ ɒ k s
@@ -13374,8 +13374,8 @@ soil; s ˈ ɔɪ l
 sol; s ˈ ɒ l
 solar; s ˈ əʊ l ə
 sold; s ˈ əʊ l d
-soldier; s ˈ əʊ l dʒ ə
-soldiers; s ˈ əʊ l dʒ ə z
+soldier; s ˈ əʊ l d͡ʒ ə
+soldiers; s ˈ əʊ l d͡ʒ ə z
 sole; s ˈ əʊ l
 solely; s ˈ əʊ l l i
 solicitor; s ə l ˈ ɪ s ɪ t ə
@@ -13524,8 +13524,8 @@ spectra; s p ˈ ɛ k t ɹ ə
 spectrum; s p ˈ ɛ k t ɹ ə m
 speculation; s p ˌ ɛ k j ʊ l ˈ eɪ ʃ ə n
 sped; s p ˈ ɛ d
-speech; s p ˈ iː tʃ
-speeches; s p ˈ iː tʃ ɪ z
+speech; s p ˈ iː t͡ʃ
+speeches; s p ˈ iː t͡ʃ ɪ z
 speed; s p ˈ iː d
 speeded; s p ˈ iː d ɪ d
 speeds; s p ˈ iː d z
@@ -13558,8 +13558,8 @@ spiral; s p ˈ aɪ ə ɹ ə l
 spire; s p ˈ aɪ ə
 spirit; s p ˈ ɪ ɹ ɪ t
 spirits; s p ˈ ɪ ɹ ɪ t s
-spiritual; s p ˈ ɪ ɹ ɪ tʃ j ʊə l
-spirituality; s p ˌ ɪ ɹ ɪ tʃ ʊ ˈ æ l ɪ t i
+spiritual; s p ˈ ɪ ɹ ɪ t͡ʃ j ʊə l
+spirituality; s p ˌ ɪ ɹ ɪ t͡ʃ ʊ ˈ æ l ɪ t i
 spit; s p ˈ ɪ t
 spite; s p ˈ aɪ t
 splash; s p l ˈ æ ʃ
@@ -13576,7 +13576,7 @@ spoke; s p ˈ əʊ k
 spoken; s p ˈ əʊ k ə n
 spokesman; s p ˈ əʊ k s m ə n
 spokesmen; s p ˈ əʊ k s m ə n
-sponge; s p ˈ ʌ n dʒ
+sponge; s p ˈ ʌ n d͡ʒ
 sponsor; s p ˈ ɒ n s ə
 sponsored; s p ˈ ɒ n s ə d
 sponsors; s p ˈ ɒ n s ə z
@@ -13631,7 +13631,7 @@ squash; s k w ˈ ɒ ʃ
 squat; s k w ˈ ɒ t
 squawk; s k w ˈ ɔː k
 squeeze; s k w ˈ iː z
-squelch; s k w ˈ ɛ l tʃ
+squelch; s k w ˈ ɛ l t͡ʃ
 squid; s k w ˈ ɪ d
 squirrel; s k w ˈ ɪ ɹ ə l
 squirt; s k w ˈ ɜː t
@@ -13652,8 +13652,8 @@ staffing; s t ˈ ɑː f ɪ ŋ
 staffordshire; s t ˈ æ f ə d ʃ ə
 staffs; s t ˈ ɑː f s
 stag; s t ˈ æ g
-stage; s t ˈ eɪ dʒ
-stages; s t ˈ eɪ dʒ ɪ z
+stage; s t ˈ eɪ d͡ʒ
+stages; s t ˈ eɪ d͡ʒ ɪ z
 stain; s t ˈ eɪ n
 stainless; s t ˈ eɪ n l ɪ s
 stair; s t ˈ ɛə
@@ -13714,13 +13714,13 @@ statistical; s t ə t ˈ ɪ s t ɪ k ə l
 statistically; s t ə t ˈ ɪ s t ɪ k l i
 statistics; s t ə t ˈ ɪ s t ɪ k s
 stats; s t ˈ æ t s
-statue; s t ˈ æ tʃ uː
+statue; s t ˈ æ t͡ʃ uː
 statue; s t ˈ æ t j uː
 status; s t ˈ eɪ t ə s
 statuses; s t ˈ eɪ t ə s ɪ z
-statute; s t ˈ æ tʃ uː t
-statutes; s t ˈ æ tʃ uː t s
-statutory; s t ˈ æ tʃ ʊ t ə ɹ i
+statute; s t ˈ æ t͡ʃ uː t
+statutes; s t ˈ æ t͡ʃ uː t s
+statutory; s t ˈ æ t͡ʃ ʊ t ə ɹ i
 stave; s t ˈ eɪ v
 staved; s t ˈ eɪ v d
 staves; s t ˈ eɪ v z
@@ -13783,8 +13783,8 @@ stinks; s t ˈ ɪ ŋ k s
 stint; s t ˈ ɪ n t
 stir; s t ˈ ɜː
 stirling; s t ˈ ɜː l ɪ ŋ
-stitch; s t ˈ ɪ tʃ
-stitches; s t ˈ ɪ tʃ ɪ z
+stitch; s t ˈ ɪ t͡ʃ
+stitches; s t ˈ ɪ t͡ʃ ɪ z
 stochastic; s t ɒ k ˈ æ s t ɪ k
 stock; s t ˈ ɒ k
 stockholm; s t ˈ ɒ k h ˌ əʊ m
@@ -13807,7 +13807,7 @@ stop; s t ˈ ɒ p
 stopped; s t ˈ ɒ p t
 stopping; s t ˈ ɒ p ɪ ŋ
 stops; s t ˈ ɒ p s
-storage; s t ˈ ɒ ɹ ɪ dʒ
+storage; s t ˈ ɒ ɹ ɪ d͡ʒ
 store; s t ˈ ɔː
 stored; s t ˈ ɔː d
 stores; s t ˈ ɔː z
@@ -13826,15 +13826,15 @@ straightforward; s t ɹ ˌ eɪ t f ˈ ɔː w ə d
 strain; s t ɹ ˈ eɪ n
 strand; s t ɹ ˈ æ n d
 strands; s t ɹ ˈ æ n d z
-strange; s t ɹ ˈ eɪ n dʒ
-strangely; s t ɹ ˈ eɪ n dʒ l i
-stranger; s t ɹ ˈ eɪ n dʒ ə
-strangers; s t ɹ ˈ eɪ n dʒ ə z
+strange; s t ɹ ˈ eɪ n d͡ʒ
+strangely; s t ɹ ˈ eɪ n d͡ʒ l i
+stranger; s t ɹ ˈ eɪ n d͡ʒ ə
+strangers; s t ɹ ˈ eɪ n d͡ʒ ə z
 strap; s t ɹ ˈ æ p
 straps; s t ɹ ˈ æ p s
-strategic; s t ɹ ə t ˈ iː dʒ ɪ k
-strategies; s t ɹ ˈ æ t ɪ dʒ i z
-strategy; s t ɹ ˈ æ t ɪ dʒ i
+strategic; s t ɹ ə t ˈ iː d͡ʒ ɪ k
+strategies; s t ɹ ˈ æ t ɪ d͡ʒ i z
+strategy; s t ɹ ˈ æ t ɪ d͡ʒ i
 stratford; s t ɹ ˈ æ t f ə d
 straw; s t ɹ ˈ ɔː
 strawberries; s t ɹ ˈ ɔː b ə ɹ i z
@@ -13855,9 +13855,9 @@ strengths; s t ɹ ˈ ɛ ŋ θ s
 strengths; s t ɹ ˈ ɛ ŋ k θ s
 stress; s t ɹ ˈ ɛ s
 stressed; s t ɹ ˈ ɛ s t
-stretch; s t ɹ ˈ ɛ tʃ
-stretched; s t ɹ ˈ ɛ tʃ t
-stretching; s t ɹ ˈ ɛ tʃ ɪ ŋ
+stretch; s t ɹ ˈ ɛ t͡ʃ
+stretched; s t ɹ ˈ ɛ t͡ʃ t
+stretching; s t ɹ ˈ ɛ t͡ʃ ɪ ŋ
 strew; s t ɹ ˈ uː
 strewed; s t ɹ ˈ uː d
 strewn; s t ɹ ˈ uː n
@@ -13889,10 +13889,10 @@ strongest; s t ɹ ˈ ɒ ŋ g ɪ s t
 strongly; s t ɹ ˈ ɒ ŋ l i
 strove; s t ɹ ˈ əʊ v
 struck; s t ɹ ˈ ʌ k
-structural; s t ɹ ˈ ʌ k tʃ ə ɹ ə l
-structure; s t ɹ ˈ ʌ k tʃ ə
-structured; s t ɹ ˈ ʌ k tʃ ə d
-structures; s t ɹ ˈ ʌ k tʃ ə z
+structural; s t ɹ ˈ ʌ k t͡ʃ ə ɹ ə l
+structure; s t ɹ ˈ ʌ k t͡ʃ ə
+structured; s t ɹ ˈ ʌ k t͡ʃ ə d
+structures; s t ɹ ˈ ʌ k t͡ʃ ə z
 struggle; s t ɹ ˈ ʌ g ə l
 struggled; s t ɹ ˈ ʌ g ə l d
 struggling; s t ɹ ˈ ʌ g l ɪ ŋ
@@ -13932,12 +13932,12 @@ subaru; s ʊ b ˈ ɑː ɹ uː
 subcommittee; s ˈ ʌ b k ə m ˌ ɪ t i
 subconscious; s ʌ b k ˈ ɒ n ʃ ə s
 subdivision; s ˈ ʌ b d ɪ v ˌ ɪ ʒ ə n
-subject; s ə b dʒ ˈ ɛ k t
-subject; s ˈ ʌ b dʒ ɪ k t
-subjected; s ə b dʒ ˈ ɛ k t ɪ d
-subjective; s ə b dʒ ˈ ɛ k t ɪ v
-subjects; s ə b dʒ ˈ ɛ k t s
-subjects; s ˈ ʌ b dʒ ɪ k t s
+subject; s ə b d͡ʒ ˈ ɛ k t
+subject; s ˈ ʌ b d͡ʒ ɪ k t
+subjected; s ə b d͡ʒ ˈ ɛ k t ɪ d
+subjective; s ə b d͡ʒ ˈ ɛ k t ɪ v
+subjects; s ə b d͡ʒ ˈ ɛ k t s
+subjects; s ˈ ʌ b d͡ʒ ɪ k t s
 sublime; s ə b l ˈ aɪ m
 submission; s ə b m ˈ ɪ ʃ ə n
 submissions; s ə b m ˈ ɪ ʃ ə n z
@@ -13982,7 +13982,7 @@ successive; s ə k s ˈ ɛ s ɪ v
 successor; s ə k s ˈ ɛ s ə
 succinct; s ə k s ˈ ɪ n t
 succumb; s ə k ˈ ʌ m
-such; s ˈ ʌ tʃ
+such; s ˈ ʌ t͡ʃ
 suck; s ˈ ʌ k
 sucker; s ˈ ʌ k ə
 sucking; s ˈ ʌ k ɪ ŋ
@@ -14002,12 +14002,12 @@ sufficient; s ə f ˈ ɪ ʃ ə n t
 sufficiently; s ə f ˈ ɪ ʃ ə n t l i
 suffolk; s ˈ ʌ f ə k
 sugar; ʃ ˈ ʊ g ə
-suggest; s ə dʒ ˈ ɛ s t
-suggested; s ə dʒ ˈ ɛ s t ɪ d
-suggesting; s ə dʒ ˈ ɛ s t ɪ ŋ
-suggestion; s ə dʒ ˈ ɛ s tʃ ə n
-suggestions; s ə dʒ ˈ ɛ s tʃ ə n z
-suggests; s ə dʒ ˈ ɛ s t s
+suggest; s ə d͡ʒ ˈ ɛ s t
+suggested; s ə d͡ʒ ˈ ɛ s t ɪ d
+suggesting; s ə d͡ʒ ˈ ɛ s t ɪ ŋ
+suggestion; s ə d͡ʒ ˈ ɛ s t͡ʃ ə n
+suggestions; s ə d͡ʒ ˈ ɛ s t͡ʃ ə n z
+suggests; s ə d͡ʒ ˈ ɛ s t s
 suicide; s ˈ uː ɪ s ˌ aɪ d
 suit; s ˈ uː t
 suitable; s ˈ uː t ə b ə l
@@ -14090,11 +14090,11 @@ surf; s ˈ ɜː f
 surface; s ˈ ɜː f ɪ s
 surfaces; s ˈ ɜː f ɪ s ɪ z
 surfing; s ˈ ɜː f ɪ ŋ
-surge; s ˈ ɜː dʒ
-surgeon; s ˈ ɜː dʒ ə n
-surgeons; s ˈ ɜː dʒ ə n z
-surgery; s ˈ ɜː dʒ ə ɹ i
-surgical; s ˈ ɜː dʒ ɪ k ə l
+surge; s ˈ ɜː d͡ʒ
+surgeon; s ˈ ɜː d͡ʒ ə n
+surgeons; s ˈ ɜː d͡ʒ ə n z
+surgery; s ˈ ɜː d͡ʒ ə ɹ i
+surgical; s ˈ ɜː d͡ʒ ɪ k ə l
 surly; s ˈ ɜː l i
 surmise; s ˈ ɜː m aɪ z
 surmise; s ɜː m ˈ aɪ z
@@ -14192,10 +14192,10 @@ swipe; s w ˈ aɪ p
 swirl; s w ˈ ɜː l
 swish; s w ˈ ɪ ʃ
 swiss; s w ˈ ɪ s
-switch; s w ˈ ɪ tʃ
-switched; s w ˈ ɪ tʃ t
-switches; s w ˈ ɪ tʃ ɪ z
-switching; s w ˈ ɪ tʃ ɪ ŋ
+switch; s w ˈ ɪ t͡ʃ
+switched; s w ˈ ɪ t͡ʃ t
+switches; s w ˈ ɪ t͡ʃ ɪ z
+switching; s w ˈ ɪ t͡ʃ ɪ ŋ
 switzerland; s w ˈ ɪ t s ə l ə n d
 swivel; s w ˈ ɪ v ə l
 swollen; s w ˈ əʊ l ə n
@@ -14227,7 +14227,7 @@ syndicate; s ˈ ɪ n d ɪ k ɪ t
 syndicate; s ˈ ɪ n d ɪ k ˌ eɪ t
 syndication; s ˌ ɪ n d ɪ k ˈ eɪ ʃ ə n
 syndrome; s ˈ ɪ n d ɹ ˌ əʊ m
-synergy; s ˈ ɪ n ə dʒ i
+synergy; s ˈ ɪ n ə d͡ʒ i
 synod; s ˈ ɪ n ə d
 synonymous; s ɪ n ˈ ɒ n ɪ m ə s
 synopses; s ɪ n ˈ ɒ p s iː z
@@ -14239,7 +14239,7 @@ synthesis; s ˈ ɪ n θ ɪ s ɪ s
 synthetic; s ɪ n θ ˈ ɛ t ɪ k
 syracuse; s ˈ ɪ ɹ ə k j ˌ uː z
 syria; s ˈ ɪ ɹ ɪə
-syringe; s ɪ ɹ ˈ ɪ n dʒ
+syringe; s ɪ ɹ ˈ ɪ n d͡ʒ
 syrup; s ˈ ɪ ɹ ə p
 system; s ˈ ɪ s t ə m
 systematic; s ˌ ɪ s t ə m ˈ æ t ɪ k
@@ -14333,11 +14333,11 @@ taxi; t ˈ æ k s i
 taxpayer; t ˈ æ k s p ˌ eɪ ə
 taylor; t ˈ eɪ l ə
 tea; t ˈ iː
-teach; t ˈ iː tʃ
-teacher; t ˈ iː tʃ ə
-teachers; t ˈ iː tʃ ə z
-teaches; t ˈ iː tʃ ɪ z
-teaching; t ˈ iː tʃ ɪ ŋ
+teach; t ˈ iː t͡ʃ
+teacher; t ˈ iː t͡ʃ ə
+teachers; t ˈ iː t͡ʃ ə z
+teaches; t ˈ iː t͡ʃ ɪ z
+teaching; t ˈ iː t͡ʃ ɪ ŋ
 teak; t ˈ iː k
 teal; t ˈ iː l
 team; t ˈ iː m
@@ -14358,18 +14358,18 @@ technician; t ɛ k n ˈ ɪ ʃ ə n
 technique; t ɛ k n ˈ iː k
 techniques; t ɛ k n ˈ iː k s
 techno; t ˈ ɛ k n əʊ
-technological; t ˌ ɛ k n ə l ˈ ɒ dʒ ɪ k ə l
-technologies; t ɛ k n ˈ ɒ l ə dʒ i z
-technology; t ɛ k n ˈ ɒ l ə dʒ i
+technological; t ˌ ɛ k n ə l ˈ ɒ d͡ʒ ɪ k ə l
+technologies; t ɛ k n ˈ ɒ l ə d͡ʒ i z
+technology; t ɛ k n ˈ ɒ l ə d͡ʒ i
 ted; t ˈ ɛ d
 teddy; t ˈ ɛ d i
 tedious; t ˈ iː d ɪə s
 tee; t ˈ iː
 teem; t ˈ iː m
 teen; t ˈ iː n
-teenage; t ˈ iː n ˌ eɪ dʒ
-teenager; t ˈ iː n ˌ eɪ dʒ ə
-teenagers; t ˈ iː n ˌ eɪ dʒ ə z
+teenage; t ˈ iː n ˌ eɪ d͡ʒ
+teenager; t ˈ iː n ˌ eɪ d͡ʒ ə
+teenagers; t ˈ iː n ˌ eɪ d͡ʒ ə z
 teens; t ˈ iː n z
 tees; t ˈ iː z
 teeth; t ˈ iː θ
@@ -14393,10 +14393,10 @@ tells; t ˈ ɛ l z
 telly; t ˈ ɛ l i
 temp; t ˈ ɛ m p
 temper; t ˈ ɛ m p ə
-temperature; t ˈ ɛ m p ɹ ə tʃ ə
-temperature; t ˈ ɛ m p ə ɹ ə tʃ ə
-temperatures; t ˈ ɛ m p ɹ ə tʃ ə z
-temperatures; t ˈ ɛ m p ə ɹ ə tʃ ə z
+temperature; t ˈ ɛ m p ɹ ə t͡ʃ ə
+temperature; t ˈ ɛ m p ə ɹ ə t͡ʃ ə
+temperatures; t ˈ ɛ m p ɹ ə t͡ʃ ə z
+temperatures; t ˈ ɛ m p ə ɹ ə t͡ʃ ə z
 template; t ˈ ɛ m p l eɪ t
 template; t ˈ ɛ m p l ɪ t
 templates; t ˈ ɛ m p l eɪ t s
@@ -14441,7 +14441,7 @@ terminal; t ˈ ɜː m ɪ n ə l
 terminals; t ˈ ɜː m ɪ n ə l z
 terminate; t ˈ ɜː m ɪ n ˌ eɪ t
 termination; t ˌ ɜː m ɪ n ˈ eɪ ʃ ə n
-terminology; t ˌ ɜː m ɪ n ˈ ɒ l ə dʒ i
+terminology; t ˌ ɜː m ɪ n ˈ ɒ l ə d͡ʒ i
 terms; t ˈ ɜː m z
 tern; t ˈ ɜː n
 terrace; t ˈ ɛ ɹ ə s
@@ -14481,7 +14481,7 @@ textbooks; t ˈ ɛ k s t b ˌ ʊ k s
 textile; t ˈ ɛ k s t ˌ aɪ l
 textiles; t ˈ ɛ k s t ˌ aɪ l z
 texts; t ˈ ɛ k s t s
-texture; t ˈ ɛ k s tʃ ə
+texture; t ˈ ɛ k s t͡ʃ ə
 thai; t ˈ aɪ
 thailand; t ˈ aɪ l ˌ æ n d
 thames; t ˈ ɛ m z
@@ -14493,7 +14493,7 @@ thanksgiving; θ ˈ æ ŋ k s g ˌ ɪ v ɪ ŋ
 thankyou; θ ˈ æ ŋ k j uː
 that; ð ə t
 that; ð ˈ æ t
-thatcher; θ ˈ æ tʃ ə
+thatcher; θ ˈ æ t͡ʃ ə
 thaw; θ ˈ ɔː
 the; ð ə
 the; ð i
@@ -14513,7 +14513,7 @@ themes; θ ˈ iː m z
 themselves; ð ə m s ˈ ɛ l v z
 themselves; ð ɛ m s ˈ ɛ l v z
 then; ð ˈ ɛ n
-theology; θ ɪ ˈ ɒ l ə dʒ i
+theology; θ ɪ ˈ ɒ l ə d͡ʒ i
 theorem; θ ˈ ɪə ɹ ə m
 theoretical; θ ɪə ɹ ˈ ɛ t ɪ k ə l
 theories; θ ˈ ɪə ɹ i z
@@ -14670,7 +14670,7 @@ timmy; t ˈ ɪ m i
 timothy; t ˈ ɪ m ə θ i
 tin; t ˈ ɪ n
 tina; t ˈ iː n ə
-tinge; t ˈ ɪ n dʒ
+tinge; t ˈ ɪ n d͡ʒ
 tins; t ˈ ɪ n z
 tint; t ˈ ɪ n t
 tiny; t ˈ aɪ n i
@@ -14758,7 +14758,7 @@ topic; t ˈ ɒ p ɪ k
 topics; t ˈ ɒ p ɪ k s
 topless; t ˈ ɒ p l ɪ s
 tops; t ˈ ɒ p s
-torch; t ˈ ɔː tʃ
+torch; t ˈ ɔː t͡ʃ
 tore; t ˈ ɔː
 torfaen; t ˈ ɔː v ˌ æ n
 tories; t ˈ ɔː ɹ i z
@@ -14771,7 +14771,7 @@ torque; t ˈ ɔː k
 torrent; t ˈ ɒ ɹ ə n t
 torso; t ˈ ɔː s əʊ
 tortoise; t ˈ ɔː t ə s
-torture; t ˈ ɔː tʃ ə
+torture; t ˈ ɔː t͡ʃ ə
 tory; t ˈ ɔː ɹ i
 toshiba; t əʊ ʃ ˈ iː b ə
 toss; t ˈ ɒ s
@@ -14782,9 +14782,9 @@ totals; t ˈ əʊ t ə l z
 tote; t ˈ əʊ t
 tottenham; t ˈ ɒ t n ə m
 tottenham; t ˈ ɒ t ə n ə m
-touch; t ˈ ʌ tʃ
-touched; t ˈ ʌ tʃ t
-touching; t ˈ ʌ tʃ ɪ ŋ
+touch; t ˈ ʌ t͡ʃ
+touched; t ˈ ʌ t͡ʃ t
+touching; t ˈ ʌ t͡ʃ ɪ ŋ
 tough; t ˈ ʌ f
 tour; t ˈ ʊə
 touring; t ˈ ʊə ɹ ɪ ŋ
@@ -14839,8 +14839,8 @@ traditionally; t ɹ ə d ˈ ɪ ʃ n ə l i
 traditionally; t ɹ ə d ˈ ɪ ʃ ə n ə l i
 traditions; t ɹ ə d ˈ ɪ ʃ ə n z
 traffic; t ɹ ˈ æ f ɪ k
-tragedy; t ɹ ˈ æ dʒ ɪ d i
-tragic; t ɹ ˈ æ dʒ ɪ k
+tragedy; t ɹ ˈ æ d͡ʒ ɪ d i
+tragic; t ɹ ˈ æ d͡ʒ ɪ k
 trail; t ɹ ˈ eɪ l
 trailer; t ɹ ˈ eɪ l ə
 trailers; t ɹ ˈ eɪ l ə z
@@ -14854,7 +14854,7 @@ training; t ɹ ˈ eɪ n ɪ ŋ
 trains; t ɹ ˈ eɪ n z
 trait; t ɹ ˈ eɪ t
 traitor; t ɹ ˈ eɪ t ə
-trajectory; t ɹ ə dʒ ˈ ɛ k t ə ɹ i
+trajectory; t ɹ ə d͡ʒ ˈ ɛ k t ə ɹ i
 tram; t ɹ ˈ æ m
 tramp; t ɹ ˈ æ m p
 trance; t ɹ ˈ ɑː n s
@@ -14938,7 +14938,7 @@ trees; t ɹ ˈ iː z
 trek; t ɹ ˈ ɛ k
 tremble; t ɹ ˈ ɛ m b ə l
 tremendous; t ɹ ɪ m ˈ ɛ n d ə s
-trench; t ɹ ˈ ɛ n tʃ
+trench; t ɹ ˈ ɛ n t͡ʃ
 trend; t ɹ ˈ ɛ n d
 trends; t ɹ ˈ ɛ n d z
 trent; t ɹ ˈ ɛ n t
@@ -15091,7 +15091,7 @@ twirl; t w ˈ ɜː l
 twist; t w ˈ ɪ s t
 twisted; t w ˈ ɪ s t ɪ d
 twit; t w ˈ ɪ t
-twitch; t w ˈ ɪ tʃ
+twitch; t w ˈ ɪ t͡ʃ
 twitter; t w ˈ ɪ t ə
 two; t ˈ uː
 twos; t ˈ uː z
@@ -15134,7 +15134,7 @@ unaware; ˌ ʌ n ə w ˈ ɛə
 unbelievable; ˌ ʌ n b ə l ˈ iː v ə b ə l
 uncertain; ʌ n s ˈ ɜː t ə n
 uncertainty; ʌ n s ˈ ɜː t ə n t i
-unchanged; ʌ n tʃ ˈ eɪ n dʒ d
+unchanged; ʌ n t͡ʃ ˈ eɪ n d͡ʒ d
 uncle; ˈ ʌ ŋ k ə l
 unclear; ʌ n k l ˈ ɪə
 uncomfortable; ʌ n k ˈ ʌ m f ə t ə b ə l
@@ -15178,14 +15178,14 @@ unfair; ʌ n f ˈ ɛə
 unfamiliar; ˌ ʌ n f ə m ˈ ɪ l j ə
 unfit; ʌ n f ˈ ɪ t
 unfold; ʌ n f ˈ əʊ l d
-unfortunate; ʌ n f ˈ ɔː tʃ ə n ɪ t
-unfortunately; ʌ n f ˈ ɔː tʃ ə n ɪ t l i
+unfortunate; ʌ n f ˈ ɔː t͡ʃ ə n ɪ t
+unfortunately; ʌ n f ˈ ɔː t͡ʃ ə n ɪ t l i
 unhappy; ʌ n h ˈ æ p i
 uni; j ˈ uː n i
 unified; j ˈ uː n ɪ f ˌ aɪ d
 uniform; j ˈ uː n ɪ f ˌ ɔː m
 unify; j ˈ uː n ɪ f ˌ aɪ
-unintelligible; ˌ ʌ n ɪ n t ˈ ɛ l ɪ dʒ ɪ b ə l
+unintelligible; ˌ ʌ n ɪ n t ˈ ɛ l ɪ d͡ʒ ɪ b ə l
 union; j ˈ uː n j ə n
 unionist; j ˈ uː n j ə n ɪ s t
 unionists; j ˈ uː n j ə n ɪ s t s
@@ -15230,7 +15230,7 @@ unsure; ʌ n ʃ ˈ ɔː
 until; ʌ n t ˈ ɪ l
 untitled; ʌ n t ˈ aɪ t ə l d
 unto; ˈ ʌ n t uː
-untouched; ʌ n t ˈ ʌ tʃ t
+untouched; ʌ n t ˈ ʌ t͡ʃ t
 untrue; ʌ n t ɹ ˈ uː
 untruth; ʌ n t ɹ ˈ uː θ
 unused; ʌ n j ˈ uː z d
@@ -15272,18 +15272,18 @@ uranium; j ʊ ɹ ˈ eɪ n ɪə m
 uranus; j ʊ ɹ ˈ eɪ n ə s
 uranus; j ˈ ʊ ɹ ə n ə s
 urban; ˈ ɜː b ə n
-urge; ˈ ɜː dʒ
-urged; ˈ ɜː dʒ d
-urgency; ˈ ɜː dʒ ə n s i
-urgent; ˈ ɜː dʒ ə n t
-urgently; ˈ ɜː dʒ ə n t l i
+urge; ˈ ɜː d͡ʒ
+urged; ˈ ɜː d͡ʒ d
+urgency; ˈ ɜː d͡ʒ ə n s i
+urgent; ˈ ɜː d͡ʒ ə n t
+urgently; ˈ ɜː d͡ʒ ə n t l i
 urine; j ˈ ʊə ɹ ɪ n
 urine; j ˈ ʊə ɹ aɪ n
 urn; ˈ ɜː n
 uruguay; j ˈ ʊə ɹ ə g w ˌ aɪ
 us; ˈ ʌ s
 usability; j ˌ uː z ə b ˈ ɪ l ɪ t i
-usage; j ˈ uː s ɪ dʒ
+usage; j ˈ uː s ɪ d͡ʒ
 use; j ˈ uː s
 use; j ˈ uː z
 used; j ˈ uː z d
@@ -15323,7 +15323,7 @@ vacations; v ə k ˈ eɪ ʃ ə n z
 vaccination; v ˌ æ k s ɪ n ˈ eɪ ʃ ə n
 vaccine; v ˈ æ k s iː n
 vacuum; v ˈ æ k j uː m
-vagina; v ə dʒ ˈ aɪ n ə
+vagina; v ə d͡ʒ ˈ aɪ n ə
 vague; v ˈ eɪ g
 vaguely; v ˈ eɪ g l i
 vain; v ˈ eɪ n
@@ -15381,13 +15381,13 @@ vector; v ˈ ɛ k t ə
 vee; v ˈ iː
 veer; v ˈ ɪə
 vees; v ˈ iː z
-veg; v ˈ ɛ dʒ
+veg; v ˈ ɛ d͡ʒ
 vegan; v ˈ iː g ə n
 vegas; v ˈ eɪ g ə s
-vegetable; v ˈ ɛ dʒ t ə b ə l
-vegetables; v ˈ ɛ dʒ t ə b ə l z
-vegetarian; v ˌ ɛ dʒ ɪ t ˈ ɛə ɹ ɪə n
-vegetation; v ˌ ɛ dʒ ɪ t ˈ eɪ ʃ ə n
+vegetable; v ˈ ɛ d͡ʒ t ə b ə l
+vegetables; v ˈ ɛ d͡ʒ t ə b ə l z
+vegetarian; v ˌ ɛ d͡ʒ ɪ t ˈ ɛə ɹ ɪə n
+vegetation; v ˌ ɛ d͡ʒ ɪ t ˈ eɪ ʃ ə n
 vehicle; v ˈ iː ɪ k ə l
 vehicles; v ˈ iː ɪ k ə l z
 veil; v ˈ eɪ l
@@ -15399,12 +15399,12 @@ vendor; v ˈ ɛ n d ə
 vendors; v ˈ ɛ n d ə z
 veneer; v ɪ n ˈ ɪə
 venezuela; v ˌ ɛ n ɪ z w ˈ eɪ l ə
-vengeance; v ˈ ɛ n dʒ ə n s
+vengeance; v ˈ ɛ n d͡ʒ ə n s
 venice; v ˈ ɛ n ɪ s
 venom; v ˈ ɛ n ə m
 vent; v ˈ ɛ n t
-venture; v ˈ ɛ n tʃ ə
-ventures; v ˈ ɛ n tʃ ə z
+venture; v ˈ ɛ n t͡ʃ ə
+ventures; v ˈ ɛ n t͡ʃ ə z
 venue; v ˈ ɛ n j uː
 venues; v ˈ ɛ n uː z
 venus; v ˈ iː n ə s
@@ -15412,10 +15412,10 @@ vera; v ˈ ɪə ɹ ə
 verb; v ˈ ɜː b
 verbal; v ˈ ɜː b ə l
 verbatim; v ɜː b ˈ eɪ t ɪ m
-verbiage; v ˈ ɜː b ɪ ɪ dʒ
+verbiage; v ˈ ɜː b ɪ ɪ d͡ʒ
 verbs; v ˈ ɜː b z
 verdict; v ˈ ɜː d ɪ k t
-verge; v ˈ ɜː dʒ
+verge; v ˈ ɜː d͡ʒ
 verification; v ˌ ɛ ɹ ɪ f ɪ k ˈ eɪ ʃ ə n
 verified; v ˈ ɛ ɹ ɪ f ˌ aɪ d
 verify; v ˈ ɛ ɹ ɪ f ˌ aɪ
@@ -15479,18 +15479,18 @@ viewers; v j ˈ uː ə z
 viewing; v j ˈ uː ɪ ŋ
 viewpoint; v j ˈ uː p ˌ ɔɪ n t
 views; v j ˈ uː z
-vigil; v ˈ ɪ dʒ ɪ l
-vigilant; v ˈ ɪ dʒ ɪ l ə n t
-vigilante; v ˌ ɪ dʒ ɪ l ˈ æ n t i
+vigil; v ˈ ɪ d͡ʒ ɪ l
+vigilant; v ˈ ɪ d͡ʒ ɪ l ə n t
+vigilante; v ˌ ɪ d͡ʒ ɪ l ˈ æ n t i
 vigorous; v ˈ ɪ g ə ɹ ə s
 vigorously; v ˈ ɪ g ə ɹ ə s l i
 vigour; v ˈ ɪ g ə
 viking; v ˈ aɪ k ɪ ŋ
 vile; v ˈ aɪ l
 villa; v ˈ ɪ l ə
-village; v ˈ ɪ l ɪ dʒ
-villagers; v ˈ ɪ l ɪ dʒ ə z
-villages; v ˈ ɪ l ɪ dʒ ɪ z
+village; v ˈ ɪ l ɪ d͡ʒ
+villagers; v ˈ ɪ l ɪ d͡ʒ ə z
+villages; v ˈ ɪ l ɪ d͡ʒ ɪ z
 villas; v ˈ ɪ l ə z
 vilnius; v ˈ ɪ l n ɪə s
 vilnius; v ˈ ɪ l n ɪ ʊ s
@@ -15498,7 +15498,7 @@ vim; v ˈ ɪ m
 vincent; v ˈ ɪ n s ə n t
 vine; v ˈ aɪ n
 vinegar; v ˈ ɪ n ɪ g ə
-vintage; v ˈ ɪ n t ɪ dʒ
+vintage; v ˈ ɪ n t ɪ d͡ʒ
 vinyl; v ˈ aɪ n ə l
 violation; v aɪ ə l ˈ eɪ ʃ ə n
 violations; v aɪ ə l ˈ eɪ ʃ ə n z
@@ -15509,11 +15509,11 @@ violently; v ˈ aɪ ə l ə n t l i
 violet; v ˈ aɪ ə l ɪ t
 violin; v aɪ ə l ˈ ɪ n
 viral; v ˈ aɪ ɹ ə l
-virgin; v ˈ ɜː dʒ ɪ n
-virginia; v ə dʒ ˈ ɪ n j ə
-virtual; v ˈ ɜː tʃ ʊə l
-virtually; v ˈ ɜː tʃ ʊə l i
-virtue; v ˈ ɜː tʃ uː
+virgin; v ˈ ɜː d͡ʒ ɪ n
+virginia; v ə d͡ʒ ˈ ɪ n j ə
+virtual; v ˈ ɜː t͡ʃ ʊə l
+virtually; v ˈ ɜː t͡ʃ ʊə l i
+virtue; v ˈ ɜː t͡ʃ uː
 virus; v ˈ aɪ ɹ ə s
 viruses; v ˈ aɪ ɹ ə s ɪ z
 visa; v ˈ iː z ə
@@ -15556,7 +15556,7 @@ volkswagen; v ˈ əʊ l k s w ˌ æ g ə n
 volleyball; v ˈ ɒ l iː b ˌ ɔː l
 volt; v ˈ əʊ l t
 volt; v ˈ ɒ l t
-voltage; v ˈ əʊ l t ɪ dʒ
+voltage; v ˈ əʊ l t ɪ d͡ʒ
 volume; v ˈ ɒ l j uː m
 volumes; v ˈ ɒ l j uː m z
 voluntary; v ˈ ɒ l ə n t ə ɹ i
@@ -15571,14 +15571,14 @@ voter; v ˈ əʊ t ə
 voters; v ˈ əʊ t ə z
 votes; v ˈ əʊ t s
 voting; v ˈ əʊ t ɪ ŋ
-vouch; v ˈ aʊ tʃ
-voucher; v ˈ aʊ tʃ ə
-vouchers; v ˈ aʊ tʃ ə z
+vouch; v ˈ aʊ t͡ʃ
+voucher; v ˈ aʊ t͡ʃ ə
+vouchers; v ˈ aʊ t͡ʃ ə z
 vow; v ˈ aʊ
 vowel; v ˈ aʊ ə l
 vowels; v ˈ aʊ ə l z
-voyage; v ˈ ɔɪ ɪ dʒ
-voyager; v ˈ ɔɪ ɪ dʒ ə
+voyage; v ˈ ɔɪ ɪ d͡ʒ
+voyager; v ˈ ɔɪ ɪ d͡ʒ ə
 voyeur; v w aɪ ˈ ɜː
 voyeur; v ɔɪ ˈ ɜː
 vulgar; v ˈ ʌ l g ə
@@ -15592,9 +15592,9 @@ wafer; w ˈ eɪ f ə
 waffle; w ˈ ɒ f ə l
 waft; w ˈ ɒ f t
 wag; w ˈ æ g
-wage; w ˈ eɪ dʒ
-wager; w ˈ eɪ dʒ ə
-wages; w ˈ eɪ dʒ ɪ z
+wage; w ˈ eɪ d͡ʒ
+wager; w ˈ eɪ d͡ʒ ə
+wages; w ˈ eɪ d͡ʒ ɪ z
 wagging; w ˈ æ g ɪ ŋ
 wagon; w ˈ æ g ə n
 wail; w ˈ eɪ l
@@ -15691,10 +15691,10 @@ wasp; w ˈ ɒ s p
 waste; w ˈ eɪ s t
 wasted; w ˈ eɪ s t ɪ d
 wasting; w ˈ eɪ s t ɪ ŋ
-watch; w ˈ ɒ tʃ
-watched; w ˈ ɒ tʃ t
-watches; w ˈ ɒ tʃ ɪ z
-watching; w ˈ ɒ tʃ ɪ ŋ
+watch; w ˈ ɒ t͡ʃ
+watched; w ˈ ɒ t͡ʃ t
+watches; w ˈ ɒ t͡ʃ ɪ z
+watching; w ˈ ɒ t͡ʃ ɪ ŋ
 water; w ˈ ɔː t ə
 watercraft; w ˈ ɔː t ə k ɹ ˌ ɑː f t
 watermelon; w ˈ ɔː t ə m ˌ ɛ l ə n
@@ -15742,14 +15742,14 @@ webcams; w ˈ ɛ b k æ m z
 webcast; w ˈ ɛ b k ˌ ɑː s t
 webmaster; w ˈ ɛ b m ˌ ɑː s t ə
 webmasters; w ˈ ɛ b m ˌ ɑː s t ə z
-webpage; w ˈ ɛ b p ˌ eɪ dʒ
+webpage; w ˈ ɛ b p ˌ eɪ d͡ʒ
 website; w ˈ ɛ b s ˌ aɪ t
 websites; w ˈ ɛ b s ˌ aɪ t s
 wed; w ˈ ɛ d
 wedded; w ˈ ɛ d ɪ d
 wedding; w ˈ ɛ d ɪ ŋ
 weddings; w ˈ ɛ d ɪ ŋ z
-wedge; w ˈ ɛ dʒ
+wedge; w ˈ ɛ d͡ʒ
 wednesday; w ˈ ɛ n z d i
 wednesday; w ˈ ɛ n z d ˌ eɪ
 wednesdays; w ˈ ɛ n z d i z
@@ -15805,7 +15805,7 @@ whatsoever; w ˌ ɒ t s əʊ ˈ ɛ v ə
 wheat; w ˈ iː t
 wheel; w ˈ iː l
 wheelbarrow; w ˈ iː l b ˌ æ ɹ əʊ
-wheelchair; w ˈ iː l tʃ ˌ ɛə
+wheelchair; w ˈ iː l t͡ʃ ˌ ɛə
 wheels; w ˈ iː l z
 whelk; w ˈ ɛ l k
 whelp; w ˈ ɛ l p
@@ -15821,15 +15821,15 @@ whet; w ˈ ɛ t
 whether; w ˈ ɛ ð ə
 whetted; w ˈ ɛ t ɪ d
 whey; w ˈ eɪ
-which; w ˈ ɪ tʃ
-whichever; w ɪ tʃ ˈ ɛ v ə
+which; w ˈ ɪ t͡ʃ
+whichever; w ɪ t͡ʃ ˈ ɛ v ə
 whiff; w ˈ ɪ f
 while; w ˈ aɪ l
 whilst; w ˈ aɪ l s t
 whim; w ˈ ɪ m
 whimpering; w ˈ ɪ m p ə ɹ ɪ ŋ
 whine; w ˈ aɪ n
-whinge; w ˈ ɪ n dʒ
+whinge; w ˈ ɪ n d͡ʒ
 whip; w ˈ ɪ p
 whir; w ˈ ɜː
 whirl; w ˈ ɜː l
@@ -15864,7 +15864,7 @@ whore; h ˈ ɔː
 whores; h ˈ ɔː z
 whose; h ˈ uː z
 why; w ˈ aɪ
-wichita; w ˈ ɪ tʃ ɪ t ˌ ɔː
+wichita; w ˈ ɪ t͡ʃ ɪ t ˌ ɔː
 wick; w ˈ ɪ k
 wicked; w ˈ ɪ k ɪ d
 wicket; w ˈ ɪ k ɪ t
@@ -15904,13 +15904,13 @@ willow; w ˈ ɪ l ˌ əʊ
 willy; w ˈ ɪ l i
 wilson; w ˈ ɪ l s ə n
 wilt; w ˈ ɪ l t
-wiltshire; w ˈ ɪ l tʃ ə
+wiltshire; w ˈ ɪ l t͡ʃ ə
 wimbledon; w ˈ ɪ m b ə l d ə n
 wimp; w ˈ ɪ m p
 win; w ˈ ɪ n
 wince; w ˈ ɪ n s
-winch; w ˈ ɪ n tʃ
-winchester; w ˈ ɪ n tʃ ɪ s t ə
+winch; w ˈ ɪ n t͡ʃ
+winchester; w ˈ ɪ n t͡ʃ ɪ s t ə
 wind; w ˈ ɪ n d
 wind; w ˈ aɪ n d
 winding; w ˈ aɪ n d ɪ ŋ
@@ -15949,7 +15949,7 @@ wishes; w ˈ ɪ ʃ ɪ z
 wishing; w ˈ ɪ ʃ ɪ ŋ
 wisp; w ˈ ɪ s p
 wit; w ˈ ɪ t
-witch; w ˈ ɪ tʃ
+witch; w ˈ ɪ t͡ʃ
 with; w ɪ ð
 with; w ɪ θ
 with; w ˈ ɪ ð
@@ -16063,7 +16063,7 @@ wreak; ɹ ˈ iː k
 wreck; ɹ ˈ ɛ k
 wrestle; ɹ ˈ ɛ s ə l
 wrestling; ɹ ˈ ɛ s l ɪ ŋ
-wretch; ɹ ˈ ɛ tʃ
+wretch; ɹ ˈ ɛ t͡ʃ
 wrexham; ɹ ˈ ɛ k s ə m
 wright; ɹ ˈ aɪ t
 wring; ɹ ˈ ɪ ŋ
@@ -16187,7 +16187,7 @@ zeppelin; z ˈ ɛ p ə l ɪ n
 zero; z ˈ ɪə ɹ əʊ
 zest; z ˈ ɛ s t
 zigzag; z ˈ ɪ g z ˌ æ g
-zilch; z ˈ ɪ l tʃ
+zilch; z ˈ ɪ l t͡ʃ
 zimbabwe; z ɪ m b ˈ ɑː b w eɪ
 zimbabwe; z ɪ m b ˈ ɑː b w i
 zinc; z ˈ ɪ ŋ k

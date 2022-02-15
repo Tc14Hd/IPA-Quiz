@@ -1,2 +1,2 @@
 British English; en-uk-questions.txt; en-uk-help.txt; Easy, 1000, Medium, 5000, Hard, 14000
-American English; en-us-questions.txt; en-us-help.txt; Easy, 10000, Medium, 50000, Hard, 15000, Very Hard, 50000
+American English; en-us-questions.txt; en-us-help.txt; Easy, 1000, Medium, 5000, Hard, 15000, Very Hard, 50000
