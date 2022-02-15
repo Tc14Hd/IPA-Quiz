@@ -89,9 +89,9 @@ async function getData() {
 
         for (let j = 0; j < difficultiesSplit.length; j += 2) {
 
-            difficultyName = difficultiesSplit[j];
-            difficultyValue = Number(difficultiesSplit[j + 1]);
-            Difficulties[i].push([difficultyName, difficultyValue])
+            let difficultyName = difficultiesSplit[j];
+            let difficultyValue = Number(difficultiesSplit[j + 1]);
+            Difficulties[i].push([difficultyName, difficultyValue]);
 
         }
 
