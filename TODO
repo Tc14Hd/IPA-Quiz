@@ -3,17 +3,19 @@ TODO
 ✔ sanitize input
 ✔ extended results
 ☐ readme
-☐ github pages
+✔ github pages
 ☐ navbar
   ☐ github link
   ☐ about
   ☐ how to play
   ☐ license
 ☐ favicon
-☐ python/js comments
+✔ js comments
+☐ python comments
+☐ exit button
 
 Future
 ☐ better frequency list
 ☐ better transcriptions
 ☐ other languages
-☐ difficulty select
+✔ difficulty select

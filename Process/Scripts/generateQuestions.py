@@ -1,5 +1,5 @@
 # read frequency list
-fileFrequency = open("../Raw/word-frequency.txt")
+fileFrequency = open("../Raw/word-frequency1.txt", "r")
 frequencyList = fileFrequency.readlines()
 fileFrequency.close()
 

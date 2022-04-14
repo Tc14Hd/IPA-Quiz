@@ -190,7 +190,7 @@ function newGame(questionsAmount, languageIndex, difficultyLevel) {
 
     while (QuestionIndices.length < Math.min(questionsAmount, difficultyValue)) {
         let i = Math.floor(Math.random() * difficultyValue);
-        if (QuestionIndices.indexOf(i) == -1) {
+        if (QuestionIndices.indexOf(i) === -1) {
             QuestionIndices.push(i);
         }
     }
@@ -276,7 +276,7 @@ function check() {
     answer = answer.trim();
     answer = answer.toLowerCase();
 
-    if (answer == "") return;
+    if (answer === "") return;
 
     // Get current question
     let questionIndex = QuestionIndices[QuestionNumber];
@@ -296,7 +296,7 @@ function check() {
         solutionText += word;
 
         // Check if answer matches solution
-        if (answer == word.toLowerCase()) {
+        if (answer === word.toLowerCase()) {
             correct = true;
         }
     }
